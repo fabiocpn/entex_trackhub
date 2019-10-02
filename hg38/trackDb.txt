@@ -1,4 +1,4 @@
-track Chromatin - ATAC
+track something
 compositeTrack on
 type bigWig
 longLabel Collection of ENCODE Histone ChIP-seq experiments
