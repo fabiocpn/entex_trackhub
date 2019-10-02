@@ -18,7 +18,7 @@ dimensionAchecked pool
     parent hist on
     view fFCOC
     type bigWig
-    visibility full
+    visibility dense
     viewLimits 0:10
     autoScale off
     maxHeightPixels 64:18:8
@@ -64,12 +64,44 @@ dimensionAchecked pool
         altColor 214,79,79
         subGroups BS=transverse_colon EXP=ENCSR761TKU TARG=OC view=fFCOC
 
+
+    track DNAse_fFCOC_view
+    parent hist on
+    view fFCOC
+    type bigWig
+    visibility dense
+    viewLimits 0:10
+    autoScale off
+    maxHeightPixels 64:18:8
+    windowingFunction mean+whiskers
+
         track ENCSR923JYH
         parent hist_fFCOC_view on
         bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/093556df-70a5-4d9f-869d-25c0922d1dc3/ENCFF624FJD.bigWig
         longLabel H3K4me1 Histone ChIP-seq of tibial artery fold change over control rep1 ENCSR000SNM - ENCFF748JIG
-        shortLabel 04_DNAse_TC
+        shortLabel 01_DNAse_TC
         type bigWig
         color 214,0,0
         altColor 214,79,79
         subGroups BS=transverse_colon EXP=ENCSR923JYH TARG=OC view=fFCOC
+
+        track ENCSR760QZM
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/09/10/a8b3d6b1-8c0f-4bb1-8789-cbcc8f010fc9/ENCFF950KRY.bigWig
+        longLabel H3K4me1 Histone ChIP-seq of tibial artery fold change over control rep1 ENCSR000SNM - ENCFF748JIG
+        shortLabel 02_DNAse_TC
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR760QZM TARG=OC view=fFCOC
+
+        track ENCSR504WYA
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/033fac20-6b2a-4222-8d59-22a230a62824/ENCFF413EKZ.bigWig
+        longLabel H3K4me1 Histone ChIP-seq of tibial artery fold change over control rep1 ENCSR000SNM - ENCFF748JIG
+        shortLabel 03_DNAse_TC
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR504WYA TARG=OC view=fFCOC
+
