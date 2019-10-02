@@ -1,3 +1,4 @@
+
 track ENC003
 compositeTrack on
 type bigWig
@@ -9,9 +10,10 @@ html HIST
 subGroup1 view Views ENC003ATAC-seq=ENC003ATAC-seq ENC001ATAC-seq=ENC001ATAC-seq ENC004ATAC-seq=ENC004ATAC-seq ENC002ATAC-seq=ENC002ATAC-seq ENC003Control_ChIP-seq_Control=ENC003Control_ChIP-seq_Control ENC001Control_ChIP-seq_Control=ENC001Control_ChIP-seq_Control ENC004Control_ChIP-seq_Control=ENC004Control_ChIP-seq_Control ENC002Control_ChIP-seq_Control=ENC002Control_ChIP-seq_Control ENC003DNAme_array=ENC003DNAme_array ENC001DNAme_array=ENC001DNAme_array ENC004DNAme_array=ENC004DNAme_array ENC002DNAme_array=ENC002DNAme_array ENC003DNase-seq=ENC003DNase-seq ENC001DNase-seq=ENC001DNase-seq ENC004DNase-seq=ENC004DNase-seq ENC002DNase-seq=ENC002DNase-seq ENC003Histone_ChIP-seq_H3K4me1=ENC003Histone_ChIP-seq_H3K4me1 ENC001Histone_ChIP-seq_H3K4me1=ENC001Histone_ChIP-seq_H3K4me1 ENC004Histone_ChIP-seq_H3K4me1=ENC004Histone_ChIP-seq_H3K4me1 ENC002Histone_ChIP-seq_H3K4me1=ENC002Histone_ChIP-seq_H3K4me1 ENC003Histone_ChIP-seq_H3K4me3=ENC003Histone_ChIP-seq_H3K4me3 ENC001Histone_ChIP-seq_H3K4me3=ENC001Histone_ChIP-seq_H3K4me3 ENC004Histone_ChIP-seq_H3K4me3=ENC004Histone_ChIP-seq_H3K4me3 ENC002Histone_ChIP-seq_H3K4me3=ENC002Histone_ChIP-seq_H3K4me3 ENC003Histone_ChIP-seq_H3K9me3=ENC003Histone_ChIP-seq_H3K9me3 ENC001Histone_ChIP-seq_H3K9me3=ENC001Histone_ChIP-seq_H3K9me3 ENC004Histone_ChIP-seq_H3K9me3=ENC004Histone_ChIP-seq_H3K9me3 ENC002Histone_ChIP-seq_H3K9me3=ENC002Histone_ChIP-seq_H3K9me3 ENC003Histone_ChIP-seq_H3K27ac=ENC003Histone_ChIP-seq_H3K27ac ENC001Histone_ChIP-seq_H3K27ac=ENC001Histone_ChIP-seq_H3K27ac ENC004Histone_ChIP-seq_H3K27ac=ENC004Histone_ChIP-seq_H3K27ac ENC002Histone_ChIP-seq_H3K27ac=ENC002Histone_ChIP-seq_H3K27ac ENC003Histone_ChIP-seq_H3K27me3=ENC003Histone_ChIP-seq_H3K27me3 ENC001Histone_ChIP-seq_H3K27me3=ENC001Histone_ChIP-seq_H3K27me3 ENC004Histone_ChIP-seq_H3K27me3=ENC004Histone_ChIP-seq_H3K27me3 ENC002Histone_ChIP-seq_H3K27me3=ENC002Histone_ChIP-seq_H3K27me3 ENC003Histone_ChIP-seq_H3K36me3=ENC003Histone_ChIP-seq_H3K36me3 ENC001Histone_ChIP-seq_H3K36me3=ENC001Histone_ChIP-seq_H3K36me3 ENC004Histone_ChIP-seq_H3K36me3=ENC004Histone_ChIP-seq_H3K36me3 ENC002Histone_ChIP-seq_H3K36me3=ENC002Histone_ChIP-seq_H3K36me3 ENC003Hi-C=ENC003Hi-C ENC001Hi-C=ENC001Hi-C ENC004Hi-C=ENC004Hi-C ENC002Hi-C=ENC002Hi-C ENC003RAMPAGE=ENC003RAMPAGE ENC001RAMPAGE=ENC001RAMPAGE ENC004RAMPAGE=ENC004RAMPAGE ENC002RAMPAGE=ENC002RAMPAGE ENC003TF_ChIP-seq_CTCF=ENC003TF_ChIP-seq_CTCF ENC001TF_ChIP-seq_CTCF=ENC001TF_ChIP-seq_CTCF ENC004TF_ChIP-seq_CTCF=ENC004TF_ChIP-seq_CTCF ENC002TF_ChIP-seq_CTCF=ENC002TF_ChIP-seq_CTCF ENC003TF_ChIP-seq_EP300=ENC003TF_ChIP-seq_EP300 ENC001TF_ChIP-seq_EP300=ENC001TF_ChIP-seq_EP300 ENC004TF_ChIP-seq_EP300=ENC004TF_ChIP-seq_EP300 ENC002TF_ChIP-seq_EP300=ENC002TF_ChIP-seq_EP300 ENC003TF_ChIP-seq_POLR2A=ENC003TF_ChIP-seq_POLR2A ENC001TF_ChIP-seq_POLR2A=ENC001TF_ChIP-seq_POLR2A ENC004TF_ChIP-seq_POLR2A=ENC004TF_ChIP-seq_POLR2A ENC002TF_ChIP-seq_POLR2A=ENC002TF_ChIP-seq_POLR2A ENC003TF_ChIP-seq_POLR2AphosphoS5=ENC003TF_ChIP-seq_POLR2AphosphoS5 ENC001TF_ChIP-seq_POLR2AphosphoS5=ENC001TF_ChIP-seq_POLR2AphosphoS5 ENC004TF_ChIP-seq_POLR2AphosphoS5=ENC004TF_ChIP-seq_POLR2AphosphoS5 ENC002TF_ChIP-seq_POLR2AphosphoS5=ENC002TF_ChIP-seq_POLR2AphosphoS5 ENC003WGBS=ENC003WGBS ENC001WGBS=ENC001WGBS ENC004WGBS=ENC004WGBS ENC002WGBS=ENC002WGBS ENC003eCLIP_DGCR8=ENC003eCLIP_DGCR8 ENC001eCLIP_DGCR8=ENC001eCLIP_DGCR8 ENC004eCLIP_DGCR8=ENC004eCLIP_DGCR8 ENC002eCLIP_DGCR8=ENC002eCLIP_DGCR8 ENC003eCLIP_DGCR8_eCLIP_mock_input=ENC003eCLIP_DGCR8_eCLIP_mock_input ENC001eCLIP_DGCR8_eCLIP_mock_input=ENC001eCLIP_DGCR8_eCLIP_mock_input ENC004eCLIP_DGCR8_eCLIP_mock_input=ENC004eCLIP_DGCR8_eCLIP_mock_input ENC002eCLIP_DGCR8_eCLIP_mock_input=ENC002eCLIP_DGCR8_eCLIP_mock_input ENC003eCLIP_HNRNPU=ENC003eCLIP_HNRNPU ENC001eCLIP_HNRNPU=ENC001eCLIP_HNRNPU ENC004eCLIP_HNRNPU=ENC004eCLIP_HNRNPU ENC002eCLIP_HNRNPU=ENC002eCLIP_HNRNPU ENC003eCLIP_HNRNPU_eCLIP_mock_input=ENC003eCLIP_HNRNPU_eCLIP_mock_input ENC001eCLIP_HNRNPU_eCLIP_mock_input=ENC001eCLIP_HNRNPU_eCLIP_mock_input ENC004eCLIP_HNRNPU_eCLIP_mock_input=ENC004eCLIP_HNRNPU_eCLIP_mock_input ENC002eCLIP_HNRNPU_eCLIP_mock_input=ENC002eCLIP_HNRNPU_eCLIP_mock_input ENC003genotyping_HTS=ENC003genotyping_HTS ENC001genotyping_HTS=ENC001genotyping_HTS ENC004genotyping_HTS=ENC004genotyping_HTS ENC002genotyping_HTS=ENC002genotyping_HTS ENC003genotyping_array=ENC003genotyping_array ENC001genotyping_array=ENC001genotyping_array ENC004genotyping_array=ENC004genotyping_array ENC002genotyping_array=ENC002genotyping_array ENC003long_read_RNA-seq=ENC003long_read_RNA-seq ENC001long_read_RNA-seq=ENC001long_read_RNA-seq ENC004long_read_RNA-seq=ENC004long_read_RNA-seq ENC002long_read_RNA-seq=ENC002long_read_RNA-seq ENC003microRNA_counts=ENC003microRNA_counts ENC001microRNA_counts=ENC001microRNA_counts ENC004microRNA_counts=ENC004microRNA_counts ENC002microRNA_counts=ENC002microRNA_counts ENC003microRNA-seq=ENC003microRNA-seq ENC001microRNA-seq=ENC001microRNA-seq ENC004microRNA-seq=ENC004microRNA-seq ENC002microRNA-seq=ENC002microRNA-seq ENC003small_RNA-seq=ENC003small_RNA-seq ENC001small_RNA-seq=ENC001small_RNA-seq ENC004small_RNA-seq=ENC004small_RNA-seq ENC002small_RNA-seq=ENC002small_RNA-seq ENC003snATAC-seq=ENC003snATAC-seq ENC001snATAC-seq=ENC001snATAC-seq ENC004snATAC-seq=ENC004snATAC-seq ENC002snATAC-seq=ENC002snATAC-seq ENC003total_RNA-seq=ENC003total_RNA-seq ENC001total_RNA-seq=ENC001total_RNA-seq ENC004total_RNA-seq=ENC004total_RNA-seq ENC002total_RNA-seq=ENC002total_RNA-seq 
 subGroup2 BS Biosample Peyers_patch=Peyers_patch adrenal_gland=adrenal_gland body_of_pancreas=body_of_pancreas breast_epithelium=breast_epithelium coronary_artery=coronary_artery esophagus_muscularis_mucosa=esophagus_muscularis_mucosa esophagus_squamous_epithelium=esophagus_squamous_epithelium gastrocnemius_medialis=gastrocnemius_medialis gastroesophageal_sphincter=gastroesophageal_sphincter heart_left_ventricle=heart_left_ventricle omental_fat_pad=omental_fat_pad ovary=ovary prostate_gland=prostate_gland right_atrium_auricular_region=right_atrium_auricular_region right_lobe_of_liver=right_lobe_of_liver sigmoid_colon=sigmoid_colon spleen=spleen stomach=stomach subcutaneous_adipose_tissue=subcutaneous_adipose_tissue testis=testis thoracic_aorta=thoracic_aorta thyroid_gland=thyroid_gland tibial_artery=tibial_artery tibial_nerve=tibial_nerve transverse_colon=transverse_colon ascending_aorta=ascending_aorta lower_leg_skin=lower_leg_skin suprapubic_skin=suprapubic_skin upper_lobe_of_left_lung=upper_lobe_of_left_lung uterus=uterus vagina=vagina 
 subGroup3 IND Individuals ENC003=ENC003 ENC001=ENC001 ENC004=ENC004 ENC002=ENC002 
+subGroup4 assay Assay ATAC-seq=ATAC-seq Control_ChIP-seq_Control=Control_ChIP-seq_Control DNAme_array=DNAme_array DNase-seq=DNase-seq Histone_ChIP-seq_H3K4me1=Histone_ChIP-seq_H3K4me1 Histone_ChIP-seq_H3K4me3=Histone_ChIP-seq_H3K4me3 Histone_ChIP-seq_H3K9me3=Histone_ChIP-seq_H3K9me3 Histone_ChIP-seq_H3K27ac=Histone_ChIP-seq_H3K27ac Histone_ChIP-seq_H3K27me3=Histone_ChIP-seq_H3K27me3 Histone_ChIP-seq_H3K36me3=Histone_ChIP-seq_H3K36me3 Hi-C=Hi-C RAMPAGE=RAMPAGE TF_ChIP-seq_CTCF=TF_ChIP-seq_CTCF TF_ChIP-seq_EP300=TF_ChIP-seq_EP300 TF_ChIP-seq_POLR2A=TF_ChIP-seq_POLR2A TF_ChIP-seq_POLR2AphosphoS5=TF_ChIP-seq_POLR2AphosphoS5 WGBS=WGBS eCLIP_DGCR8=eCLIP_DGCR8 eCLIP_DGCR8_eCLIP_mock_input=eCLIP_DGCR8_eCLIP_mock_input eCLIP_HNRNPU=eCLIP_HNRNPU eCLIP_HNRNPU_eCLIP_mock_input=eCLIP_HNRNPU_eCLIP_mock_input genotyping_HTS=genotyping_HTS genotyping_array=genotyping_array long_read_RNA-seq=long_read_RNA-seq microRNA_counts=microRNA_counts microRNA-seq=microRNA-seq small_RNA-seq=small_RNA-seq snATAC-seq=snATAC-seq total_RNA-seq=total_RNA-seq 
 
 sortOrder BS=+ IND=+ view=+
-dimensions dimA=IND dimX=BS dimY=view
+dimensions dimA=IND dimX=BS dimY=assay
 dimensionAchecked pool
     track ENC003Histone_ChIP-seq_H3K4me1_view
     parent ENC003 on
@@ -29,7 +31,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR659RJP4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR659RJP4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
 
         track ENCSR659RJP1
         parent ENC003Histone_ChIP-seq_H3K4me1_view on
@@ -39,7 +41,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR659RJP1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR659RJP1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
 
         track ENCSR659RJP3
         parent ENC003Histone_ChIP-seq_H3K4me1_view on
@@ -49,7 +51,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR659RJP3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR659RJP3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
 
         track ENCSR659RJP2
         parent ENC003Histone_ChIP-seq_H3K4me1_view on
@@ -59,7 +61,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR659RJP2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR659RJP2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
 
     track ENC003Histone_ChIP-seq_H3K4me3_view
     parent ENC003 on
@@ -77,7 +79,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR197QDK2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR197QDK2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
 
         track ENCSR197QDK3
         parent ENC003Histone_ChIP-seq_H3K4me3_view on
@@ -87,7 +89,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR197QDK3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR197QDK3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
 
         track ENCSR197QDK1
         parent ENC003Histone_ChIP-seq_H3K4me3_view on
@@ -97,7 +99,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR197QDK1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR197QDK1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
 
         track ENCSR197QDK4
         parent ENC003Histone_ChIP-seq_H3K4me3_view on
@@ -107,7 +109,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR197QDK4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR197QDK4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
 
     track ENC003Histone_ChIP-seq_H3K9me3_view
     parent ENC003 on
@@ -125,7 +127,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR105URN2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR105URN2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
 
         track ENCSR105URN3
         parent ENC003Histone_ChIP-seq_H3K9me3_view on
@@ -135,7 +137,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR105URN3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR105URN3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
 
         track ENCSR105URN1
         parent ENC003Histone_ChIP-seq_H3K9me3_view on
@@ -145,7 +147,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR105URN1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR105URN1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
 
         track ENCSR105URN4
         parent ENC003Histone_ChIP-seq_H3K9me3_view on
@@ -155,7 +157,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR105URN4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR105URN4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
 
     track ENC003Histone_ChIP-seq_H3K27ac_view
     parent ENC003 on
@@ -173,7 +175,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR726HTS3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR726HTS3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
 
         track ENCSR726HTS2
         parent ENC003Histone_ChIP-seq_H3K27ac_view on
@@ -183,7 +185,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR726HTS2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR726HTS2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
 
         track ENCSR726HTS1
         parent ENC003Histone_ChIP-seq_H3K27ac_view on
@@ -193,7 +195,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR726HTS1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR726HTS1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
 
         track ENCSR726HTS4
         parent ENC003Histone_ChIP-seq_H3K27ac_view on
@@ -203,7 +205,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR726HTS4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR726HTS4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
 
     track ENC003Histone_ChIP-seq_H3K27me3_view
     parent ENC003 on
@@ -221,7 +223,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR161FEJ2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR161FEJ2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
 
         track ENCSR161FEJ3
         parent ENC003Histone_ChIP-seq_H3K27me3_view on
@@ -231,7 +233,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR161FEJ3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR161FEJ3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
 
         track ENCSR161FEJ1
         parent ENC003Histone_ChIP-seq_H3K27me3_view on
@@ -241,7 +243,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR161FEJ1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR161FEJ1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
 
         track ENCSR161FEJ4
         parent ENC003Histone_ChIP-seq_H3K27me3_view on
@@ -251,7 +253,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR161FEJ4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR161FEJ4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
 
     track ENC003Histone_ChIP-seq_H3K36me3_view
     parent ENC003 on
@@ -269,7 +271,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR589TCU4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR589TCU4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
 
         track ENCSR589TCU1
         parent ENC003Histone_ChIP-seq_H3K36me3_view on
@@ -279,7 +281,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR589TCU1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR589TCU1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
 
         track ENCSR589TCU3
         parent ENC003Histone_ChIP-seq_H3K36me3_view on
@@ -289,7 +291,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR589TCU3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR589TCU3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
 
         track ENCSR589TCU2
         parent ENC003Histone_ChIP-seq_H3K36me3_view on
@@ -299,7 +301,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR589TCU2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR589TCU2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
 
     track ENC003RAMPAGE_view
     parent ENC003 on
@@ -317,7 +319,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR236PTD1 IND=ENC003 view=ENC003RAMPAGE
+        subGroups BS=spleen EXP=ENCSR236PTD1 IND=ENC003 view=ENC003RAMPAGE assay=RAMPAGE
 
         track ENCSR236PTD2
         parent ENC003RAMPAGE_view on
@@ -327,7 +329,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR236PTD2 IND=ENC003 view=ENC003RAMPAGE
+        subGroups BS=spleen EXP=ENCSR236PTD2 IND=ENC003 view=ENC003RAMPAGE assay=RAMPAGE
 
     track ENC003TF_ChIP-seq_CTCF_view
     parent ENC003 on
@@ -345,7 +347,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR601FEB3 IND=ENC003 view=ENC003TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR601FEB3 IND=ENC003 view=ENC003TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
 
         track ENCSR601FEB2
         parent ENC003TF_ChIP-seq_CTCF_view on
@@ -355,7 +357,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR601FEB2 IND=ENC003 view=ENC003TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR601FEB2 IND=ENC003 view=ENC003TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
 
         track ENCSR601FEB1
         parent ENC003TF_ChIP-seq_CTCF_view on
@@ -365,7 +367,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR601FEB1 IND=ENC003 view=ENC003TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR601FEB1 IND=ENC003 view=ENC003TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
 
         track ENCSR692ILH1
         parent ENC003TF_ChIP-seq_CTCF_view on
@@ -375,7 +377,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR692ILH1 IND=ENC003 view=ENC003TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR692ILH1 IND=ENC003 view=ENC003TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
 
     track ENC003TF_ChIP-seq_POLR2A_view
     parent ENC003 on
@@ -393,7 +395,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR289VTP1 IND=ENC003 view=ENC003TF_ChIP-seq_POLR2A
+        subGroups BS=spleen EXP=ENCSR289VTP1 IND=ENC003 view=ENC003TF_ChIP-seq_POLR2A assay=TF_ChIP-seq_POLR2A
 
     track ENC003TF_ChIP-seq_POLR2AphosphoS5_view
     parent ENC003 on
@@ -411,7 +413,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR959UQA1 IND=ENC003 view=ENC003TF_ChIP-seq_POLR2AphosphoS5
+        subGroups BS=spleen EXP=ENCSR959UQA1 IND=ENC003 view=ENC003TF_ChIP-seq_POLR2AphosphoS5 assay=TF_ChIP-seq_POLR2AphosphoS5
 
     track ENC003small_RNA-seq_view
     parent ENC003 on
@@ -429,7 +431,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR307FBN2 IND=ENC003 view=ENC003small_RNA-seq
+        subGroups BS=spleen EXP=ENCSR307FBN2 IND=ENC003 view=ENC003small_RNA-seq assay=small_RNA-seq
 
         track ENCSR307FBN1
         parent ENC003small_RNA-seq_view on
@@ -439,7 +441,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR307FBN1 IND=ENC003 view=ENC003small_RNA-seq
+        subGroups BS=spleen EXP=ENCSR307FBN1 IND=ENC003 view=ENC003small_RNA-seq assay=small_RNA-seq
 
     track ENC003total_RNA-seq_view
     parent ENC003 on
@@ -457,7 +459,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR900SGE1 IND=ENC003 view=ENC003total_RNA-seq
+        subGroups BS=spleen EXP=ENCSR900SGE1 IND=ENC003 view=ENC003total_RNA-seq assay=total_RNA-seq
 
         track ENCSR900SGE2
         parent ENC003total_RNA-seq_view on
@@ -467,7 +469,461 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR900SGE2 IND=ENC003 view=ENC003total_RNA-seq
+        subGroups BS=spleen EXP=ENCSR900SGE2 IND=ENC003 view=ENC003total_RNA-seq assay=total_RNA-seq
+
+    track ENC003ATAC-seq_view
+    parent ENC003 on
+    view ATAC-seq
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR404LLJ1
+        parent ENC003ATAC-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/047460d1-f305-4ea9-9961-0939f19c6025/ENCFF031MAM.bigWig
+        longLabel ATAC-seq assay performed on transverse_colon from ENC003
+        shortLabel ATAC-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR404LLJ1 IND=ENC003 view=ENC003ATAC-seq assay=ATAC-seq
+
+    track ENC003DNase-seq_view
+    parent ENC003 on
+    view DNase-seq
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR504WYA1
+        parent ENC003DNase-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/033fac20-6b2a-4222-8d59-22a230a62824/ENCFF413EKZ.bigWig
+        longLabel DNase-seq assay performed on transverse_colon from ENC003
+        shortLabel DNase-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR504WYA1 IND=ENC003 view=ENC003DNase-seq assay=DNase-seq
+
+    track ENC003Histone_ChIP-seq_H3K4me1_view
+    parent ENC003 on
+    view Histone_ChIP-seq_H3K4me1
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR791LZY4
+        parent ENC003Histone_ChIP-seq_H3K4me1_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/976ec5ff-33d8-4145-849c-f334a238e503/ENCFF710QVK.bigWig
+        longLabel Histone_ChIP-seq_H3K4me1 assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K4me1_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR791LZY4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
+
+        track ENCSR791LZY1
+        parent ENC003Histone_ChIP-seq_H3K4me1_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/265b4bb9-b334-4488-9a8d-989646fc4043/ENCFF077HMG.bigWig
+        longLabel Histone_ChIP-seq_H3K4me1 assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K4me1_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR791LZY1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
+
+        track ENCSR791LZY3
+        parent ENC003Histone_ChIP-seq_H3K4me1_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/c31f222b-8934-4b69-adc3-19cb47c3e53b/ENCFF950HPZ.bigWig
+        longLabel Histone_ChIP-seq_H3K4me1 assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K4me1_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR791LZY3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
+
+        track ENCSR791LZY2
+        parent ENC003Histone_ChIP-seq_H3K4me1_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/fda2121a-8ca2-4bca-9c7f-d06f2438595c/ENCFF148SIT.bigWig
+        longLabel Histone_ChIP-seq_H3K4me1 assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K4me1_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR791LZY2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
+
+    track ENC003Histone_ChIP-seq_H3K4me3_view
+    parent ENC003 on
+    view Histone_ChIP-seq_H3K4me3
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR933BVL2
+        parent ENC003Histone_ChIP-seq_H3K4me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/427b6151-7897-43a9-98df-7b1c486787a1/ENCFF067QBT.bigWig
+        longLabel Histone_ChIP-seq_H3K4me3 assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K4me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR933BVL2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
+
+        track ENCSR933BVL3
+        parent ENC003Histone_ChIP-seq_H3K4me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/5461b057-96ab-4e09-b509-e33bf38728ae/ENCFF494HTI.bigWig
+        longLabel Histone_ChIP-seq_H3K4me3 assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K4me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR933BVL3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
+
+        track ENCSR933BVL1
+        parent ENC003Histone_ChIP-seq_H3K4me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2018/02/27/ebd16e13-cd84-4005-b2d0-bdbc759ea457/ENCFF254GWA.bigWig
+        longLabel Histone_ChIP-seq_H3K4me3 assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K4me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR933BVL1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
+
+        track ENCSR933BVL4
+        parent ENC003Histone_ChIP-seq_H3K4me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/2f2b8754-f76f-4fd5-8b90-5b536a9a1fc5/ENCFF420GBI.bigWig
+        longLabel Histone_ChIP-seq_H3K4me3 assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K4me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR933BVL4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
+
+        track ENCSR933BVL5
+        parent ENC003Histone_ChIP-seq_H3K4me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/66b90a35-f3d3-485f-9642-a171bfd5c144/ENCFF986QOQ.bigWig
+        longLabel Histone_ChIP-seq_H3K4me3 assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K4me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR933BVL5 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
+
+    track ENC003Histone_ChIP-seq_H3K27ac_view
+    parent ENC003 on
+    view Histone_ChIP-seq_H3K27ac
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR208QRN4
+        parent ENC003Histone_ChIP-seq_H3K27ac_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/3dde96b4-4373-49db-8a79-31d7028faecd/ENCFF103SZL.bigWig
+        longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR208QRN4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
+
+        track ENCSR208QRN1
+        parent ENC003Histone_ChIP-seq_H3K27ac_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/6ffae5c6-3146-4f05-972d-4c33810a6698/ENCFF083BTK.bigWig
+        longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR208QRN1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
+
+        track ENCSR208QRN2
+        parent ENC003Histone_ChIP-seq_H3K27ac_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/b8ca2968-902d-470d-810b-aa63d40a3d6c/ENCFF354KXB.bigWig
+        longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR208QRN2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
+
+        track ENCSR208QRN3
+        parent ENC003Histone_ChIP-seq_H3K27ac_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/b8a701d7-c9cf-4d62-adc0-c780d08a3091/ENCFF780SLS.bigWig
+        longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR208QRN3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
+
+    track ENC003Histone_ChIP-seq_H3K27me3_view
+    parent ENC003 on
+    view Histone_ChIP-seq_H3K27me3
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR840VWD4
+        parent ENC003Histone_ChIP-seq_H3K27me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/6698cde4-07de-4088-8e92-7a6ba7219a13/ENCFF325ZTU.bigWig
+        longLabel Histone_ChIP-seq_H3K27me3 assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K27me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR840VWD4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
+
+        track ENCSR840VWD1
+        parent ENC003Histone_ChIP-seq_H3K27me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/8297ab20-1f16-4aa7-8382-b0d35cc299f6/ENCFF254JVO.bigWig
+        longLabel Histone_ChIP-seq_H3K27me3 assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K27me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR840VWD1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
+
+        track ENCSR840VWD2
+        parent ENC003Histone_ChIP-seq_H3K27me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/83ee7e9c-26b1-4799-bb15-caec61768f29/ENCFF395NWE.bigWig
+        longLabel Histone_ChIP-seq_H3K27me3 assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K27me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR840VWD2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
+
+        track ENCSR840VWD3
+        parent ENC003Histone_ChIP-seq_H3K27me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/cd683ec0-e43a-48fe-9c7c-3a4b394cc71b/ENCFF579VDS.bigWig
+        longLabel Histone_ChIP-seq_H3K27me3 assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K27me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR840VWD3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
+
+    track ENC003Histone_ChIP-seq_H3K36me3_view
+    parent ENC003 on
+    view Histone_ChIP-seq_H3K36me3
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR047JMV3
+        parent ENC003Histone_ChIP-seq_H3K36me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/3f49b812-8514-44e7-90cd-763fb3adfa33/ENCFF503QWX.bigWig
+        longLabel Histone_ChIP-seq_H3K36me3 assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K36me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR047JMV3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
+
+        track ENCSR047JMV2
+        parent ENC003Histone_ChIP-seq_H3K36me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/4e337762-4785-42b2-87eb-463b58c56828/ENCFF134KQD.bigWig
+        longLabel Histone_ChIP-seq_H3K36me3 assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K36me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR047JMV2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
+
+        track ENCSR047JMV1
+        parent ENC003Histone_ChIP-seq_H3K36me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/6a693a6c-4daa-4b6b-9c9b-6d44083b1226/ENCFF787JIV.bigWig
+        longLabel Histone_ChIP-seq_H3K36me3 assay performed on transverse_colon from ENC003
+        shortLabel Histone_ChIP-seq_H3K36me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR047JMV1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
+
+    track ENC003RAMPAGE_view
+    parent ENC003 on
+    view RAMPAGE
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR855GRG1
+        parent ENC003RAMPAGE_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/6484d008-5d9c-4fef-88fc-d606ade57a24/ENCFF914HNK.bigWig
+        longLabel RAMPAGE assay performed on transverse_colon from ENC003
+        shortLabel RAMPAGE_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR855GRG1 IND=ENC003 view=ENC003RAMPAGE assay=RAMPAGE
+
+        track ENCSR855GRG2
+        parent ENC003RAMPAGE_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/7ae5aa4f-40e7-406e-814d-c55fed1609d1/ENCFF057UXI.bigWig
+        longLabel RAMPAGE assay performed on transverse_colon from ENC003
+        shortLabel RAMPAGE_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR855GRG2 IND=ENC003 view=ENC003RAMPAGE assay=RAMPAGE
+
+    track ENC003TF_ChIP-seq_CTCF_view
+    parent ENC003 on
+    view TF_ChIP-seq_CTCF
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR769WKR1
+        parent ENC003TF_ChIP-seq_CTCF_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/808f575e-0cd7-4fce-be7a-6a1d72acdedd/ENCFF458ZYU.bigWig
+        longLabel TF_ChIP-seq_CTCF assay performed on transverse_colon from ENC003
+        shortLabel TF_ChIP-seq_CTCF_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR769WKR1 IND=ENC003 view=ENC003TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
+
+        track ENCSR236YGF2
+        parent ENC003TF_ChIP-seq_CTCF_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/c9c26c1d-630b-4974-a3ca-62737d08ff41/ENCFF715LIY.bigWig
+        longLabel TF_ChIP-seq_CTCF assay performed on transverse_colon from ENC003
+        shortLabel TF_ChIP-seq_CTCF_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR236YGF2 IND=ENC003 view=ENC003TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
+
+        track ENCSR236YGF3
+        parent ENC003TF_ChIP-seq_CTCF_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/0b5f9abe-e465-4c66-b596-72e044a289c4/ENCFF790FAF.bigWig
+        longLabel TF_ChIP-seq_CTCF assay performed on transverse_colon from ENC003
+        shortLabel TF_ChIP-seq_CTCF_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR236YGF3 IND=ENC003 view=ENC003TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
+
+        track ENCSR236YGF1
+        parent ENC003TF_ChIP-seq_CTCF_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/d01d8c1e-54f9-45a4-b2ab-a66e679bcf2c/ENCFF564FSI.bigWig
+        longLabel TF_ChIP-seq_CTCF assay performed on transverse_colon from ENC003
+        shortLabel TF_ChIP-seq_CTCF_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR236YGF1 IND=ENC003 view=ENC003TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
+
+        track ENCSR236YGF4
+        parent ENC003TF_ChIP-seq_CTCF_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/26/cf83b8ea-f0f1-4b3a-bca1-8ea7b1d15538/ENCFF975VDL.bigWig
+        longLabel TF_ChIP-seq_CTCF assay performed on transverse_colon from ENC003
+        shortLabel TF_ChIP-seq_CTCF_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR236YGF4 IND=ENC003 view=ENC003TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
+
+    track ENC003TF_ChIP-seq_POLR2A_view
+    parent ENC003 on
+    view TF_ChIP-seq_POLR2A
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR107EUS1
+        parent ENC003TF_ChIP-seq_POLR2A_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/07/20/ba0b55a3-3b1e-41b8-9467-265ecabc7cc1/ENCFF795RWB.bigWig
+        longLabel TF_ChIP-seq_POLR2A assay performed on transverse_colon from ENC003
+        shortLabel TF_ChIP-seq_POLR2A_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR107EUS1 IND=ENC003 view=ENC003TF_ChIP-seq_POLR2A assay=TF_ChIP-seq_POLR2A
+
+    track ENC003TF_ChIP-seq_POLR2AphosphoS5_view
+    parent ENC003 on
+    view TF_ChIP-seq_POLR2AphosphoS5
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR714EQS1
+        parent ENC003TF_ChIP-seq_POLR2AphosphoS5_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/06/17/93685422-b2b9-4973-b1ed-a957788e5024/ENCFF594BQL.bigWig
+        longLabel TF_ChIP-seq_POLR2AphosphoS5 assay performed on transverse_colon from ENC003
+        shortLabel TF_ChIP-seq_POLR2AphosphoS5_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR714EQS1 IND=ENC003 view=ENC003TF_ChIP-seq_POLR2AphosphoS5 assay=TF_ChIP-seq_POLR2AphosphoS5
+
+    track ENC003small_RNA-seq_view
+    parent ENC003 on
+    view small_RNA-seq
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR316SXP2
+        parent ENC003small_RNA-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/cefc438a-5f42-4991-bcb6-e2a26a335f51/ENCFF023YNA.bigWig
+        longLabel small_RNA-seq assay performed on transverse_colon from ENC003
+        shortLabel small_RNA-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR316SXP2 IND=ENC003 view=ENC003small_RNA-seq assay=small_RNA-seq
+
+        track ENCSR316SXP1
+        parent ENC003small_RNA-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/6f62bc79-c967-456f-a521-5b88f1dae6cc/ENCFF172ABJ.bigWig
+        longLabel small_RNA-seq assay performed on transverse_colon from ENC003
+        shortLabel small_RNA-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR316SXP1 IND=ENC003 view=ENC003small_RNA-seq assay=small_RNA-seq
+
+    track ENC003total_RNA-seq_view
+    parent ENC003 on
+    view total_RNA-seq
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR800WIY2
+        parent ENC003total_RNA-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/02/17/1d607615-3674-49cf-8b0a-2b3623786bbd/ENCFF656MVW.bigWig
+        longLabel total_RNA-seq assay performed on transverse_colon from ENC003
+        shortLabel total_RNA-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR800WIY2 IND=ENC003 view=ENC003total_RNA-seq assay=total_RNA-seq
+
+        track ENCSR800WIY1
+        parent ENC003total_RNA-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/02/17/653daa50-0efb-4e78-acbb-251a74bee92b/ENCFF351UZL.bigWig
+        longLabel total_RNA-seq assay performed on transverse_colon from ENC003
+        shortLabel total_RNA-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR800WIY1 IND=ENC003 view=ENC003total_RNA-seq assay=total_RNA-seq
 
 track ENC001
 compositeTrack on
@@ -480,9 +936,10 @@ html HIST
 subGroup1 view Views ENC003ATAC-seq=ENC003ATAC-seq ENC001ATAC-seq=ENC001ATAC-seq ENC004ATAC-seq=ENC004ATAC-seq ENC002ATAC-seq=ENC002ATAC-seq ENC003Control_ChIP-seq_Control=ENC003Control_ChIP-seq_Control ENC001Control_ChIP-seq_Control=ENC001Control_ChIP-seq_Control ENC004Control_ChIP-seq_Control=ENC004Control_ChIP-seq_Control ENC002Control_ChIP-seq_Control=ENC002Control_ChIP-seq_Control ENC003DNAme_array=ENC003DNAme_array ENC001DNAme_array=ENC001DNAme_array ENC004DNAme_array=ENC004DNAme_array ENC002DNAme_array=ENC002DNAme_array ENC003DNase-seq=ENC003DNase-seq ENC001DNase-seq=ENC001DNase-seq ENC004DNase-seq=ENC004DNase-seq ENC002DNase-seq=ENC002DNase-seq ENC003Histone_ChIP-seq_H3K4me1=ENC003Histone_ChIP-seq_H3K4me1 ENC001Histone_ChIP-seq_H3K4me1=ENC001Histone_ChIP-seq_H3K4me1 ENC004Histone_ChIP-seq_H3K4me1=ENC004Histone_ChIP-seq_H3K4me1 ENC002Histone_ChIP-seq_H3K4me1=ENC002Histone_ChIP-seq_H3K4me1 ENC003Histone_ChIP-seq_H3K4me3=ENC003Histone_ChIP-seq_H3K4me3 ENC001Histone_ChIP-seq_H3K4me3=ENC001Histone_ChIP-seq_H3K4me3 ENC004Histone_ChIP-seq_H3K4me3=ENC004Histone_ChIP-seq_H3K4me3 ENC002Histone_ChIP-seq_H3K4me3=ENC002Histone_ChIP-seq_H3K4me3 ENC003Histone_ChIP-seq_H3K9me3=ENC003Histone_ChIP-seq_H3K9me3 ENC001Histone_ChIP-seq_H3K9me3=ENC001Histone_ChIP-seq_H3K9me3 ENC004Histone_ChIP-seq_H3K9me3=ENC004Histone_ChIP-seq_H3K9me3 ENC002Histone_ChIP-seq_H3K9me3=ENC002Histone_ChIP-seq_H3K9me3 ENC003Histone_ChIP-seq_H3K27ac=ENC003Histone_ChIP-seq_H3K27ac ENC001Histone_ChIP-seq_H3K27ac=ENC001Histone_ChIP-seq_H3K27ac ENC004Histone_ChIP-seq_H3K27ac=ENC004Histone_ChIP-seq_H3K27ac ENC002Histone_ChIP-seq_H3K27ac=ENC002Histone_ChIP-seq_H3K27ac ENC003Histone_ChIP-seq_H3K27me3=ENC003Histone_ChIP-seq_H3K27me3 ENC001Histone_ChIP-seq_H3K27me3=ENC001Histone_ChIP-seq_H3K27me3 ENC004Histone_ChIP-seq_H3K27me3=ENC004Histone_ChIP-seq_H3K27me3 ENC002Histone_ChIP-seq_H3K27me3=ENC002Histone_ChIP-seq_H3K27me3 ENC003Histone_ChIP-seq_H3K36me3=ENC003Histone_ChIP-seq_H3K36me3 ENC001Histone_ChIP-seq_H3K36me3=ENC001Histone_ChIP-seq_H3K36me3 ENC004Histone_ChIP-seq_H3K36me3=ENC004Histone_ChIP-seq_H3K36me3 ENC002Histone_ChIP-seq_H3K36me3=ENC002Histone_ChIP-seq_H3K36me3 ENC003Hi-C=ENC003Hi-C ENC001Hi-C=ENC001Hi-C ENC004Hi-C=ENC004Hi-C ENC002Hi-C=ENC002Hi-C ENC003RAMPAGE=ENC003RAMPAGE ENC001RAMPAGE=ENC001RAMPAGE ENC004RAMPAGE=ENC004RAMPAGE ENC002RAMPAGE=ENC002RAMPAGE ENC003TF_ChIP-seq_CTCF=ENC003TF_ChIP-seq_CTCF ENC001TF_ChIP-seq_CTCF=ENC001TF_ChIP-seq_CTCF ENC004TF_ChIP-seq_CTCF=ENC004TF_ChIP-seq_CTCF ENC002TF_ChIP-seq_CTCF=ENC002TF_ChIP-seq_CTCF ENC003TF_ChIP-seq_EP300=ENC003TF_ChIP-seq_EP300 ENC001TF_ChIP-seq_EP300=ENC001TF_ChIP-seq_EP300 ENC004TF_ChIP-seq_EP300=ENC004TF_ChIP-seq_EP300 ENC002TF_ChIP-seq_EP300=ENC002TF_ChIP-seq_EP300 ENC003TF_ChIP-seq_POLR2A=ENC003TF_ChIP-seq_POLR2A ENC001TF_ChIP-seq_POLR2A=ENC001TF_ChIP-seq_POLR2A ENC004TF_ChIP-seq_POLR2A=ENC004TF_ChIP-seq_POLR2A ENC002TF_ChIP-seq_POLR2A=ENC002TF_ChIP-seq_POLR2A ENC003TF_ChIP-seq_POLR2AphosphoS5=ENC003TF_ChIP-seq_POLR2AphosphoS5 ENC001TF_ChIP-seq_POLR2AphosphoS5=ENC001TF_ChIP-seq_POLR2AphosphoS5 ENC004TF_ChIP-seq_POLR2AphosphoS5=ENC004TF_ChIP-seq_POLR2AphosphoS5 ENC002TF_ChIP-seq_POLR2AphosphoS5=ENC002TF_ChIP-seq_POLR2AphosphoS5 ENC003WGBS=ENC003WGBS ENC001WGBS=ENC001WGBS ENC004WGBS=ENC004WGBS ENC002WGBS=ENC002WGBS ENC003eCLIP_DGCR8=ENC003eCLIP_DGCR8 ENC001eCLIP_DGCR8=ENC001eCLIP_DGCR8 ENC004eCLIP_DGCR8=ENC004eCLIP_DGCR8 ENC002eCLIP_DGCR8=ENC002eCLIP_DGCR8 ENC003eCLIP_DGCR8_eCLIP_mock_input=ENC003eCLIP_DGCR8_eCLIP_mock_input ENC001eCLIP_DGCR8_eCLIP_mock_input=ENC001eCLIP_DGCR8_eCLIP_mock_input ENC004eCLIP_DGCR8_eCLIP_mock_input=ENC004eCLIP_DGCR8_eCLIP_mock_input ENC002eCLIP_DGCR8_eCLIP_mock_input=ENC002eCLIP_DGCR8_eCLIP_mock_input ENC003eCLIP_HNRNPU=ENC003eCLIP_HNRNPU ENC001eCLIP_HNRNPU=ENC001eCLIP_HNRNPU ENC004eCLIP_HNRNPU=ENC004eCLIP_HNRNPU ENC002eCLIP_HNRNPU=ENC002eCLIP_HNRNPU ENC003eCLIP_HNRNPU_eCLIP_mock_input=ENC003eCLIP_HNRNPU_eCLIP_mock_input ENC001eCLIP_HNRNPU_eCLIP_mock_input=ENC001eCLIP_HNRNPU_eCLIP_mock_input ENC004eCLIP_HNRNPU_eCLIP_mock_input=ENC004eCLIP_HNRNPU_eCLIP_mock_input ENC002eCLIP_HNRNPU_eCLIP_mock_input=ENC002eCLIP_HNRNPU_eCLIP_mock_input ENC003genotyping_HTS=ENC003genotyping_HTS ENC001genotyping_HTS=ENC001genotyping_HTS ENC004genotyping_HTS=ENC004genotyping_HTS ENC002genotyping_HTS=ENC002genotyping_HTS ENC003genotyping_array=ENC003genotyping_array ENC001genotyping_array=ENC001genotyping_array ENC004genotyping_array=ENC004genotyping_array ENC002genotyping_array=ENC002genotyping_array ENC003long_read_RNA-seq=ENC003long_read_RNA-seq ENC001long_read_RNA-seq=ENC001long_read_RNA-seq ENC004long_read_RNA-seq=ENC004long_read_RNA-seq ENC002long_read_RNA-seq=ENC002long_read_RNA-seq ENC003microRNA_counts=ENC003microRNA_counts ENC001microRNA_counts=ENC001microRNA_counts ENC004microRNA_counts=ENC004microRNA_counts ENC002microRNA_counts=ENC002microRNA_counts ENC003microRNA-seq=ENC003microRNA-seq ENC001microRNA-seq=ENC001microRNA-seq ENC004microRNA-seq=ENC004microRNA-seq ENC002microRNA-seq=ENC002microRNA-seq ENC003small_RNA-seq=ENC003small_RNA-seq ENC001small_RNA-seq=ENC001small_RNA-seq ENC004small_RNA-seq=ENC004small_RNA-seq ENC002small_RNA-seq=ENC002small_RNA-seq ENC003snATAC-seq=ENC003snATAC-seq ENC001snATAC-seq=ENC001snATAC-seq ENC004snATAC-seq=ENC004snATAC-seq ENC002snATAC-seq=ENC002snATAC-seq ENC003total_RNA-seq=ENC003total_RNA-seq ENC001total_RNA-seq=ENC001total_RNA-seq ENC004total_RNA-seq=ENC004total_RNA-seq ENC002total_RNA-seq=ENC002total_RNA-seq 
 subGroup2 BS Biosample Peyers_patch=Peyers_patch adrenal_gland=adrenal_gland body_of_pancreas=body_of_pancreas breast_epithelium=breast_epithelium coronary_artery=coronary_artery esophagus_muscularis_mucosa=esophagus_muscularis_mucosa esophagus_squamous_epithelium=esophagus_squamous_epithelium gastrocnemius_medialis=gastrocnemius_medialis gastroesophageal_sphincter=gastroesophageal_sphincter heart_left_ventricle=heart_left_ventricle omental_fat_pad=omental_fat_pad ovary=ovary prostate_gland=prostate_gland right_atrium_auricular_region=right_atrium_auricular_region right_lobe_of_liver=right_lobe_of_liver sigmoid_colon=sigmoid_colon spleen=spleen stomach=stomach subcutaneous_adipose_tissue=subcutaneous_adipose_tissue testis=testis thoracic_aorta=thoracic_aorta thyroid_gland=thyroid_gland tibial_artery=tibial_artery tibial_nerve=tibial_nerve transverse_colon=transverse_colon ascending_aorta=ascending_aorta lower_leg_skin=lower_leg_skin suprapubic_skin=suprapubic_skin upper_lobe_of_left_lung=upper_lobe_of_left_lung uterus=uterus vagina=vagina 
 subGroup3 IND Individuals ENC003=ENC003 ENC001=ENC001 ENC004=ENC004 ENC002=ENC002 
+subGroup4 assay Assay ATAC-seq=ATAC-seq Control_ChIP-seq_Control=Control_ChIP-seq_Control DNAme_array=DNAme_array DNase-seq=DNase-seq Histone_ChIP-seq_H3K4me1=Histone_ChIP-seq_H3K4me1 Histone_ChIP-seq_H3K4me3=Histone_ChIP-seq_H3K4me3 Histone_ChIP-seq_H3K9me3=Histone_ChIP-seq_H3K9me3 Histone_ChIP-seq_H3K27ac=Histone_ChIP-seq_H3K27ac Histone_ChIP-seq_H3K27me3=Histone_ChIP-seq_H3K27me3 Histone_ChIP-seq_H3K36me3=Histone_ChIP-seq_H3K36me3 Hi-C=Hi-C RAMPAGE=RAMPAGE TF_ChIP-seq_CTCF=TF_ChIP-seq_CTCF TF_ChIP-seq_EP300=TF_ChIP-seq_EP300 TF_ChIP-seq_POLR2A=TF_ChIP-seq_POLR2A TF_ChIP-seq_POLR2AphosphoS5=TF_ChIP-seq_POLR2AphosphoS5 WGBS=WGBS eCLIP_DGCR8=eCLIP_DGCR8 eCLIP_DGCR8_eCLIP_mock_input=eCLIP_DGCR8_eCLIP_mock_input eCLIP_HNRNPU=eCLIP_HNRNPU eCLIP_HNRNPU_eCLIP_mock_input=eCLIP_HNRNPU_eCLIP_mock_input genotyping_HTS=genotyping_HTS genotyping_array=genotyping_array long_read_RNA-seq=long_read_RNA-seq microRNA_counts=microRNA_counts microRNA-seq=microRNA-seq small_RNA-seq=small_RNA-seq snATAC-seq=snATAC-seq total_RNA-seq=total_RNA-seq 
 
 sortOrder BS=+ IND=+ view=+
-dimensions dimA=IND dimX=BS dimY=view
+dimensions dimA=IND dimX=BS dimY=assay
 dimensionAchecked pool
     track ENC001Histone_ChIP-seq_H3K4me1_view
     parent ENC001 on
@@ -500,7 +957,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR928BGP3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR928BGP3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
 
         track ENCSR928BGP2
         parent ENC001Histone_ChIP-seq_H3K4me1_view on
@@ -510,7 +967,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR928BGP2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR928BGP2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
 
         track ENCSR928BGP1
         parent ENC001Histone_ChIP-seq_H3K4me1_view on
@@ -520,7 +977,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR928BGP1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR928BGP1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
 
     track ENC001Histone_ChIP-seq_H3K4me3_view
     parent ENC001 on
@@ -538,7 +995,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR556QXD2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR556QXD2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
 
         track ENCSR556QXD3
         parent ENC001Histone_ChIP-seq_H3K4me3_view on
@@ -548,7 +1005,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR556QXD3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR556QXD3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
 
         track ENCSR556QXD1
         parent ENC001Histone_ChIP-seq_H3K4me3_view on
@@ -558,7 +1015,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR556QXD1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR556QXD1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
 
     track ENC001Histone_ChIP-seq_H3K9me3_view
     parent ENC001 on
@@ -576,7 +1033,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR091IRL2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR091IRL2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
 
         track ENCSR091IRL3
         parent ENC001Histone_ChIP-seq_H3K9me3_view on
@@ -586,7 +1043,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR091IRL3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR091IRL3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
 
         track ENCSR091IRL1
         parent ENC001Histone_ChIP-seq_H3K9me3_view on
@@ -596,7 +1053,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR091IRL1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR091IRL1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
 
     track ENC001Histone_ChIP-seq_H3K27ac_view
     parent ENC001 on
@@ -614,7 +1071,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR426VHO2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR426VHO2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
 
         track ENCSR426VHO3
         parent ENC001Histone_ChIP-seq_H3K27ac_view on
@@ -624,7 +1081,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR426VHO3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR426VHO3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
 
         track ENCSR426VHO1
         parent ENC001Histone_ChIP-seq_H3K27ac_view on
@@ -634,7 +1091,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR426VHO1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR426VHO1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
 
     track ENC001Histone_ChIP-seq_H3K27me3_view
     parent ENC001 on
@@ -652,7 +1109,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR506DCR3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR506DCR3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
 
         track ENCSR506DCR2
         parent ENC001Histone_ChIP-seq_H3K27me3_view on
@@ -662,7 +1119,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR506DCR2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR506DCR2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
 
         track ENCSR506DCR1
         parent ENC001Histone_ChIP-seq_H3K27me3_view on
@@ -672,7 +1129,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR506DCR1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR506DCR1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
 
     track ENC001Histone_ChIP-seq_H3K36me3_view
     parent ENC001 on
@@ -690,7 +1147,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR407UEE3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR407UEE3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
 
         track ENCSR407UEE2
         parent ENC001Histone_ChIP-seq_H3K36me3_view on
@@ -700,7 +1157,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR407UEE2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR407UEE2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
 
         track ENCSR407UEE1
         parent ENC001Histone_ChIP-seq_H3K36me3_view on
@@ -710,7 +1167,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR407UEE1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR407UEE1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
 
     track ENC001RAMPAGE_view
     parent ENC001 on
@@ -728,7 +1185,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR329YVA2 IND=ENC001 view=ENC001RAMPAGE
+        subGroups BS=spleen EXP=ENCSR329YVA2 IND=ENC001 view=ENC001RAMPAGE assay=RAMPAGE
 
         track ENCSR329YVA1
         parent ENC001RAMPAGE_view on
@@ -738,7 +1195,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR329YVA1 IND=ENC001 view=ENC001RAMPAGE
+        subGroups BS=spleen EXP=ENCSR329YVA1 IND=ENC001 view=ENC001RAMPAGE assay=RAMPAGE
 
     track ENC001TF_ChIP-seq_CTCF_view
     parent ENC001 on
@@ -756,7 +1213,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR234HEM1 IND=ENC001 view=ENC001TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR234HEM1 IND=ENC001 view=ENC001TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
 
         track ENCSR343RJH1
         parent ENC001TF_ChIP-seq_CTCF_view on
@@ -766,7 +1223,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR343RJH1 IND=ENC001 view=ENC001TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR343RJH1 IND=ENC001 view=ENC001TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
 
         track ENCSR343RJH3
         parent ENC001TF_ChIP-seq_CTCF_view on
@@ -776,7 +1233,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR343RJH3 IND=ENC001 view=ENC001TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR343RJH3 IND=ENC001 view=ENC001TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
 
         track ENCSR343RJH2
         parent ENC001TF_ChIP-seq_CTCF_view on
@@ -786,7 +1243,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR343RJH2 IND=ENC001 view=ENC001TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR343RJH2 IND=ENC001 view=ENC001TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
 
     track ENC001TF_ChIP-seq_POLR2A_view
     parent ENC001 on
@@ -804,7 +1261,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR729GXE1 IND=ENC001 view=ENC001TF_ChIP-seq_POLR2A
+        subGroups BS=spleen EXP=ENCSR729GXE1 IND=ENC001 view=ENC001TF_ChIP-seq_POLR2A assay=TF_ChIP-seq_POLR2A
 
     track ENC001TF_ChIP-seq_POLR2AphosphoS5_view
     parent ENC001 on
@@ -822,7 +1279,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR950CUQ1 IND=ENC001 view=ENC001TF_ChIP-seq_POLR2AphosphoS5
+        subGroups BS=spleen EXP=ENCSR950CUQ1 IND=ENC001 view=ENC001TF_ChIP-seq_POLR2AphosphoS5 assay=TF_ChIP-seq_POLR2AphosphoS5
 
     track ENC001WGBS_view
     parent ENC001 on
@@ -840,7 +1297,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR757JTX1 IND=ENC001 view=ENC001WGBS
+        subGroups BS=spleen EXP=ENCSR757JTX1 IND=ENC001 view=ENC001WGBS assay=WGBS
 
     track ENC001small_RNA-seq_view
     parent ENC001 on
@@ -858,7 +1315,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR917CQJ2 IND=ENC001 view=ENC001small_RNA-seq
+        subGroups BS=spleen EXP=ENCSR917CQJ2 IND=ENC001 view=ENC001small_RNA-seq assay=small_RNA-seq
 
         track ENCSR917CQJ1
         parent ENC001small_RNA-seq_view on
@@ -868,7 +1325,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR917CQJ1 IND=ENC001 view=ENC001small_RNA-seq
+        subGroups BS=spleen EXP=ENCSR917CQJ1 IND=ENC001 view=ENC001small_RNA-seq assay=small_RNA-seq
 
     track ENC001total_RNA-seq_view
     parent ENC001 on
@@ -886,7 +1343,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR330UMQ2 IND=ENC001 view=ENC001total_RNA-seq
+        subGroups BS=spleen EXP=ENCSR330UMQ2 IND=ENC001 view=ENC001total_RNA-seq assay=total_RNA-seq
 
         track ENCSR330UMQ1
         parent ENC001total_RNA-seq_view on
@@ -896,7 +1353,527 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR330UMQ1 IND=ENC001 view=ENC001total_RNA-seq
+        subGroups BS=spleen EXP=ENCSR330UMQ1 IND=ENC001 view=ENC001total_RNA-seq assay=total_RNA-seq
+
+    track ENC001ATAC-seq_view
+    parent ENC001 on
+    view ATAC-seq
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR668VCT1
+        parent ENC001ATAC-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/a3b1eafd-64e6-4d8d-a69a-cefe688e1ad1/ENCFF523ZFE.bigWig
+        longLabel ATAC-seq assay performed on transverse_colon from ENC001
+        shortLabel ATAC-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR668VCT1 IND=ENC001 view=ENC001ATAC-seq assay=ATAC-seq
+
+    track ENC001DNase-seq_view
+    parent ENC001 on
+    view DNase-seq
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR979ZJS1
+        parent ENC001DNase-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/093556df-70a5-4d9f-869d-25c0922d1dc3/ENCFF624FJD.bigWig
+        longLabel DNase-seq assay performed on transverse_colon from ENC001
+        shortLabel DNase-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR979ZJS1 IND=ENC001 view=ENC001DNase-seq assay=DNase-seq
+
+    track ENC001Histone_ChIP-seq_H3K4me1_view
+    parent ENC001 on
+    view Histone_ChIP-seq_H3K4me1
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR516QFO1
+        parent ENC001Histone_ChIP-seq_H3K4me1_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/02/11/c3e1efa0-91ca-45a0-aa0f-ef40657353dc/ENCFF418CVS.bigWig
+        longLabel Histone_ChIP-seq_H3K4me1 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K4me1_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR516QFO1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
+
+        track ENCSR516QFO3
+        parent ENC001Histone_ChIP-seq_H3K4me1_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/97deacd5-ea44-456e-9c20-51bc7dde9c52/ENCFF575DJJ.bigWig
+        longLabel Histone_ChIP-seq_H3K4me1 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K4me1_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR516QFO3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
+
+        track ENCSR516QFO2
+        parent ENC001Histone_ChIP-seq_H3K4me1_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/b7d4368d-3bc1-4267-b481-717abae5887c/ENCFF761ZXZ.bigWig
+        longLabel Histone_ChIP-seq_H3K4me1 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K4me1_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR516QFO2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
+
+        track ENCSR516QFO4
+        parent ENC001Histone_ChIP-seq_H3K4me1_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/9dd21758-89b1-4b2d-8bf0-a5aa4b68cbb4/ENCFF927ZMT.bigWig
+        longLabel Histone_ChIP-seq_H3K4me1 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K4me1_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR516QFO4 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
+
+    track ENC001Histone_ChIP-seq_H3K4me3_view
+    parent ENC001 on
+    view Histone_ChIP-seq_H3K4me3
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR813ZEY1
+        parent ENC001Histone_ChIP-seq_H3K4me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/c74b3fed-449d-487c-9f44-f25bb3a778b1/ENCFF287OSD.bigWig
+        longLabel Histone_ChIP-seq_H3K4me3 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K4me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR813ZEY1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
+
+        track ENCSR813ZEY3
+        parent ENC001Histone_ChIP-seq_H3K4me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/77fc2cec-0677-41b5-b3ba-61e5e25e1573/ENCFF627KYY.bigWig
+        longLabel Histone_ChIP-seq_H3K4me3 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K4me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR813ZEY3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
+
+        track ENCSR813ZEY2
+        parent ENC001Histone_ChIP-seq_H3K4me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/6786b047-590d-4cc6-af6f-32ec4b8ac4ee/ENCFF784LZB.bigWig
+        longLabel Histone_ChIP-seq_H3K4me3 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K4me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR813ZEY2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
+
+        track ENCSR813ZEY4
+        parent ENC001Histone_ChIP-seq_H3K4me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/d8288adc-849e-4ba6-b31c-e9918ef536a3/ENCFF412IPU.bigWig
+        longLabel Histone_ChIP-seq_H3K4me3 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K4me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR813ZEY4 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
+
+    track ENC001Histone_ChIP-seq_H3K9me3_view
+    parent ENC001 on
+    view Histone_ChIP-seq_H3K9me3
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR083DXD4
+        parent ENC001Histone_ChIP-seq_H3K9me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/47c9885e-7a4e-43fc-94fe-bfc1eec14ef9/ENCFF057OBD.bigWig
+        longLabel Histone_ChIP-seq_H3K9me3 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K9me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR083DXD4 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
+
+        track ENCSR083DXD2
+        parent ENC001Histone_ChIP-seq_H3K9me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/89738fac-76b8-4d5c-af1e-243cc2efa512/ENCFF518FSV.bigWig
+        longLabel Histone_ChIP-seq_H3K9me3 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K9me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR083DXD2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
+
+        track ENCSR083DXD3
+        parent ENC001Histone_ChIP-seq_H3K9me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/26e082ed-f3e1-4969-9a97-2a343b95ce02/ENCFF771ZMD.bigWig
+        longLabel Histone_ChIP-seq_H3K9me3 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K9me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR083DXD3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
+
+        track ENCSR083DXD1
+        parent ENC001Histone_ChIP-seq_H3K9me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/f0512e47-50dd-4757-9bbe-e5500f66ee95/ENCFF598TJM.bigWig
+        longLabel Histone_ChIP-seq_H3K9me3 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K9me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR083DXD1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
+
+    track ENC001Histone_ChIP-seq_H3K27ac_view
+    parent ENC001 on
+    view Histone_ChIP-seq_H3K27ac
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR640XRV3
+        parent ENC001Histone_ChIP-seq_H3K27ac_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/5aa1a0dd-e0c0-42ed-80c5-f2e54f853371/ENCFF851ZCU.bigWig
+        longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR640XRV3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
+
+        track ENCSR640XRV2
+        parent ENC001Histone_ChIP-seq_H3K27ac_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/c69bda11-ed07-41d4-9847-4b2aa664b7e9/ENCFF548TWX.bigWig
+        longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR640XRV2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
+
+        track ENCSR640XRV1
+        parent ENC001Histone_ChIP-seq_H3K27ac_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/275d1ace-4d52-4bb8-93a4-56d65c2819a5/ENCFF574WKW.bigWig
+        longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR640XRV1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
+
+        track ENCSR640XRV4
+        parent ENC001Histone_ChIP-seq_H3K27ac_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/ae7b4998-1bfc-4f88-bf46-c92b411fcfd5/ENCFF253WKZ.bigWig
+        longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR640XRV4 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
+
+    track ENC001Histone_ChIP-seq_H3K27me3_view
+    parent ENC001 on
+    view Histone_ChIP-seq_H3K27me3
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR643KID1
+        parent ENC001Histone_ChIP-seq_H3K27me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/3e2613e4-02bc-43c1-9b25-e901ccac0f56/ENCFF698YZQ.bigWig
+        longLabel Histone_ChIP-seq_H3K27me3 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K27me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR643KID1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
+
+        track ENCSR643KID2
+        parent ENC001Histone_ChIP-seq_H3K27me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/133cfc37-1881-4599-8f1a-1970ff95ef61/ENCFF518MBZ.bigWig
+        longLabel Histone_ChIP-seq_H3K27me3 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K27me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR643KID2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
+
+        track ENCSR643KID3
+        parent ENC001Histone_ChIP-seq_H3K27me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/29909de5-b9c9-449f-a927-614e72aeb9cd/ENCFF135KOV.bigWig
+        longLabel Histone_ChIP-seq_H3K27me3 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K27me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR643KID3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
+
+        track ENCSR643KID4
+        parent ENC001Histone_ChIP-seq_H3K27me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/1f19ccad-aac0-4ddc-b71e-d606d66a0b40/ENCFF922CAD.bigWig
+        longLabel Histone_ChIP-seq_H3K27me3 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K27me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR643KID4 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
+
+    track ENC001Histone_ChIP-seq_H3K36me3_view
+    parent ENC001 on
+    view Histone_ChIP-seq_H3K36me3
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR749ABB1
+        parent ENC001Histone_ChIP-seq_H3K36me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/a8c7a5a8-47b5-4654-bfe5-200a527762c7/ENCFF314OSH.bigWig
+        longLabel Histone_ChIP-seq_H3K36me3 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K36me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR749ABB1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
+
+        track ENCSR749ABB2
+        parent ENC001Histone_ChIP-seq_H3K36me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/800b7794-96c3-4a04-b55e-0c00992f44ed/ENCFF474CLQ.bigWig
+        longLabel Histone_ChIP-seq_H3K36me3 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K36me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR749ABB2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
+
+        track ENCSR749ABB3
+        parent ENC001Histone_ChIP-seq_H3K36me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/237fbd5a-3cd2-4557-b0c4-9dd44f1eddf1/ENCFF119VPS.bigWig
+        longLabel Histone_ChIP-seq_H3K36me3 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K36me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR749ABB3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
+
+        track ENCSR749ABB4
+        parent ENC001Histone_ChIP-seq_H3K36me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/c7fbfd2f-c09d-4e6a-b460-222fb9d723ff/ENCFF232SNC.bigWig
+        longLabel Histone_ChIP-seq_H3K36me3 assay performed on transverse_colon from ENC001
+        shortLabel Histone_ChIP-seq_H3K36me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR749ABB4 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
+
+    track ENC001RAMPAGE_view
+    parent ENC001 on
+    view RAMPAGE
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR688YRV1
+        parent ENC001RAMPAGE_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/11/01/c7bade58-bd71-40ec-9957-80fb56d726db/ENCFF696JPZ.bigWig
+        longLabel RAMPAGE assay performed on transverse_colon from ENC001
+        shortLabel RAMPAGE_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR688YRV1 IND=ENC001 view=ENC001RAMPAGE assay=RAMPAGE
+
+        track ENCSR688YRV2
+        parent ENC001RAMPAGE_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/11/01/ad6992e2-6012-40c6-8d45-75ff3408b50d/ENCFF778KDC.bigWig
+        longLabel RAMPAGE assay performed on transverse_colon from ENC001
+        shortLabel RAMPAGE_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR688YRV2 IND=ENC001 view=ENC001RAMPAGE assay=RAMPAGE
+
+    track ENC001TF_ChIP-seq_CTCF_view
+    parent ENC001 on
+    view TF_ChIP-seq_CTCF
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR608WPS4
+        parent ENC001TF_ChIP-seq_CTCF_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/26/b984ad2a-0a3a-49c2-8a42-eb531a3ccbff/ENCFF117OCW.bigWig
+        longLabel TF_ChIP-seq_CTCF assay performed on transverse_colon from ENC001
+        shortLabel TF_ChIP-seq_CTCF_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR608WPS4 IND=ENC001 view=ENC001TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
+
+        track ENCSR608WPS3
+        parent ENC001TF_ChIP-seq_CTCF_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/219f0c98-b01b-49b0-865d-fa9c94fbb3fe/ENCFF879SPR.bigWig
+        longLabel TF_ChIP-seq_CTCF assay performed on transverse_colon from ENC001
+        shortLabel TF_ChIP-seq_CTCF_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR608WPS3 IND=ENC001 view=ENC001TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
+
+        track ENCSR608WPS2
+        parent ENC001TF_ChIP-seq_CTCF_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/6eb6a880-2225-4e4b-ba81-8ed64d2a86c9/ENCFF242VQV.bigWig
+        longLabel TF_ChIP-seq_CTCF assay performed on transverse_colon from ENC001
+        shortLabel TF_ChIP-seq_CTCF_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR608WPS2 IND=ENC001 view=ENC001TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
+
+        track ENCSR608WPS1
+        parent ENC001TF_ChIP-seq_CTCF_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/7399e165-e813-48b1-88fd-69524f37c359/ENCFF418KYU.bigWig
+        longLabel TF_ChIP-seq_CTCF assay performed on transverse_colon from ENC001
+        shortLabel TF_ChIP-seq_CTCF_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR608WPS1 IND=ENC001 view=ENC001TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
+
+        track ENCSR102CSD1
+        parent ENC001TF_ChIP-seq_CTCF_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/214e7537-b64d-4b83-aaf3-d0b0170930e2/ENCFF653KIU.bigWig
+        longLabel TF_ChIP-seq_CTCF assay performed on transverse_colon from ENC001
+        shortLabel TF_ChIP-seq_CTCF_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR102CSD1 IND=ENC001 view=ENC001TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
+
+    track ENC001TF_ChIP-seq_EP300_view
+    parent ENC001 on
+    view TF_ChIP-seq_EP300
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR429JTR1
+        parent ENC001TF_ChIP-seq_EP300_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/06/15/d5bb0bff-1198-4fc1-8a40-14ed59d71ec9/ENCFF305XIN.bigWig
+        longLabel TF_ChIP-seq_EP300 assay performed on transverse_colon from ENC001
+        shortLabel TF_ChIP-seq_EP300_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR429JTR1 IND=ENC001 view=ENC001TF_ChIP-seq_EP300 assay=TF_ChIP-seq_EP300
+
+    track ENC001TF_ChIP-seq_POLR2A_view
+    parent ENC001 on
+    view TF_ChIP-seq_POLR2A
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR667UWT1
+        parent ENC001TF_ChIP-seq_POLR2A_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/4ae5b8f5-de1a-4f54-9e71-33c925a4ac0d/ENCFF502AUB.bigWig
+        longLabel TF_ChIP-seq_POLR2A assay performed on transverse_colon from ENC001
+        shortLabel TF_ChIP-seq_POLR2A_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR667UWT1 IND=ENC001 view=ENC001TF_ChIP-seq_POLR2A assay=TF_ChIP-seq_POLR2A
+
+    track ENC001TF_ChIP-seq_POLR2AphosphoS5_view
+    parent ENC001 on
+    view TF_ChIP-seq_POLR2AphosphoS5
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR930CPA1
+        parent ENC001TF_ChIP-seq_POLR2AphosphoS5_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/06/17/e390deb7-ea56-4bb6-8ef4-cfd35d793ca9/ENCFF640OPA.bigWig
+        longLabel TF_ChIP-seq_POLR2AphosphoS5 assay performed on transverse_colon from ENC001
+        shortLabel TF_ChIP-seq_POLR2AphosphoS5_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR930CPA1 IND=ENC001 view=ENC001TF_ChIP-seq_POLR2AphosphoS5 assay=TF_ChIP-seq_POLR2AphosphoS5
+
+    track ENC001small_RNA-seq_view
+    parent ENC001 on
+    view small_RNA-seq
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR525WFB2
+        parent ENC001small_RNA-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/6eab2e28-ea13-471b-a75f-fdb102119a56/ENCFF987JWN.bigWig
+        longLabel small_RNA-seq assay performed on transverse_colon from ENC001
+        shortLabel small_RNA-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR525WFB2 IND=ENC001 view=ENC001small_RNA-seq assay=small_RNA-seq
+
+        track ENCSR525WFB1
+        parent ENC001small_RNA-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/4d0094ff-1610-4645-9440-08eb71adc84a/ENCFF814XUL.bigWig
+        longLabel small_RNA-seq assay performed on transverse_colon from ENC001
+        shortLabel small_RNA-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR525WFB1 IND=ENC001 view=ENC001small_RNA-seq assay=small_RNA-seq
+
+    track ENC001total_RNA-seq_view
+    parent ENC001 on
+    view total_RNA-seq
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR653ZJF1
+        parent ENC001total_RNA-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/ea70dbf9-03dc-4007-afa5-3e05295510d0/ENCFF528HFR.bigWig
+        longLabel total_RNA-seq assay performed on transverse_colon from ENC001
+        shortLabel total_RNA-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR653ZJF1 IND=ENC001 view=ENC001total_RNA-seq assay=total_RNA-seq
+
+        track ENCSR653ZJF2
+        parent ENC001total_RNA-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/d224be81-8453-4f2e-9583-e348f53c6b73/ENCFF240QEU.bigWig
+        longLabel total_RNA-seq assay performed on transverse_colon from ENC001
+        shortLabel total_RNA-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR653ZJF2 IND=ENC001 view=ENC001total_RNA-seq assay=total_RNA-seq
 
 track ENC004
 compositeTrack on
@@ -909,9 +1886,10 @@ html HIST
 subGroup1 view Views ENC003ATAC-seq=ENC003ATAC-seq ENC001ATAC-seq=ENC001ATAC-seq ENC004ATAC-seq=ENC004ATAC-seq ENC002ATAC-seq=ENC002ATAC-seq ENC003Control_ChIP-seq_Control=ENC003Control_ChIP-seq_Control ENC001Control_ChIP-seq_Control=ENC001Control_ChIP-seq_Control ENC004Control_ChIP-seq_Control=ENC004Control_ChIP-seq_Control ENC002Control_ChIP-seq_Control=ENC002Control_ChIP-seq_Control ENC003DNAme_array=ENC003DNAme_array ENC001DNAme_array=ENC001DNAme_array ENC004DNAme_array=ENC004DNAme_array ENC002DNAme_array=ENC002DNAme_array ENC003DNase-seq=ENC003DNase-seq ENC001DNase-seq=ENC001DNase-seq ENC004DNase-seq=ENC004DNase-seq ENC002DNase-seq=ENC002DNase-seq ENC003Histone_ChIP-seq_H3K4me1=ENC003Histone_ChIP-seq_H3K4me1 ENC001Histone_ChIP-seq_H3K4me1=ENC001Histone_ChIP-seq_H3K4me1 ENC004Histone_ChIP-seq_H3K4me1=ENC004Histone_ChIP-seq_H3K4me1 ENC002Histone_ChIP-seq_H3K4me1=ENC002Histone_ChIP-seq_H3K4me1 ENC003Histone_ChIP-seq_H3K4me3=ENC003Histone_ChIP-seq_H3K4me3 ENC001Histone_ChIP-seq_H3K4me3=ENC001Histone_ChIP-seq_H3K4me3 ENC004Histone_ChIP-seq_H3K4me3=ENC004Histone_ChIP-seq_H3K4me3 ENC002Histone_ChIP-seq_H3K4me3=ENC002Histone_ChIP-seq_H3K4me3 ENC003Histone_ChIP-seq_H3K9me3=ENC003Histone_ChIP-seq_H3K9me3 ENC001Histone_ChIP-seq_H3K9me3=ENC001Histone_ChIP-seq_H3K9me3 ENC004Histone_ChIP-seq_H3K9me3=ENC004Histone_ChIP-seq_H3K9me3 ENC002Histone_ChIP-seq_H3K9me3=ENC002Histone_ChIP-seq_H3K9me3 ENC003Histone_ChIP-seq_H3K27ac=ENC003Histone_ChIP-seq_H3K27ac ENC001Histone_ChIP-seq_H3K27ac=ENC001Histone_ChIP-seq_H3K27ac ENC004Histone_ChIP-seq_H3K27ac=ENC004Histone_ChIP-seq_H3K27ac ENC002Histone_ChIP-seq_H3K27ac=ENC002Histone_ChIP-seq_H3K27ac ENC003Histone_ChIP-seq_H3K27me3=ENC003Histone_ChIP-seq_H3K27me3 ENC001Histone_ChIP-seq_H3K27me3=ENC001Histone_ChIP-seq_H3K27me3 ENC004Histone_ChIP-seq_H3K27me3=ENC004Histone_ChIP-seq_H3K27me3 ENC002Histone_ChIP-seq_H3K27me3=ENC002Histone_ChIP-seq_H3K27me3 ENC003Histone_ChIP-seq_H3K36me3=ENC003Histone_ChIP-seq_H3K36me3 ENC001Histone_ChIP-seq_H3K36me3=ENC001Histone_ChIP-seq_H3K36me3 ENC004Histone_ChIP-seq_H3K36me3=ENC004Histone_ChIP-seq_H3K36me3 ENC002Histone_ChIP-seq_H3K36me3=ENC002Histone_ChIP-seq_H3K36me3 ENC003Hi-C=ENC003Hi-C ENC001Hi-C=ENC001Hi-C ENC004Hi-C=ENC004Hi-C ENC002Hi-C=ENC002Hi-C ENC003RAMPAGE=ENC003RAMPAGE ENC001RAMPAGE=ENC001RAMPAGE ENC004RAMPAGE=ENC004RAMPAGE ENC002RAMPAGE=ENC002RAMPAGE ENC003TF_ChIP-seq_CTCF=ENC003TF_ChIP-seq_CTCF ENC001TF_ChIP-seq_CTCF=ENC001TF_ChIP-seq_CTCF ENC004TF_ChIP-seq_CTCF=ENC004TF_ChIP-seq_CTCF ENC002TF_ChIP-seq_CTCF=ENC002TF_ChIP-seq_CTCF ENC003TF_ChIP-seq_EP300=ENC003TF_ChIP-seq_EP300 ENC001TF_ChIP-seq_EP300=ENC001TF_ChIP-seq_EP300 ENC004TF_ChIP-seq_EP300=ENC004TF_ChIP-seq_EP300 ENC002TF_ChIP-seq_EP300=ENC002TF_ChIP-seq_EP300 ENC003TF_ChIP-seq_POLR2A=ENC003TF_ChIP-seq_POLR2A ENC001TF_ChIP-seq_POLR2A=ENC001TF_ChIP-seq_POLR2A ENC004TF_ChIP-seq_POLR2A=ENC004TF_ChIP-seq_POLR2A ENC002TF_ChIP-seq_POLR2A=ENC002TF_ChIP-seq_POLR2A ENC003TF_ChIP-seq_POLR2AphosphoS5=ENC003TF_ChIP-seq_POLR2AphosphoS5 ENC001TF_ChIP-seq_POLR2AphosphoS5=ENC001TF_ChIP-seq_POLR2AphosphoS5 ENC004TF_ChIP-seq_POLR2AphosphoS5=ENC004TF_ChIP-seq_POLR2AphosphoS5 ENC002TF_ChIP-seq_POLR2AphosphoS5=ENC002TF_ChIP-seq_POLR2AphosphoS5 ENC003WGBS=ENC003WGBS ENC001WGBS=ENC001WGBS ENC004WGBS=ENC004WGBS ENC002WGBS=ENC002WGBS ENC003eCLIP_DGCR8=ENC003eCLIP_DGCR8 ENC001eCLIP_DGCR8=ENC001eCLIP_DGCR8 ENC004eCLIP_DGCR8=ENC004eCLIP_DGCR8 ENC002eCLIP_DGCR8=ENC002eCLIP_DGCR8 ENC003eCLIP_DGCR8_eCLIP_mock_input=ENC003eCLIP_DGCR8_eCLIP_mock_input ENC001eCLIP_DGCR8_eCLIP_mock_input=ENC001eCLIP_DGCR8_eCLIP_mock_input ENC004eCLIP_DGCR8_eCLIP_mock_input=ENC004eCLIP_DGCR8_eCLIP_mock_input ENC002eCLIP_DGCR8_eCLIP_mock_input=ENC002eCLIP_DGCR8_eCLIP_mock_input ENC003eCLIP_HNRNPU=ENC003eCLIP_HNRNPU ENC001eCLIP_HNRNPU=ENC001eCLIP_HNRNPU ENC004eCLIP_HNRNPU=ENC004eCLIP_HNRNPU ENC002eCLIP_HNRNPU=ENC002eCLIP_HNRNPU ENC003eCLIP_HNRNPU_eCLIP_mock_input=ENC003eCLIP_HNRNPU_eCLIP_mock_input ENC001eCLIP_HNRNPU_eCLIP_mock_input=ENC001eCLIP_HNRNPU_eCLIP_mock_input ENC004eCLIP_HNRNPU_eCLIP_mock_input=ENC004eCLIP_HNRNPU_eCLIP_mock_input ENC002eCLIP_HNRNPU_eCLIP_mock_input=ENC002eCLIP_HNRNPU_eCLIP_mock_input ENC003genotyping_HTS=ENC003genotyping_HTS ENC001genotyping_HTS=ENC001genotyping_HTS ENC004genotyping_HTS=ENC004genotyping_HTS ENC002genotyping_HTS=ENC002genotyping_HTS ENC003genotyping_array=ENC003genotyping_array ENC001genotyping_array=ENC001genotyping_array ENC004genotyping_array=ENC004genotyping_array ENC002genotyping_array=ENC002genotyping_array ENC003long_read_RNA-seq=ENC003long_read_RNA-seq ENC001long_read_RNA-seq=ENC001long_read_RNA-seq ENC004long_read_RNA-seq=ENC004long_read_RNA-seq ENC002long_read_RNA-seq=ENC002long_read_RNA-seq ENC003microRNA_counts=ENC003microRNA_counts ENC001microRNA_counts=ENC001microRNA_counts ENC004microRNA_counts=ENC004microRNA_counts ENC002microRNA_counts=ENC002microRNA_counts ENC003microRNA-seq=ENC003microRNA-seq ENC001microRNA-seq=ENC001microRNA-seq ENC004microRNA-seq=ENC004microRNA-seq ENC002microRNA-seq=ENC002microRNA-seq ENC003small_RNA-seq=ENC003small_RNA-seq ENC001small_RNA-seq=ENC001small_RNA-seq ENC004small_RNA-seq=ENC004small_RNA-seq ENC002small_RNA-seq=ENC002small_RNA-seq ENC003snATAC-seq=ENC003snATAC-seq ENC001snATAC-seq=ENC001snATAC-seq ENC004snATAC-seq=ENC004snATAC-seq ENC002snATAC-seq=ENC002snATAC-seq ENC003total_RNA-seq=ENC003total_RNA-seq ENC001total_RNA-seq=ENC001total_RNA-seq ENC004total_RNA-seq=ENC004total_RNA-seq ENC002total_RNA-seq=ENC002total_RNA-seq 
 subGroup2 BS Biosample Peyers_patch=Peyers_patch adrenal_gland=adrenal_gland body_of_pancreas=body_of_pancreas breast_epithelium=breast_epithelium coronary_artery=coronary_artery esophagus_muscularis_mucosa=esophagus_muscularis_mucosa esophagus_squamous_epithelium=esophagus_squamous_epithelium gastrocnemius_medialis=gastrocnemius_medialis gastroesophageal_sphincter=gastroesophageal_sphincter heart_left_ventricle=heart_left_ventricle omental_fat_pad=omental_fat_pad ovary=ovary prostate_gland=prostate_gland right_atrium_auricular_region=right_atrium_auricular_region right_lobe_of_liver=right_lobe_of_liver sigmoid_colon=sigmoid_colon spleen=spleen stomach=stomach subcutaneous_adipose_tissue=subcutaneous_adipose_tissue testis=testis thoracic_aorta=thoracic_aorta thyroid_gland=thyroid_gland tibial_artery=tibial_artery tibial_nerve=tibial_nerve transverse_colon=transverse_colon ascending_aorta=ascending_aorta lower_leg_skin=lower_leg_skin suprapubic_skin=suprapubic_skin upper_lobe_of_left_lung=upper_lobe_of_left_lung uterus=uterus vagina=vagina 
 subGroup3 IND Individuals ENC003=ENC003 ENC001=ENC001 ENC004=ENC004 ENC002=ENC002 
+subGroup4 assay Assay ATAC-seq=ATAC-seq Control_ChIP-seq_Control=Control_ChIP-seq_Control DNAme_array=DNAme_array DNase-seq=DNase-seq Histone_ChIP-seq_H3K4me1=Histone_ChIP-seq_H3K4me1 Histone_ChIP-seq_H3K4me3=Histone_ChIP-seq_H3K4me3 Histone_ChIP-seq_H3K9me3=Histone_ChIP-seq_H3K9me3 Histone_ChIP-seq_H3K27ac=Histone_ChIP-seq_H3K27ac Histone_ChIP-seq_H3K27me3=Histone_ChIP-seq_H3K27me3 Histone_ChIP-seq_H3K36me3=Histone_ChIP-seq_H3K36me3 Hi-C=Hi-C RAMPAGE=RAMPAGE TF_ChIP-seq_CTCF=TF_ChIP-seq_CTCF TF_ChIP-seq_EP300=TF_ChIP-seq_EP300 TF_ChIP-seq_POLR2A=TF_ChIP-seq_POLR2A TF_ChIP-seq_POLR2AphosphoS5=TF_ChIP-seq_POLR2AphosphoS5 WGBS=WGBS eCLIP_DGCR8=eCLIP_DGCR8 eCLIP_DGCR8_eCLIP_mock_input=eCLIP_DGCR8_eCLIP_mock_input eCLIP_HNRNPU=eCLIP_HNRNPU eCLIP_HNRNPU_eCLIP_mock_input=eCLIP_HNRNPU_eCLIP_mock_input genotyping_HTS=genotyping_HTS genotyping_array=genotyping_array long_read_RNA-seq=long_read_RNA-seq microRNA_counts=microRNA_counts microRNA-seq=microRNA-seq small_RNA-seq=small_RNA-seq snATAC-seq=snATAC-seq total_RNA-seq=total_RNA-seq 
 
 sortOrder BS=+ IND=+ view=+
-dimensions dimA=IND dimX=BS dimY=view
+dimensions dimA=IND dimX=BS dimY=assay
 dimensionAchecked pool
     track ENC004ATAC-seq_view
     parent ENC004 on
@@ -929,7 +1907,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR078EBD1 IND=ENC004 view=ENC004ATAC-seq
+        subGroups BS=spleen EXP=ENCSR078EBD1 IND=ENC004 view=ENC004ATAC-seq assay=ATAC-seq
 
     track ENC004Histone_ChIP-seq_H3K4me1_view
     parent ENC004 on
@@ -947,7 +1925,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR831EDZ1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR831EDZ1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
 
         track ENCSR831EDZ2
         parent ENC004Histone_ChIP-seq_H3K4me1_view on
@@ -957,7 +1935,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR831EDZ2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR831EDZ2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
 
         track ENCSR831EDZ3
         parent ENC004Histone_ChIP-seq_H3K4me1_view on
@@ -967,7 +1945,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR831EDZ3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR831EDZ3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
 
     track ENC004Histone_ChIP-seq_H3K4me3_view
     parent ENC004 on
@@ -985,7 +1963,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR589DBF1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR589DBF1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
 
         track ENCSR589DBF3
         parent ENC004Histone_ChIP-seq_H3K4me3_view on
@@ -995,7 +1973,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR589DBF3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR589DBF3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
 
         track ENCSR589DBF2
         parent ENC004Histone_ChIP-seq_H3K4me3_view on
@@ -1005,7 +1983,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR589DBF2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR589DBF2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
 
     track ENC004Histone_ChIP-seq_H3K9me3_view
     parent ENC004 on
@@ -1023,7 +2001,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR272CIV2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR272CIV2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
 
         track ENCSR272CIV3
         parent ENC004Histone_ChIP-seq_H3K9me3_view on
@@ -1033,7 +2011,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR272CIV3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR272CIV3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
 
         track ENCSR272CIV1
         parent ENC004Histone_ChIP-seq_H3K9me3_view on
@@ -1043,7 +2021,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR272CIV1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR272CIV1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
 
     track ENC004Histone_ChIP-seq_H3K27ac_view
     parent ENC004 on
@@ -1061,7 +2039,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR668GBL2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR668GBL2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
 
         track ENCSR668GBL3
         parent ENC004Histone_ChIP-seq_H3K27ac_view on
@@ -1071,7 +2049,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR668GBL3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR668GBL3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
 
         track ENCSR668GBL1
         parent ENC004Histone_ChIP-seq_H3K27ac_view on
@@ -1081,7 +2059,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR668GBL1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR668GBL1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
 
     track ENC004Histone_ChIP-seq_H3K27me3_view
     parent ENC004 on
@@ -1099,7 +2077,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR826MTK3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR826MTK3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
 
         track ENCSR826MTK2
         parent ENC004Histone_ChIP-seq_H3K27me3_view on
@@ -1109,7 +2087,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR826MTK2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR826MTK2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
 
         track ENCSR826MTK1
         parent ENC004Histone_ChIP-seq_H3K27me3_view on
@@ -1119,7 +2097,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR826MTK1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR826MTK1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
 
     track ENC004RAMPAGE_view
     parent ENC004 on
@@ -1137,7 +2115,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR887SSW1 IND=ENC004 view=ENC004RAMPAGE
+        subGroups BS=spleen EXP=ENCSR887SSW1 IND=ENC004 view=ENC004RAMPAGE assay=RAMPAGE
 
         track ENCSR887SSW2
         parent ENC004RAMPAGE_view on
@@ -1147,7 +2125,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR887SSW2 IND=ENC004 view=ENC004RAMPAGE
+        subGroups BS=spleen EXP=ENCSR887SSW2 IND=ENC004 view=ENC004RAMPAGE assay=RAMPAGE
 
     track ENC004TF_ChIP-seq_CTCF_view
     parent ENC004 on
@@ -1165,7 +2143,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR482PMN1 IND=ENC004 view=ENC004TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR482PMN1 IND=ENC004 view=ENC004TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
 
         track ENCSR595BPR2
         parent ENC004TF_ChIP-seq_CTCF_view on
@@ -1175,7 +2153,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR595BPR2 IND=ENC004 view=ENC004TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR595BPR2 IND=ENC004 view=ENC004TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
 
         track ENCSR595BPR3
         parent ENC004TF_ChIP-seq_CTCF_view on
@@ -1185,7 +2163,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR595BPR3 IND=ENC004 view=ENC004TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR595BPR3 IND=ENC004 view=ENC004TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
 
         track ENCSR595BPR1
         parent ENC004TF_ChIP-seq_CTCF_view on
@@ -1195,7 +2173,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR595BPR1 IND=ENC004 view=ENC004TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR595BPR1 IND=ENC004 view=ENC004TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
 
     track ENC004TF_ChIP-seq_POLR2A_view
     parent ENC004 on
@@ -1213,7 +2191,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR691CPM1 IND=ENC004 view=ENC004TF_ChIP-seq_POLR2A
+        subGroups BS=spleen EXP=ENCSR691CPM1 IND=ENC004 view=ENC004TF_ChIP-seq_POLR2A assay=TF_ChIP-seq_POLR2A
 
     track ENC004TF_ChIP-seq_POLR2AphosphoS5_view
     parent ENC004 on
@@ -1231,7 +2209,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR350PUV1 IND=ENC004 view=ENC004TF_ChIP-seq_POLR2AphosphoS5
+        subGroups BS=spleen EXP=ENCSR350PUV1 IND=ENC004 view=ENC004TF_ChIP-seq_POLR2AphosphoS5 assay=TF_ChIP-seq_POLR2AphosphoS5
 
     track ENC004WGBS_view
     parent ENC004 on
@@ -1249,7 +2227,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR750CPN1 IND=ENC004 view=ENC004WGBS
+        subGroups BS=spleen EXP=ENCSR750CPN1 IND=ENC004 view=ENC004WGBS assay=WGBS
 
     track ENC004small_RNA-seq_view
     parent ENC004 on
@@ -1267,7 +2245,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR593MVW1 IND=ENC004 view=ENC004small_RNA-seq
+        subGroups BS=spleen EXP=ENCSR593MVW1 IND=ENC004 view=ENC004small_RNA-seq assay=small_RNA-seq
 
         track ENCSR593MVW2
         parent ENC004small_RNA-seq_view on
@@ -1277,7 +2255,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR593MVW2 IND=ENC004 view=ENC004small_RNA-seq
+        subGroups BS=spleen EXP=ENCSR593MVW2 IND=ENC004 view=ENC004small_RNA-seq assay=small_RNA-seq
 
     track ENC004total_RNA-seq_view
     parent ENC004 on
@@ -1295,7 +2273,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR194HVU2 IND=ENC004 view=ENC004total_RNA-seq
+        subGroups BS=spleen EXP=ENCSR194HVU2 IND=ENC004 view=ENC004total_RNA-seq assay=total_RNA-seq
 
         track ENCSR194HVU1
         parent ENC004total_RNA-seq_view on
@@ -1305,7 +2283,479 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR194HVU1 IND=ENC004 view=ENC004total_RNA-seq
+        subGroups BS=spleen EXP=ENCSR194HVU1 IND=ENC004 view=ENC004total_RNA-seq assay=total_RNA-seq
+
+    track ENC004ATAC-seq_view
+    parent ENC004 on
+    view ATAC-seq
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR386HAZ1
+        parent ENC004ATAC-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/186eb082-22e1-4195-a6ad-61a1d9983370/ENCFF724HKZ.bigWig
+        longLabel ATAC-seq assay performed on transverse_colon from ENC004
+        shortLabel ATAC-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR386HAZ1 IND=ENC004 view=ENC004ATAC-seq assay=ATAC-seq
+
+    track ENC004DNase-seq_view
+    parent ENC004 on
+    view DNase-seq
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR760QZM1
+        parent ENC004DNase-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/09/10/a8b3d6b1-8c0f-4bb1-8789-cbcc8f010fc9/ENCFF950KRY.bigWig
+        longLabel DNase-seq assay performed on transverse_colon from ENC004
+        shortLabel DNase-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR760QZM1 IND=ENC004 view=ENC004DNase-seq assay=DNase-seq
+
+    track ENC004Histone_ChIP-seq_H3K4me1_view
+    parent ENC004 on
+    view Histone_ChIP-seq_H3K4me1
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR500QVK4
+        parent ENC004Histone_ChIP-seq_H3K4me1_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/98b42e88-1a41-439e-9911-e4b401db17a1/ENCFF531LYY.bigWig
+        longLabel Histone_ChIP-seq_H3K4me1 assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K4me1_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR500QVK4 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
+
+        track ENCSR500QVK1
+        parent ENC004Histone_ChIP-seq_H3K4me1_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/c8906283-c96d-4ade-afb7-47be0b947f7e/ENCFF067YCI.bigWig
+        longLabel Histone_ChIP-seq_H3K4me1 assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K4me1_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR500QVK1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
+
+        track ENCSR500QVK2
+        parent ENC004Histone_ChIP-seq_H3K4me1_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/016673fd-5e31-40bd-a7e8-8d64699edc48/ENCFF935EVL.bigWig
+        longLabel Histone_ChIP-seq_H3K4me1 assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K4me1_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR500QVK2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
+
+        track ENCSR500QVK3
+        parent ENC004Histone_ChIP-seq_H3K4me1_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/8cefe3ff-0867-4a50-b78f-b11330234256/ENCFF108SCL.bigWig
+        longLabel Histone_ChIP-seq_H3K4me1 assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K4me1_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR500QVK3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
+
+    track ENC004Histone_ChIP-seq_H3K4me3_view
+    parent ENC004 on
+    view Histone_ChIP-seq_H3K4me3
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR315EZG4
+        parent ENC004Histone_ChIP-seq_H3K4me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/8b4addbb-76e0-4c75-83b0-0164e2b58038/ENCFF382GDY.bigWig
+        longLabel Histone_ChIP-seq_H3K4me3 assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K4me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR315EZG4 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
+
+        track ENCSR315EZG1
+        parent ENC004Histone_ChIP-seq_H3K4me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/76338daf-d3af-40d2-bbe9-91eb72c2e7bc/ENCFF028FBE.bigWig
+        longLabel Histone_ChIP-seq_H3K4me3 assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K4me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR315EZG1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
+
+        track ENCSR315EZG2
+        parent ENC004Histone_ChIP-seq_H3K4me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/144014a8-a2a9-4421-b68e-391c0d8cbdf5/ENCFF767SRO.bigWig
+        longLabel Histone_ChIP-seq_H3K4me3 assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K4me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR315EZG2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
+
+        track ENCSR315EZG3
+        parent ENC004Histone_ChIP-seq_H3K4me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/f92b00a1-f0cc-4847-b429-6681b9addb47/ENCFF284VAH.bigWig
+        longLabel Histone_ChIP-seq_H3K4me3 assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K4me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR315EZG3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
+
+    track ENC004Histone_ChIP-seq_H3K9me3_view
+    parent ENC004 on
+    view Histone_ChIP-seq_H3K9me3
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR235REN1
+        parent ENC004Histone_ChIP-seq_H3K9me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/09481897-2f08-4536-bcf8-434f90d0b4e7/ENCFF441LVS.bigWig
+        longLabel Histone_ChIP-seq_H3K9me3 assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K9me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR235REN1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
+
+    track ENC004Histone_ChIP-seq_H3K27ac_view
+    parent ENC004 on
+    view Histone_ChIP-seq_H3K27ac
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR792VLP4
+        parent ENC004Histone_ChIP-seq_H3K27ac_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/02a5e77e-db6e-47fb-a805-91db3c633578/ENCFF873MWG.bigWig
+        longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR792VLP4 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
+
+        track ENCSR792VLP1
+        parent ENC004Histone_ChIP-seq_H3K27ac_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/dc5651f3-5517-4b26-9bd3-09082f955f75/ENCFF283VGV.bigWig
+        longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR792VLP1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
+
+        track ENCSR792VLP3
+        parent ENC004Histone_ChIP-seq_H3K27ac_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/1c041138-f3f8-4d82-9603-a17a71811646/ENCFF302BGP.bigWig
+        longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR792VLP3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
+
+        track ENCSR792VLP2
+        parent ENC004Histone_ChIP-seq_H3K27ac_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/603a6527-857e-46c5-b9c1-d42e1b120f71/ENCFF144YOU.bigWig
+        longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR792VLP2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
+
+    track ENC004Histone_ChIP-seq_H3K27me3_view
+    parent ENC004 on
+    view Histone_ChIP-seq_H3K27me3
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR604QMH1
+        parent ENC004Histone_ChIP-seq_H3K27me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/9a1b99eb-0c43-4248-a66f-043846dedea9/ENCFF338OVD.bigWig
+        longLabel Histone_ChIP-seq_H3K27me3 assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K27me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR604QMH1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
+
+        track ENCSR604QMH3
+        parent ENC004Histone_ChIP-seq_H3K27me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/49b812c4-7720-4557-9524-7188b8f276b6/ENCFF624CBI.bigWig
+        longLabel Histone_ChIP-seq_H3K27me3 assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K27me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR604QMH3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
+
+        track ENCSR604QMH2
+        parent ENC004Histone_ChIP-seq_H3K27me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/e01d85c0-6767-474a-839f-cdf6214435ac/ENCFF386HIU.bigWig
+        longLabel Histone_ChIP-seq_H3K27me3 assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K27me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR604QMH2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
+
+        track ENCSR604QMH4
+        parent ENC004Histone_ChIP-seq_H3K27me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/eb8f577f-1489-4ec2-92bb-e578ff7c9b03/ENCFF708HGN.bigWig
+        longLabel Histone_ChIP-seq_H3K27me3 assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K27me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR604QMH4 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
+
+    track ENC004Histone_ChIP-seq_H3K36me3_view
+    parent ENC004 on
+    view Histone_ChIP-seq_H3K36me3
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR488YXS3
+        parent ENC004Histone_ChIP-seq_H3K36me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/8dde6ba3-795f-4073-ba90-a1c873ad49d7/ENCFF244JOW.bigWig
+        longLabel Histone_ChIP-seq_H3K36me3 assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K36me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR488YXS3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
+
+        track ENCSR488YXS2
+        parent ENC004Histone_ChIP-seq_H3K36me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/664bfe12-ecbf-4f28-8116-f184f1e34c33/ENCFF091EDM.bigWig
+        longLabel Histone_ChIP-seq_H3K36me3 assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K36me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR488YXS2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
+
+        track ENCSR488YXS1
+        parent ENC004Histone_ChIP-seq_H3K36me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/4d0c901c-8949-436a-b463-98a775dfd949/ENCFF022IAE.bigWig
+        longLabel Histone_ChIP-seq_H3K36me3 assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K36me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR488YXS1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
+
+        track ENCSR488YXS4
+        parent ENC004Histone_ChIP-seq_H3K36me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/456621c3-5c19-48e7-9f1e-b0fadec45c19/ENCFF663EZI.bigWig
+        longLabel Histone_ChIP-seq_H3K36me3 assay performed on transverse_colon from ENC004
+        shortLabel Histone_ChIP-seq_H3K36me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR488YXS4 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
+
+    track ENC004RAMPAGE_view
+    parent ENC004 on
+    view RAMPAGE
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR297QGC2
+        parent ENC004RAMPAGE_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/11/01/c495e06e-a29a-4832-9746-95876b233276/ENCFF878ZLW.bigWig
+        longLabel RAMPAGE assay performed on transverse_colon from ENC004
+        shortLabel RAMPAGE_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR297QGC2 IND=ENC004 view=ENC004RAMPAGE assay=RAMPAGE
+
+        track ENCSR297QGC1
+        parent ENC004RAMPAGE_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/11/01/ce8b8097-5c76-4234-ab35-30d60b6e38ef/ENCFF714RXF.bigWig
+        longLabel RAMPAGE assay performed on transverse_colon from ENC004
+        shortLabel RAMPAGE_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR297QGC1 IND=ENC004 view=ENC004RAMPAGE assay=RAMPAGE
+
+    track ENC004TF_ChIP-seq_CTCF_view
+    parent ENC004 on
+    view TF_ChIP-seq_CTCF
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR449SEF2
+        parent ENC004TF_ChIP-seq_CTCF_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/d375f908-8b21-4e90-9687-1f5a139253a6/ENCFF664AML.bigWig
+        longLabel TF_ChIP-seq_CTCF assay performed on transverse_colon from ENC004
+        shortLabel TF_ChIP-seq_CTCF_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR449SEF2 IND=ENC004 view=ENC004TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
+
+        track ENCSR449SEF3
+        parent ENC004TF_ChIP-seq_CTCF_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/c9d55835-6f09-4c00-9d10-07831686f372/ENCFF439EFL.bigWig
+        longLabel TF_ChIP-seq_CTCF assay performed on transverse_colon from ENC004
+        shortLabel TF_ChIP-seq_CTCF_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR449SEF3 IND=ENC004 view=ENC004TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
+
+        track ENCSR449SEF1
+        parent ENC004TF_ChIP-seq_CTCF_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/5fa3e734-b920-40ce-8338-3fe047855ca3/ENCFF709RNW.bigWig
+        longLabel TF_ChIP-seq_CTCF assay performed on transverse_colon from ENC004
+        shortLabel TF_ChIP-seq_CTCF_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR449SEF1 IND=ENC004 view=ENC004TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
+
+        track ENCSR449SEF4
+        parent ENC004TF_ChIP-seq_CTCF_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/ff8b1b52-b168-45d3-9314-f32593ab95ed/ENCFF509URL.bigWig
+        longLabel TF_ChIP-seq_CTCF assay performed on transverse_colon from ENC004
+        shortLabel TF_ChIP-seq_CTCF_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR449SEF4 IND=ENC004 view=ENC004TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
+
+        track ENCSR558HTE1
+        parent ENC004TF_ChIP-seq_CTCF_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/d3843743-1a8f-433f-b74e-64d71d9e8f41/ENCFF748PHO.bigWig
+        longLabel TF_ChIP-seq_CTCF assay performed on transverse_colon from ENC004
+        shortLabel TF_ChIP-seq_CTCF_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR558HTE1 IND=ENC004 view=ENC004TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
+
+    track ENC004TF_ChIP-seq_POLR2A_view
+    parent ENC004 on
+    view TF_ChIP-seq_POLR2A
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR974HQI1
+        parent ENC004TF_ChIP-seq_POLR2A_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/25110d1e-7ef9-429f-9dd7-7bbb42d1a485/ENCFF946YRI.bigWig
+        longLabel TF_ChIP-seq_POLR2A assay performed on transverse_colon from ENC004
+        shortLabel TF_ChIP-seq_POLR2A_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR974HQI1 IND=ENC004 view=ENC004TF_ChIP-seq_POLR2A assay=TF_ChIP-seq_POLR2A
+
+    track ENC004TF_ChIP-seq_POLR2AphosphoS5_view
+    parent ENC004 on
+    view TF_ChIP-seq_POLR2AphosphoS5
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR170NMC1
+        parent ENC004TF_ChIP-seq_POLR2AphosphoS5_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/06/17/c80cbd3b-a04f-48bf-a286-f5133569f81e/ENCFF043ZLX.bigWig
+        longLabel TF_ChIP-seq_POLR2AphosphoS5 assay performed on transverse_colon from ENC004
+        shortLabel TF_ChIP-seq_POLR2AphosphoS5_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR170NMC1 IND=ENC004 view=ENC004TF_ChIP-seq_POLR2AphosphoS5 assay=TF_ChIP-seq_POLR2AphosphoS5
+
+    track ENC004small_RNA-seq_view
+    parent ENC004 on
+    view small_RNA-seq
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR183YQY2
+        parent ENC004small_RNA-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/33b04732-844b-48b4-af11-9bd67751d25e/ENCFF245TUH.bigWig
+        longLabel small_RNA-seq assay performed on transverse_colon from ENC004
+        shortLabel small_RNA-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR183YQY2 IND=ENC004 view=ENC004small_RNA-seq assay=small_RNA-seq
+
+        track ENCSR183YQY1
+        parent ENC004small_RNA-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/e951e14f-8a55-40c9-a8b7-20c98417cd06/ENCFF163YXB.bigWig
+        longLabel small_RNA-seq assay performed on transverse_colon from ENC004
+        shortLabel small_RNA-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR183YQY1 IND=ENC004 view=ENC004small_RNA-seq assay=small_RNA-seq
+
+    track ENC004total_RNA-seq_view
+    parent ENC004 on
+    view total_RNA-seq
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR403SZN2
+        parent ENC004total_RNA-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/3a258984-17b8-4d4f-80e2-7bb6e27765e4/ENCFF419WFX.bigWig
+        longLabel total_RNA-seq assay performed on transverse_colon from ENC004
+        shortLabel total_RNA-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR403SZN2 IND=ENC004 view=ENC004total_RNA-seq assay=total_RNA-seq
+
+        track ENCSR403SZN1
+        parent ENC004total_RNA-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/8ebfaa10-ee35-4f0e-8e47-5a54553b2884/ENCFF850RSS.bigWig
+        longLabel total_RNA-seq assay performed on transverse_colon from ENC004
+        shortLabel total_RNA-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR403SZN1 IND=ENC004 view=ENC004total_RNA-seq assay=total_RNA-seq
 
 track ENC002
 compositeTrack on
@@ -1318,9 +2768,10 @@ html HIST
 subGroup1 view Views ENC003ATAC-seq=ENC003ATAC-seq ENC001ATAC-seq=ENC001ATAC-seq ENC004ATAC-seq=ENC004ATAC-seq ENC002ATAC-seq=ENC002ATAC-seq ENC003Control_ChIP-seq_Control=ENC003Control_ChIP-seq_Control ENC001Control_ChIP-seq_Control=ENC001Control_ChIP-seq_Control ENC004Control_ChIP-seq_Control=ENC004Control_ChIP-seq_Control ENC002Control_ChIP-seq_Control=ENC002Control_ChIP-seq_Control ENC003DNAme_array=ENC003DNAme_array ENC001DNAme_array=ENC001DNAme_array ENC004DNAme_array=ENC004DNAme_array ENC002DNAme_array=ENC002DNAme_array ENC003DNase-seq=ENC003DNase-seq ENC001DNase-seq=ENC001DNase-seq ENC004DNase-seq=ENC004DNase-seq ENC002DNase-seq=ENC002DNase-seq ENC003Histone_ChIP-seq_H3K4me1=ENC003Histone_ChIP-seq_H3K4me1 ENC001Histone_ChIP-seq_H3K4me1=ENC001Histone_ChIP-seq_H3K4me1 ENC004Histone_ChIP-seq_H3K4me1=ENC004Histone_ChIP-seq_H3K4me1 ENC002Histone_ChIP-seq_H3K4me1=ENC002Histone_ChIP-seq_H3K4me1 ENC003Histone_ChIP-seq_H3K4me3=ENC003Histone_ChIP-seq_H3K4me3 ENC001Histone_ChIP-seq_H3K4me3=ENC001Histone_ChIP-seq_H3K4me3 ENC004Histone_ChIP-seq_H3K4me3=ENC004Histone_ChIP-seq_H3K4me3 ENC002Histone_ChIP-seq_H3K4me3=ENC002Histone_ChIP-seq_H3K4me3 ENC003Histone_ChIP-seq_H3K9me3=ENC003Histone_ChIP-seq_H3K9me3 ENC001Histone_ChIP-seq_H3K9me3=ENC001Histone_ChIP-seq_H3K9me3 ENC004Histone_ChIP-seq_H3K9me3=ENC004Histone_ChIP-seq_H3K9me3 ENC002Histone_ChIP-seq_H3K9me3=ENC002Histone_ChIP-seq_H3K9me3 ENC003Histone_ChIP-seq_H3K27ac=ENC003Histone_ChIP-seq_H3K27ac ENC001Histone_ChIP-seq_H3K27ac=ENC001Histone_ChIP-seq_H3K27ac ENC004Histone_ChIP-seq_H3K27ac=ENC004Histone_ChIP-seq_H3K27ac ENC002Histone_ChIP-seq_H3K27ac=ENC002Histone_ChIP-seq_H3K27ac ENC003Histone_ChIP-seq_H3K27me3=ENC003Histone_ChIP-seq_H3K27me3 ENC001Histone_ChIP-seq_H3K27me3=ENC001Histone_ChIP-seq_H3K27me3 ENC004Histone_ChIP-seq_H3K27me3=ENC004Histone_ChIP-seq_H3K27me3 ENC002Histone_ChIP-seq_H3K27me3=ENC002Histone_ChIP-seq_H3K27me3 ENC003Histone_ChIP-seq_H3K36me3=ENC003Histone_ChIP-seq_H3K36me3 ENC001Histone_ChIP-seq_H3K36me3=ENC001Histone_ChIP-seq_H3K36me3 ENC004Histone_ChIP-seq_H3K36me3=ENC004Histone_ChIP-seq_H3K36me3 ENC002Histone_ChIP-seq_H3K36me3=ENC002Histone_ChIP-seq_H3K36me3 ENC003Hi-C=ENC003Hi-C ENC001Hi-C=ENC001Hi-C ENC004Hi-C=ENC004Hi-C ENC002Hi-C=ENC002Hi-C ENC003RAMPAGE=ENC003RAMPAGE ENC001RAMPAGE=ENC001RAMPAGE ENC004RAMPAGE=ENC004RAMPAGE ENC002RAMPAGE=ENC002RAMPAGE ENC003TF_ChIP-seq_CTCF=ENC003TF_ChIP-seq_CTCF ENC001TF_ChIP-seq_CTCF=ENC001TF_ChIP-seq_CTCF ENC004TF_ChIP-seq_CTCF=ENC004TF_ChIP-seq_CTCF ENC002TF_ChIP-seq_CTCF=ENC002TF_ChIP-seq_CTCF ENC003TF_ChIP-seq_EP300=ENC003TF_ChIP-seq_EP300 ENC001TF_ChIP-seq_EP300=ENC001TF_ChIP-seq_EP300 ENC004TF_ChIP-seq_EP300=ENC004TF_ChIP-seq_EP300 ENC002TF_ChIP-seq_EP300=ENC002TF_ChIP-seq_EP300 ENC003TF_ChIP-seq_POLR2A=ENC003TF_ChIP-seq_POLR2A ENC001TF_ChIP-seq_POLR2A=ENC001TF_ChIP-seq_POLR2A ENC004TF_ChIP-seq_POLR2A=ENC004TF_ChIP-seq_POLR2A ENC002TF_ChIP-seq_POLR2A=ENC002TF_ChIP-seq_POLR2A ENC003TF_ChIP-seq_POLR2AphosphoS5=ENC003TF_ChIP-seq_POLR2AphosphoS5 ENC001TF_ChIP-seq_POLR2AphosphoS5=ENC001TF_ChIP-seq_POLR2AphosphoS5 ENC004TF_ChIP-seq_POLR2AphosphoS5=ENC004TF_ChIP-seq_POLR2AphosphoS5 ENC002TF_ChIP-seq_POLR2AphosphoS5=ENC002TF_ChIP-seq_POLR2AphosphoS5 ENC003WGBS=ENC003WGBS ENC001WGBS=ENC001WGBS ENC004WGBS=ENC004WGBS ENC002WGBS=ENC002WGBS ENC003eCLIP_DGCR8=ENC003eCLIP_DGCR8 ENC001eCLIP_DGCR8=ENC001eCLIP_DGCR8 ENC004eCLIP_DGCR8=ENC004eCLIP_DGCR8 ENC002eCLIP_DGCR8=ENC002eCLIP_DGCR8 ENC003eCLIP_DGCR8_eCLIP_mock_input=ENC003eCLIP_DGCR8_eCLIP_mock_input ENC001eCLIP_DGCR8_eCLIP_mock_input=ENC001eCLIP_DGCR8_eCLIP_mock_input ENC004eCLIP_DGCR8_eCLIP_mock_input=ENC004eCLIP_DGCR8_eCLIP_mock_input ENC002eCLIP_DGCR8_eCLIP_mock_input=ENC002eCLIP_DGCR8_eCLIP_mock_input ENC003eCLIP_HNRNPU=ENC003eCLIP_HNRNPU ENC001eCLIP_HNRNPU=ENC001eCLIP_HNRNPU ENC004eCLIP_HNRNPU=ENC004eCLIP_HNRNPU ENC002eCLIP_HNRNPU=ENC002eCLIP_HNRNPU ENC003eCLIP_HNRNPU_eCLIP_mock_input=ENC003eCLIP_HNRNPU_eCLIP_mock_input ENC001eCLIP_HNRNPU_eCLIP_mock_input=ENC001eCLIP_HNRNPU_eCLIP_mock_input ENC004eCLIP_HNRNPU_eCLIP_mock_input=ENC004eCLIP_HNRNPU_eCLIP_mock_input ENC002eCLIP_HNRNPU_eCLIP_mock_input=ENC002eCLIP_HNRNPU_eCLIP_mock_input ENC003genotyping_HTS=ENC003genotyping_HTS ENC001genotyping_HTS=ENC001genotyping_HTS ENC004genotyping_HTS=ENC004genotyping_HTS ENC002genotyping_HTS=ENC002genotyping_HTS ENC003genotyping_array=ENC003genotyping_array ENC001genotyping_array=ENC001genotyping_array ENC004genotyping_array=ENC004genotyping_array ENC002genotyping_array=ENC002genotyping_array ENC003long_read_RNA-seq=ENC003long_read_RNA-seq ENC001long_read_RNA-seq=ENC001long_read_RNA-seq ENC004long_read_RNA-seq=ENC004long_read_RNA-seq ENC002long_read_RNA-seq=ENC002long_read_RNA-seq ENC003microRNA_counts=ENC003microRNA_counts ENC001microRNA_counts=ENC001microRNA_counts ENC004microRNA_counts=ENC004microRNA_counts ENC002microRNA_counts=ENC002microRNA_counts ENC003microRNA-seq=ENC003microRNA-seq ENC001microRNA-seq=ENC001microRNA-seq ENC004microRNA-seq=ENC004microRNA-seq ENC002microRNA-seq=ENC002microRNA-seq ENC003small_RNA-seq=ENC003small_RNA-seq ENC001small_RNA-seq=ENC001small_RNA-seq ENC004small_RNA-seq=ENC004small_RNA-seq ENC002small_RNA-seq=ENC002small_RNA-seq ENC003snATAC-seq=ENC003snATAC-seq ENC001snATAC-seq=ENC001snATAC-seq ENC004snATAC-seq=ENC004snATAC-seq ENC002snATAC-seq=ENC002snATAC-seq ENC003total_RNA-seq=ENC003total_RNA-seq ENC001total_RNA-seq=ENC001total_RNA-seq ENC004total_RNA-seq=ENC004total_RNA-seq ENC002total_RNA-seq=ENC002total_RNA-seq 
 subGroup2 BS Biosample Peyers_patch=Peyers_patch adrenal_gland=adrenal_gland body_of_pancreas=body_of_pancreas breast_epithelium=breast_epithelium coronary_artery=coronary_artery esophagus_muscularis_mucosa=esophagus_muscularis_mucosa esophagus_squamous_epithelium=esophagus_squamous_epithelium gastrocnemius_medialis=gastrocnemius_medialis gastroesophageal_sphincter=gastroesophageal_sphincter heart_left_ventricle=heart_left_ventricle omental_fat_pad=omental_fat_pad ovary=ovary prostate_gland=prostate_gland right_atrium_auricular_region=right_atrium_auricular_region right_lobe_of_liver=right_lobe_of_liver sigmoid_colon=sigmoid_colon spleen=spleen stomach=stomach subcutaneous_adipose_tissue=subcutaneous_adipose_tissue testis=testis thoracic_aorta=thoracic_aorta thyroid_gland=thyroid_gland tibial_artery=tibial_artery tibial_nerve=tibial_nerve transverse_colon=transverse_colon ascending_aorta=ascending_aorta lower_leg_skin=lower_leg_skin suprapubic_skin=suprapubic_skin upper_lobe_of_left_lung=upper_lobe_of_left_lung uterus=uterus vagina=vagina 
 subGroup3 IND Individuals ENC003=ENC003 ENC001=ENC001 ENC004=ENC004 ENC002=ENC002 
+subGroup4 assay Assay ATAC-seq=ATAC-seq Control_ChIP-seq_Control=Control_ChIP-seq_Control DNAme_array=DNAme_array DNase-seq=DNase-seq Histone_ChIP-seq_H3K4me1=Histone_ChIP-seq_H3K4me1 Histone_ChIP-seq_H3K4me3=Histone_ChIP-seq_H3K4me3 Histone_ChIP-seq_H3K9me3=Histone_ChIP-seq_H3K9me3 Histone_ChIP-seq_H3K27ac=Histone_ChIP-seq_H3K27ac Histone_ChIP-seq_H3K27me3=Histone_ChIP-seq_H3K27me3 Histone_ChIP-seq_H3K36me3=Histone_ChIP-seq_H3K36me3 Hi-C=Hi-C RAMPAGE=RAMPAGE TF_ChIP-seq_CTCF=TF_ChIP-seq_CTCF TF_ChIP-seq_EP300=TF_ChIP-seq_EP300 TF_ChIP-seq_POLR2A=TF_ChIP-seq_POLR2A TF_ChIP-seq_POLR2AphosphoS5=TF_ChIP-seq_POLR2AphosphoS5 WGBS=WGBS eCLIP_DGCR8=eCLIP_DGCR8 eCLIP_DGCR8_eCLIP_mock_input=eCLIP_DGCR8_eCLIP_mock_input eCLIP_HNRNPU=eCLIP_HNRNPU eCLIP_HNRNPU_eCLIP_mock_input=eCLIP_HNRNPU_eCLIP_mock_input genotyping_HTS=genotyping_HTS genotyping_array=genotyping_array long_read_RNA-seq=long_read_RNA-seq microRNA_counts=microRNA_counts microRNA-seq=microRNA-seq small_RNA-seq=small_RNA-seq snATAC-seq=snATAC-seq total_RNA-seq=total_RNA-seq 
 
 sortOrder BS=+ IND=+ view=+
-dimensions dimA=IND dimX=BS dimY=view
+dimensions dimA=IND dimX=BS dimY=assay
 dimensionAchecked pool
     track ENC002DNase-seq_view
     parent ENC002 on
@@ -1338,7 +2789,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR850YHJ1 IND=ENC002 view=ENC002DNase-seq
+        subGroups BS=spleen EXP=ENCSR850YHJ1 IND=ENC002 view=ENC002DNase-seq assay=DNase-seq
 
     track ENC002Histone_ChIP-seq_H3K4me1_view
     parent ENC002 on
@@ -1356,7 +2807,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR635IRN1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR635IRN1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
 
         track ENCSR635IRN2
         parent ENC002Histone_ChIP-seq_H3K4me1_view on
@@ -1366,7 +2817,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR635IRN2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR635IRN2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
 
         track ENCSR635IRN3
         parent ENC002Histone_ChIP-seq_H3K4me1_view on
@@ -1376,7 +2827,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR635IRN3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR635IRN3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me1 assay=Histone_ChIP-seq_H3K4me1
 
     track ENC002Histone_ChIP-seq_H3K4me3_view
     parent ENC002 on
@@ -1394,7 +2845,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR377ILM1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR377ILM1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
 
         track ENCSR377ILM2
         parent ENC002Histone_ChIP-seq_H3K4me3_view on
@@ -1404,7 +2855,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR377ILM2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR377ILM2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
 
         track ENCSR377ILM3
         parent ENC002Histone_ChIP-seq_H3K4me3_view on
@@ -1414,7 +2865,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR377ILM3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR377ILM3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
 
     track ENC002Histone_ChIP-seq_H3K9me3_view
     parent ENC002 on
@@ -1432,7 +2883,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR709APF2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR709APF2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
 
         track ENCSR709APF3
         parent ENC002Histone_ChIP-seq_H3K9me3_view on
@@ -1442,7 +2893,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR709APF3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR709APF3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
 
         track ENCSR709APF1
         parent ENC002Histone_ChIP-seq_H3K9me3_view on
@@ -1452,7 +2903,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR709APF1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR709APF1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
 
     track ENC002Histone_ChIP-seq_H3K27ac_view
     parent ENC002 on
@@ -1470,7 +2921,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR593INW1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR593INW1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
 
         track ENCSR593INW2
         parent ENC002Histone_ChIP-seq_H3K27ac_view on
@@ -1480,7 +2931,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR593INW2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR593INW2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
 
         track ENCSR593INW3
         parent ENC002Histone_ChIP-seq_H3K27ac_view on
@@ -1490,7 +2941,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR593INW3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR593INW3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
 
     track ENC002Histone_ChIP-seq_H3K27me3_view
     parent ENC002 on
@@ -1508,7 +2959,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR080JPX3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR080JPX3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
 
         track ENCSR080JPX2
         parent ENC002Histone_ChIP-seq_H3K27me3_view on
@@ -1518,7 +2969,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR080JPX2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR080JPX2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
 
         track ENCSR080JPX1
         parent ENC002Histone_ChIP-seq_H3K27me3_view on
@@ -1528,7 +2979,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR080JPX1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR080JPX1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27me3 assay=Histone_ChIP-seq_H3K27me3
 
     track ENC002Histone_ChIP-seq_H3K36me3_view
     parent ENC002 on
@@ -1546,7 +2997,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR787YHR1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR787YHR1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
 
         track ENCSR787YHR2
         parent ENC002Histone_ChIP-seq_H3K36me3_view on
@@ -1556,7 +3007,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR787YHR2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR787YHR2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
 
         track ENCSR787YHR3
         parent ENC002Histone_ChIP-seq_H3K36me3_view on
@@ -1566,7 +3017,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR787YHR3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR787YHR3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
 
     track ENC002RAMPAGE_view
     parent ENC002 on
@@ -1584,7 +3035,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR627SPU1 IND=ENC002 view=ENC002RAMPAGE
+        subGroups BS=spleen EXP=ENCSR627SPU1 IND=ENC002 view=ENC002RAMPAGE assay=RAMPAGE
 
         track ENCSR627SPU2
         parent ENC002RAMPAGE_view on
@@ -1594,7 +3045,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR627SPU2 IND=ENC002 view=ENC002RAMPAGE
+        subGroups BS=spleen EXP=ENCSR627SPU2 IND=ENC002 view=ENC002RAMPAGE assay=RAMPAGE
 
     track ENC002TF_ChIP-seq_CTCF_view
     parent ENC002 on
@@ -1612,7 +3063,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR028YEV1 IND=ENC002 view=ENC002TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR028YEV1 IND=ENC002 view=ENC002TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
 
         track ENCSR225YGX1
         parent ENC002TF_ChIP-seq_CTCF_view on
@@ -1622,7 +3073,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR225YGX1 IND=ENC002 view=ENC002TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR225YGX1 IND=ENC002 view=ENC002TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
 
         track ENCSR225YGX2
         parent ENC002TF_ChIP-seq_CTCF_view on
@@ -1632,7 +3083,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR225YGX2 IND=ENC002 view=ENC002TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR225YGX2 IND=ENC002 view=ENC002TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
 
         track ENCSR225YGX3
         parent ENC002TF_ChIP-seq_CTCF_view on
@@ -1642,7 +3093,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR225YGX3 IND=ENC002 view=ENC002TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR225YGX3 IND=ENC002 view=ENC002TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
 
     track ENC002TF_ChIP-seq_POLR2A_view
     parent ENC002 on
@@ -1660,7 +3111,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR266XFE1 IND=ENC002 view=ENC002TF_ChIP-seq_POLR2A
+        subGroups BS=spleen EXP=ENCSR266XFE1 IND=ENC002 view=ENC002TF_ChIP-seq_POLR2A assay=TF_ChIP-seq_POLR2A
 
     track ENC002small_RNA-seq_view
     parent ENC002 on
@@ -1678,7 +3129,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR587CPE1 IND=ENC002 view=ENC002small_RNA-seq
+        subGroups BS=spleen EXP=ENCSR587CPE1 IND=ENC002 view=ENC002small_RNA-seq assay=small_RNA-seq
 
         track ENCSR587CPE2
         parent ENC002small_RNA-seq_view on
@@ -1688,7 +3139,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR587CPE2 IND=ENC002 view=ENC002small_RNA-seq
+        subGroups BS=spleen EXP=ENCSR587CPE2 IND=ENC002 view=ENC002small_RNA-seq assay=small_RNA-seq
 
     track ENC002total_RNA-seq_view
     parent ENC002 on
@@ -1706,7 +3157,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR106SZN2 IND=ENC002 view=ENC002total_RNA-seq
+        subGroups BS=spleen EXP=ENCSR106SZN2 IND=ENC002 view=ENC002total_RNA-seq assay=total_RNA-seq
 
         track ENCSR106SZN1
         parent ENC002total_RNA-seq_view on
@@ -1716,4 +3167,292 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR106SZN1 IND=ENC002 view=ENC002total_RNA-seq
+        subGroups BS=spleen EXP=ENCSR106SZN1 IND=ENC002 view=ENC002total_RNA-seq assay=total_RNA-seq
+
+    track ENC002ATAC-seq_view
+    parent ENC002 on
+    view ATAC-seq
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR761TKU1
+        parent ENC002ATAC-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/5ec15835-ce97-4f55-baf9-e44942fe2593/ENCFF284HMB.bigWig
+        longLabel ATAC-seq assay performed on transverse_colon from ENC002
+        shortLabel ATAC-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR761TKU1 IND=ENC002 view=ENC002ATAC-seq assay=ATAC-seq
+
+    track ENC002DNase-seq_view
+    parent ENC002 on
+    view DNase-seq
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR790FIS1
+        parent ENC002DNase-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/26/1b979699-5a21-430e-b347-8b2162f57cb8/ENCFF098CAJ.bigWig
+        longLabel DNase-seq assay performed on transverse_colon from ENC002
+        shortLabel DNase-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR790FIS1 IND=ENC002 view=ENC002DNase-seq assay=DNase-seq
+
+    track ENC002Histone_ChIP-seq_H3K4me3_view
+    parent ENC002 on
+    view Histone_ChIP-seq_H3K4me3
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR557OWY1
+        parent ENC002Histone_ChIP-seq_H3K4me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/09/955df7a7-b0b8-4e69-a706-2469ceddf1b7/ENCFF424LFW.bigWig
+        longLabel Histone_ChIP-seq_H3K4me3 assay performed on transverse_colon from ENC002
+        shortLabel Histone_ChIP-seq_H3K4me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR557OWY1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me3 assay=Histone_ChIP-seq_H3K4me3
+
+    track ENC002Histone_ChIP-seq_H3K9me3_view
+    parent ENC002 on
+    view Histone_ChIP-seq_H3K9me3
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR413CHO1
+        parent ENC002Histone_ChIP-seq_H3K9me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/12/9547164f-6a17-467e-889d-adfcafd724b1/ENCFF010BYI.bigWig
+        longLabel Histone_ChIP-seq_H3K9me3 assay performed on transverse_colon from ENC002
+        shortLabel Histone_ChIP-seq_H3K9me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR413CHO1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
+
+        track ENCSR413CHO3
+        parent ENC002Histone_ChIP-seq_H3K9me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/12/e5ccef79-d35b-436a-82a4-643affc82eae/ENCFF045ENS.bigWig
+        longLabel Histone_ChIP-seq_H3K9me3 assay performed on transverse_colon from ENC002
+        shortLabel Histone_ChIP-seq_H3K9me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR413CHO3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
+
+        track ENCSR413CHO2
+        parent ENC002Histone_ChIP-seq_H3K9me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/12/afa87dd3-2ba1-4ac6-9835-a255e82182f9/ENCFF016EFS.bigWig
+        longLabel Histone_ChIP-seq_H3K9me3 assay performed on transverse_colon from ENC002
+        shortLabel Histone_ChIP-seq_H3K9me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR413CHO2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K9me3 assay=Histone_ChIP-seq_H3K9me3
+
+    track ENC002Histone_ChIP-seq_H3K27ac_view
+    parent ENC002 on
+    view Histone_ChIP-seq_H3K27ac
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR069EGE1
+        parent ENC002Histone_ChIP-seq_H3K27ac_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/26/4b42c972-5e39-41f9-be5d-f85abb3f1689/ENCFF604LTF.bigWig
+        longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC002
+        shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR069EGE1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
+
+    track ENC002Histone_ChIP-seq_H3K36me3_view
+    parent ENC002 on
+    view Histone_ChIP-seq_H3K36me3
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR101EEJ1
+        parent ENC002Histone_ChIP-seq_H3K36me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/07cc4fcd-e002-46db-8a7c-2648173e1c54/ENCFF890ROP.bigWig
+        longLabel Histone_ChIP-seq_H3K36me3 assay performed on transverse_colon from ENC002
+        shortLabel Histone_ChIP-seq_H3K36me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR101EEJ1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
+
+        track ENCSR101EEJ3
+        parent ENC002Histone_ChIP-seq_H3K36me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/f6b1b2c9-6aa0-4c7a-8c45-95fbcc173092/ENCFF797RYG.bigWig
+        longLabel Histone_ChIP-seq_H3K36me3 assay performed on transverse_colon from ENC002
+        shortLabel Histone_ChIP-seq_H3K36me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR101EEJ3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
+
+        track ENCSR101EEJ2
+        parent ENC002Histone_ChIP-seq_H3K36me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/4ac830d0-6e23-4439-b5ef-dc9be5871e31/ENCFF463KRU.bigWig
+        longLabel Histone_ChIP-seq_H3K36me3 assay performed on transverse_colon from ENC002
+        shortLabel Histone_ChIP-seq_H3K36me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR101EEJ2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
+
+        track ENCSR101EEJ4
+        parent ENC002Histone_ChIP-seq_H3K36me3_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/90572e60-3371-42ab-a04b-502678b3a73d/ENCFF494KSM.bigWig
+        longLabel Histone_ChIP-seq_H3K36me3 assay performed on transverse_colon from ENC002
+        shortLabel Histone_ChIP-seq_H3K36me3_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR101EEJ4 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K36me3 assay=Histone_ChIP-seq_H3K36me3
+
+    track ENC002RAMPAGE_view
+    parent ENC002 on
+    view RAMPAGE
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR649WDK2
+        parent ENC002RAMPAGE_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/338aef6d-3cab-4de7-a4bd-31e030458646/ENCFF578PAO.bigWig
+        longLabel RAMPAGE assay performed on transverse_colon from ENC002
+        shortLabel RAMPAGE_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR649WDK2 IND=ENC002 view=ENC002RAMPAGE assay=RAMPAGE
+
+        track ENCSR649WDK1
+        parent ENC002RAMPAGE_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/deda4e40-eac7-46f8-868d-ad43ece21507/ENCFF404BYY.bigWig
+        longLabel RAMPAGE assay performed on transverse_colon from ENC002
+        shortLabel RAMPAGE_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR649WDK1 IND=ENC002 view=ENC002RAMPAGE assay=RAMPAGE
+
+    track ENC002TF_ChIP-seq_CTCF_view
+    parent ENC002 on
+    view TF_ChIP-seq_CTCF
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR907BES1
+        parent ENC002TF_ChIP-seq_CTCF_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/26/366fd637-2503-4290-98d9-cf4865af7fea/ENCFF991QOA.bigWig
+        longLabel TF_ChIP-seq_CTCF assay performed on transverse_colon from ENC002
+        shortLabel TF_ChIP-seq_CTCF_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR907BES1 IND=ENC002 view=ENC002TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
+
+        track ENCSR833FWC1
+        parent ENC002TF_ChIP-seq_CTCF_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/12395ddb-a6f3-4005-b331-65e3e017561b/ENCFF007DYR.bigWig
+        longLabel TF_ChIP-seq_CTCF assay performed on transverse_colon from ENC002
+        shortLabel TF_ChIP-seq_CTCF_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR833FWC1 IND=ENC002 view=ENC002TF_ChIP-seq_CTCF assay=TF_ChIP-seq_CTCF
+
+    track ENC002TF_ChIP-seq_POLR2A_view
+    parent ENC002 on
+    view TF_ChIP-seq_POLR2A
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR132XRW1
+        parent ENC002TF_ChIP-seq_POLR2A_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/605e6222-42f9-4055-be19-ae8d5e92fc9b/ENCFF757YCH.bigWig
+        longLabel TF_ChIP-seq_POLR2A assay performed on transverse_colon from ENC002
+        shortLabel TF_ChIP-seq_POLR2A_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR132XRW1 IND=ENC002 view=ENC002TF_ChIP-seq_POLR2A assay=TF_ChIP-seq_POLR2A
+
+    track ENC002small_RNA-seq_view
+    parent ENC002 on
+    view small_RNA-seq
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR168XPO2
+        parent ENC002small_RNA-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/67fd29ce-5dc8-4059-96bc-679435149885/ENCFF523YMH.bigWig
+        longLabel small_RNA-seq assay performed on transverse_colon from ENC002
+        shortLabel small_RNA-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR168XPO2 IND=ENC002 view=ENC002small_RNA-seq assay=small_RNA-seq
+
+        track ENCSR168XPO1
+        parent ENC002small_RNA-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/ef171c88-8601-43ad-b089-52eeab751807/ENCFF775WTW.bigWig
+        longLabel small_RNA-seq assay performed on transverse_colon from ENC002
+        shortLabel small_RNA-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR168XPO1 IND=ENC002 view=ENC002small_RNA-seq assay=small_RNA-seq
+
+    track ENC002total_RNA-seq_view
+    parent ENC002 on
+    view total_RNA-seq
+    type bigWig
+    visibility hide
+    autoScale on
+
+
+        track ENCSR630VJN1
+        parent ENC002total_RNA-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/02/17/06d01284-9324-47f2-9963-70be9ff366bb/ENCFF428MEL.bigWig
+        longLabel total_RNA-seq assay performed on transverse_colon from ENC002
+        shortLabel total_RNA-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR630VJN1 IND=ENC002 view=ENC002total_RNA-seq assay=total_RNA-seq
+
+        track ENCSR630VJN2
+        parent ENC002total_RNA-seq_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/02/17/ee77d384-574d-4cc9-b875-c033af8aa5d4/ENCFF715DRI.bigWig
+        longLabel total_RNA-seq assay performed on transverse_colon from ENC002
+        shortLabel total_RNA-seq_transverse_colon
+        type bigWig
+        color 238,197,145
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR630VJN2 IND=ENC002 view=ENC002total_RNA-seq assay=total_RNA-seq
