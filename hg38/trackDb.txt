@@ -3,7 +3,7 @@ compositeTrack on
 type bigWig
 longLabel Collection of ENCODE data for ENC003
 shortLabel ENTEx ENC003
-visibility dense
+visibility hide
 pennantIcon https://www.encodeproject.org/static/img/pennant-encode.png
 html HIST
 subGroup1 view Views ENC003ATAC-seq=ENC003ATAC-seq ENC001ATAC-seq=ENC001ATAC-seq ENC004ATAC-seq=ENC004ATAC-seq ENC002ATAC-seq=ENC002ATAC-seq ENC003Control_ChIP-seq_Control=ENC003Control_ChIP-seq_Control ENC001Control_ChIP-seq_Control=ENC001Control_ChIP-seq_Control ENC004Control_ChIP-seq_Control=ENC004Control_ChIP-seq_Control ENC002Control_ChIP-seq_Control=ENC002Control_ChIP-seq_Control ENC003DNAme_array=ENC003DNAme_array ENC001DNAme_array=ENC001DNAme_array ENC004DNAme_array=ENC004DNAme_array ENC002DNAme_array=ENC002DNAme_array ENC003DNase-seq=ENC003DNase-seq ENC001DNase-seq=ENC001DNase-seq ENC004DNase-seq=ENC004DNase-seq ENC002DNase-seq=ENC002DNase-seq ENC003Histone_ChIP-seq_H3K4me1=ENC003Histone_ChIP-seq_H3K4me1 ENC001Histone_ChIP-seq_H3K4me1=ENC001Histone_ChIP-seq_H3K4me1 ENC004Histone_ChIP-seq_H3K4me1=ENC004Histone_ChIP-seq_H3K4me1 ENC002Histone_ChIP-seq_H3K4me1=ENC002Histone_ChIP-seq_H3K4me1 ENC003Histone_ChIP-seq_H3K4me3=ENC003Histone_ChIP-seq_H3K4me3 ENC001Histone_ChIP-seq_H3K4me3=ENC001Histone_ChIP-seq_H3K4me3 ENC004Histone_ChIP-seq_H3K4me3=ENC004Histone_ChIP-seq_H3K4me3 ENC002Histone_ChIP-seq_H3K4me3=ENC002Histone_ChIP-seq_H3K4me3 ENC003Histone_ChIP-seq_H3K9me3=ENC003Histone_ChIP-seq_H3K9me3 ENC001Histone_ChIP-seq_H3K9me3=ENC001Histone_ChIP-seq_H3K9me3 ENC004Histone_ChIP-seq_H3K9me3=ENC004Histone_ChIP-seq_H3K9me3 ENC002Histone_ChIP-seq_H3K9me3=ENC002Histone_ChIP-seq_H3K9me3 ENC003Histone_ChIP-seq_H3K27ac=ENC003Histone_ChIP-seq_H3K27ac ENC001Histone_ChIP-seq_H3K27ac=ENC001Histone_ChIP-seq_H3K27ac ENC004Histone_ChIP-seq_H3K27ac=ENC004Histone_ChIP-seq_H3K27ac ENC002Histone_ChIP-seq_H3K27ac=ENC002Histone_ChIP-seq_H3K27ac ENC003Histone_ChIP-seq_H3K27me3=ENC003Histone_ChIP-seq_H3K27me3 ENC001Histone_ChIP-seq_H3K27me3=ENC001Histone_ChIP-seq_H3K27me3 ENC004Histone_ChIP-seq_H3K27me3=ENC004Histone_ChIP-seq_H3K27me3 ENC002Histone_ChIP-seq_H3K27me3=ENC002Histone_ChIP-seq_H3K27me3 ENC003Histone_ChIP-seq_H3K36me3=ENC003Histone_ChIP-seq_H3K36me3 ENC001Histone_ChIP-seq_H3K36me3=ENC001Histone_ChIP-seq_H3K36me3 ENC004Histone_ChIP-seq_H3K36me3=ENC004Histone_ChIP-seq_H3K36me3 ENC002Histone_ChIP-seq_H3K36me3=ENC002Histone_ChIP-seq_H3K36me3 ENC003Hi-C=ENC003Hi-C ENC001Hi-C=ENC001Hi-C ENC004Hi-C=ENC004Hi-C ENC002Hi-C=ENC002Hi-C ENC003RAMPAGE=ENC003RAMPAGE ENC001RAMPAGE=ENC001RAMPAGE ENC004RAMPAGE=ENC004RAMPAGE ENC002RAMPAGE=ENC002RAMPAGE ENC003TF_ChIP-seq_CTCF=ENC003TF_ChIP-seq_CTCF ENC001TF_ChIP-seq_CTCF=ENC001TF_ChIP-seq_CTCF ENC004TF_ChIP-seq_CTCF=ENC004TF_ChIP-seq_CTCF ENC002TF_ChIP-seq_CTCF=ENC002TF_ChIP-seq_CTCF ENC003TF_ChIP-seq_EP300=ENC003TF_ChIP-seq_EP300 ENC001TF_ChIP-seq_EP300=ENC001TF_ChIP-seq_EP300 ENC004TF_ChIP-seq_EP300=ENC004TF_ChIP-seq_EP300 ENC002TF_ChIP-seq_EP300=ENC002TF_ChIP-seq_EP300 ENC003TF_ChIP-seq_POLR2A=ENC003TF_ChIP-seq_POLR2A ENC001TF_ChIP-seq_POLR2A=ENC001TF_ChIP-seq_POLR2A ENC004TF_ChIP-seq_POLR2A=ENC004TF_ChIP-seq_POLR2A ENC002TF_ChIP-seq_POLR2A=ENC002TF_ChIP-seq_POLR2A ENC003TF_ChIP-seq_POLR2AphosphoS5=ENC003TF_ChIP-seq_POLR2AphosphoS5 ENC001TF_ChIP-seq_POLR2AphosphoS5=ENC001TF_ChIP-seq_POLR2AphosphoS5 ENC004TF_ChIP-seq_POLR2AphosphoS5=ENC004TF_ChIP-seq_POLR2AphosphoS5 ENC002TF_ChIP-seq_POLR2AphosphoS5=ENC002TF_ChIP-seq_POLR2AphosphoS5 ENC003WGBS=ENC003WGBS ENC001WGBS=ENC001WGBS ENC004WGBS=ENC004WGBS ENC002WGBS=ENC002WGBS ENC003eCLIP_DGCR8=ENC003eCLIP_DGCR8 ENC001eCLIP_DGCR8=ENC001eCLIP_DGCR8 ENC004eCLIP_DGCR8=ENC004eCLIP_DGCR8 ENC002eCLIP_DGCR8=ENC002eCLIP_DGCR8 ENC003eCLIP_DGCR8_eCLIP_mock_input=ENC003eCLIP_DGCR8_eCLIP_mock_input ENC001eCLIP_DGCR8_eCLIP_mock_input=ENC001eCLIP_DGCR8_eCLIP_mock_input ENC004eCLIP_DGCR8_eCLIP_mock_input=ENC004eCLIP_DGCR8_eCLIP_mock_input ENC002eCLIP_DGCR8_eCLIP_mock_input=ENC002eCLIP_DGCR8_eCLIP_mock_input ENC003eCLIP_HNRNPU=ENC003eCLIP_HNRNPU ENC001eCLIP_HNRNPU=ENC001eCLIP_HNRNPU ENC004eCLIP_HNRNPU=ENC004eCLIP_HNRNPU ENC002eCLIP_HNRNPU=ENC002eCLIP_HNRNPU ENC003eCLIP_HNRNPU_eCLIP_mock_input=ENC003eCLIP_HNRNPU_eCLIP_mock_input ENC001eCLIP_HNRNPU_eCLIP_mock_input=ENC001eCLIP_HNRNPU_eCLIP_mock_input ENC004eCLIP_HNRNPU_eCLIP_mock_input=ENC004eCLIP_HNRNPU_eCLIP_mock_input ENC002eCLIP_HNRNPU_eCLIP_mock_input=ENC002eCLIP_HNRNPU_eCLIP_mock_input ENC003genotyping_HTS=ENC003genotyping_HTS ENC001genotyping_HTS=ENC001genotyping_HTS ENC004genotyping_HTS=ENC004genotyping_HTS ENC002genotyping_HTS=ENC002genotyping_HTS ENC003genotyping_array=ENC003genotyping_array ENC001genotyping_array=ENC001genotyping_array ENC004genotyping_array=ENC004genotyping_array ENC002genotyping_array=ENC002genotyping_array ENC003long_read_RNA-seq=ENC003long_read_RNA-seq ENC001long_read_RNA-seq=ENC001long_read_RNA-seq ENC004long_read_RNA-seq=ENC004long_read_RNA-seq ENC002long_read_RNA-seq=ENC002long_read_RNA-seq ENC003microRNA_counts=ENC003microRNA_counts ENC001microRNA_counts=ENC001microRNA_counts ENC004microRNA_counts=ENC004microRNA_counts ENC002microRNA_counts=ENC002microRNA_counts ENC003microRNA-seq=ENC003microRNA-seq ENC001microRNA-seq=ENC001microRNA-seq ENC004microRNA-seq=ENC004microRNA-seq ENC002microRNA-seq=ENC002microRNA-seq ENC003small_RNA-seq=ENC003small_RNA-seq ENC001small_RNA-seq=ENC001small_RNA-seq ENC004small_RNA-seq=ENC004small_RNA-seq ENC002small_RNA-seq=ENC002small_RNA-seq ENC003snATAC-seq=ENC003snATAC-seq ENC001snATAC-seq=ENC001snATAC-seq ENC004snATAC-seq=ENC004snATAC-seq ENC002snATAC-seq=ENC002snATAC-seq ENC003total_RNA-seq=ENC003total_RNA-seq ENC001total_RNA-seq=ENC001total_RNA-seq ENC004total_RNA-seq=ENC004total_RNA-seq ENC002total_RNA-seq=ENC002total_RNA-seq 
@@ -17,7 +17,7 @@ dimensionAchecked pool
     parent ENC003 on
     view Histone_ChIP-seq_H3K4me1
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -27,7 +27,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me1 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K4me1_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR659RJP4 TARG=OC view=Histone_ChIP-seq_H3K4me1
 
@@ -37,7 +37,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me1 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K4me1_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR659RJP1 TARG=OC view=Histone_ChIP-seq_H3K4me1
 
@@ -47,7 +47,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me1 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K4me1_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR659RJP3 TARG=OC view=Histone_ChIP-seq_H3K4me1
 
@@ -57,7 +57,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me1 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K4me1_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR659RJP2 TARG=OC view=Histone_ChIP-seq_H3K4me1
 
@@ -65,7 +65,7 @@ dimensionAchecked pool
     parent ENC003 on
     view Histone_ChIP-seq_H3K4me3
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -75,7 +75,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me3 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K4me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR197QDK2 TARG=OC view=Histone_ChIP-seq_H3K4me3
 
@@ -85,7 +85,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me3 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K4me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR197QDK3 TARG=OC view=Histone_ChIP-seq_H3K4me3
 
@@ -95,7 +95,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me3 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K4me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR197QDK1 TARG=OC view=Histone_ChIP-seq_H3K4me3
 
@@ -105,7 +105,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me3 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K4me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR197QDK4 TARG=OC view=Histone_ChIP-seq_H3K4me3
 
@@ -113,7 +113,7 @@ dimensionAchecked pool
     parent ENC003 on
     view Histone_ChIP-seq_H3K9me3
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -123,7 +123,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K9me3 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K9me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR105URN2 TARG=OC view=Histone_ChIP-seq_H3K9me3
 
@@ -133,7 +133,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K9me3 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K9me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR105URN3 TARG=OC view=Histone_ChIP-seq_H3K9me3
 
@@ -143,7 +143,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K9me3 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K9me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR105URN1 TARG=OC view=Histone_ChIP-seq_H3K9me3
 
@@ -153,7 +153,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K9me3 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K9me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR105URN4 TARG=OC view=Histone_ChIP-seq_H3K9me3
 
@@ -161,7 +161,7 @@ dimensionAchecked pool
     parent ENC003 on
     view Histone_ChIP-seq_H3K27ac
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -171,7 +171,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K27ac_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR726HTS3 TARG=OC view=Histone_ChIP-seq_H3K27ac
 
@@ -181,7 +181,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K27ac_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR726HTS2 TARG=OC view=Histone_ChIP-seq_H3K27ac
 
@@ -191,7 +191,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K27ac_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR726HTS1 TARG=OC view=Histone_ChIP-seq_H3K27ac
 
@@ -201,7 +201,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K27ac_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR726HTS4 TARG=OC view=Histone_ChIP-seq_H3K27ac
 
@@ -209,7 +209,7 @@ dimensionAchecked pool
     parent ENC003 on
     view Histone_ChIP-seq_H3K27me3
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -219,7 +219,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27me3 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K27me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR161FEJ2 TARG=OC view=Histone_ChIP-seq_H3K27me3
 
@@ -229,7 +229,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27me3 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K27me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR161FEJ3 TARG=OC view=Histone_ChIP-seq_H3K27me3
 
@@ -239,7 +239,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27me3 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K27me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR161FEJ1 TARG=OC view=Histone_ChIP-seq_H3K27me3
 
@@ -249,7 +249,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27me3 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K27me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR161FEJ4 TARG=OC view=Histone_ChIP-seq_H3K27me3
 
@@ -257,7 +257,7 @@ dimensionAchecked pool
     parent ENC003 on
     view Histone_ChIP-seq_H3K36me3
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -267,7 +267,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K36me3 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K36me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR589TCU4 TARG=OC view=Histone_ChIP-seq_H3K36me3
 
@@ -277,7 +277,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K36me3 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K36me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR589TCU1 TARG=OC view=Histone_ChIP-seq_H3K36me3
 
@@ -287,7 +287,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K36me3 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K36me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR589TCU3 TARG=OC view=Histone_ChIP-seq_H3K36me3
 
@@ -297,7 +297,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K36me3 assay performed on spleen from ENC003
         shortLabel Histone_ChIP-seq_H3K36me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR589TCU2 TARG=OC view=Histone_ChIP-seq_H3K36me3
 
@@ -305,7 +305,7 @@ dimensionAchecked pool
     parent ENC003 on
     view RAMPAGE
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -315,7 +315,7 @@ dimensionAchecked pool
         longLabel RAMPAGE assay performed on spleen from ENC003
         shortLabel RAMPAGE_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR236PTD1 TARG=OC view=RAMPAGE
 
@@ -325,7 +325,7 @@ dimensionAchecked pool
         longLabel RAMPAGE assay performed on spleen from ENC003
         shortLabel RAMPAGE_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR236PTD2 TARG=OC view=RAMPAGE
 
@@ -333,7 +333,7 @@ dimensionAchecked pool
     parent ENC003 on
     view TF_ChIP-seq_CTCF
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -343,7 +343,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_CTCF assay performed on spleen from ENC003
         shortLabel TF_ChIP-seq_CTCF_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR601FEB3 TARG=OC view=TF_ChIP-seq_CTCF
 
@@ -353,7 +353,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_CTCF assay performed on spleen from ENC003
         shortLabel TF_ChIP-seq_CTCF_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR601FEB2 TARG=OC view=TF_ChIP-seq_CTCF
 
@@ -363,7 +363,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_CTCF assay performed on spleen from ENC003
         shortLabel TF_ChIP-seq_CTCF_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR601FEB1 TARG=OC view=TF_ChIP-seq_CTCF
 
@@ -373,7 +373,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_CTCF assay performed on spleen from ENC003
         shortLabel TF_ChIP-seq_CTCF_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR692ILH1 TARG=OC view=TF_ChIP-seq_CTCF
 
@@ -381,7 +381,7 @@ dimensionAchecked pool
     parent ENC003 on
     view TF_ChIP-seq_POLR2A
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -391,7 +391,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_POLR2A assay performed on spleen from ENC003
         shortLabel TF_ChIP-seq_POLR2A_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR289VTP1 TARG=OC view=TF_ChIP-seq_POLR2A
 
@@ -399,7 +399,7 @@ dimensionAchecked pool
     parent ENC003 on
     view TF_ChIP-seq_POLR2AphosphoS5
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -409,7 +409,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_POLR2AphosphoS5 assay performed on spleen from ENC003
         shortLabel TF_ChIP-seq_POLR2AphosphoS5_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR959UQA1 TARG=OC view=TF_ChIP-seq_POLR2AphosphoS5
 
@@ -417,7 +417,7 @@ dimensionAchecked pool
     parent ENC003 on
     view small_RNA-seq
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -427,7 +427,7 @@ dimensionAchecked pool
         longLabel small_RNA-seq assay performed on spleen from ENC003
         shortLabel small_RNA-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR307FBN2 TARG=OC view=small_RNA-seq
 
@@ -437,7 +437,7 @@ dimensionAchecked pool
         longLabel small_RNA-seq assay performed on spleen from ENC003
         shortLabel small_RNA-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR307FBN1 TARG=OC view=small_RNA-seq
 
@@ -445,7 +445,7 @@ dimensionAchecked pool
     parent ENC003 on
     view total_RNA-seq
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -455,7 +455,7 @@ dimensionAchecked pool
         longLabel total_RNA-seq assay performed on spleen from ENC003
         shortLabel total_RNA-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR900SGE1 TARG=OC view=total_RNA-seq
 
@@ -465,7 +465,7 @@ dimensionAchecked pool
         longLabel total_RNA-seq assay performed on spleen from ENC003
         shortLabel total_RNA-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR900SGE2 TARG=OC view=total_RNA-seq
 
@@ -474,7 +474,7 @@ compositeTrack on
 type bigWig
 longLabel Collection of ENCODE data for ENC001
 shortLabel ENTEx ENC001
-visibility dense
+visibility hide
 pennantIcon https://www.encodeproject.org/static/img/pennant-encode.png
 html HIST
 subGroup1 view Views ENC003ATAC-seq=ENC003ATAC-seq ENC001ATAC-seq=ENC001ATAC-seq ENC004ATAC-seq=ENC004ATAC-seq ENC002ATAC-seq=ENC002ATAC-seq ENC003Control_ChIP-seq_Control=ENC003Control_ChIP-seq_Control ENC001Control_ChIP-seq_Control=ENC001Control_ChIP-seq_Control ENC004Control_ChIP-seq_Control=ENC004Control_ChIP-seq_Control ENC002Control_ChIP-seq_Control=ENC002Control_ChIP-seq_Control ENC003DNAme_array=ENC003DNAme_array ENC001DNAme_array=ENC001DNAme_array ENC004DNAme_array=ENC004DNAme_array ENC002DNAme_array=ENC002DNAme_array ENC003DNase-seq=ENC003DNase-seq ENC001DNase-seq=ENC001DNase-seq ENC004DNase-seq=ENC004DNase-seq ENC002DNase-seq=ENC002DNase-seq ENC003Histone_ChIP-seq_H3K4me1=ENC003Histone_ChIP-seq_H3K4me1 ENC001Histone_ChIP-seq_H3K4me1=ENC001Histone_ChIP-seq_H3K4me1 ENC004Histone_ChIP-seq_H3K4me1=ENC004Histone_ChIP-seq_H3K4me1 ENC002Histone_ChIP-seq_H3K4me1=ENC002Histone_ChIP-seq_H3K4me1 ENC003Histone_ChIP-seq_H3K4me3=ENC003Histone_ChIP-seq_H3K4me3 ENC001Histone_ChIP-seq_H3K4me3=ENC001Histone_ChIP-seq_H3K4me3 ENC004Histone_ChIP-seq_H3K4me3=ENC004Histone_ChIP-seq_H3K4me3 ENC002Histone_ChIP-seq_H3K4me3=ENC002Histone_ChIP-seq_H3K4me3 ENC003Histone_ChIP-seq_H3K9me3=ENC003Histone_ChIP-seq_H3K9me3 ENC001Histone_ChIP-seq_H3K9me3=ENC001Histone_ChIP-seq_H3K9me3 ENC004Histone_ChIP-seq_H3K9me3=ENC004Histone_ChIP-seq_H3K9me3 ENC002Histone_ChIP-seq_H3K9me3=ENC002Histone_ChIP-seq_H3K9me3 ENC003Histone_ChIP-seq_H3K27ac=ENC003Histone_ChIP-seq_H3K27ac ENC001Histone_ChIP-seq_H3K27ac=ENC001Histone_ChIP-seq_H3K27ac ENC004Histone_ChIP-seq_H3K27ac=ENC004Histone_ChIP-seq_H3K27ac ENC002Histone_ChIP-seq_H3K27ac=ENC002Histone_ChIP-seq_H3K27ac ENC003Histone_ChIP-seq_H3K27me3=ENC003Histone_ChIP-seq_H3K27me3 ENC001Histone_ChIP-seq_H3K27me3=ENC001Histone_ChIP-seq_H3K27me3 ENC004Histone_ChIP-seq_H3K27me3=ENC004Histone_ChIP-seq_H3K27me3 ENC002Histone_ChIP-seq_H3K27me3=ENC002Histone_ChIP-seq_H3K27me3 ENC003Histone_ChIP-seq_H3K36me3=ENC003Histone_ChIP-seq_H3K36me3 ENC001Histone_ChIP-seq_H3K36me3=ENC001Histone_ChIP-seq_H3K36me3 ENC004Histone_ChIP-seq_H3K36me3=ENC004Histone_ChIP-seq_H3K36me3 ENC002Histone_ChIP-seq_H3K36me3=ENC002Histone_ChIP-seq_H3K36me3 ENC003Hi-C=ENC003Hi-C ENC001Hi-C=ENC001Hi-C ENC004Hi-C=ENC004Hi-C ENC002Hi-C=ENC002Hi-C ENC003RAMPAGE=ENC003RAMPAGE ENC001RAMPAGE=ENC001RAMPAGE ENC004RAMPAGE=ENC004RAMPAGE ENC002RAMPAGE=ENC002RAMPAGE ENC003TF_ChIP-seq_CTCF=ENC003TF_ChIP-seq_CTCF ENC001TF_ChIP-seq_CTCF=ENC001TF_ChIP-seq_CTCF ENC004TF_ChIP-seq_CTCF=ENC004TF_ChIP-seq_CTCF ENC002TF_ChIP-seq_CTCF=ENC002TF_ChIP-seq_CTCF ENC003TF_ChIP-seq_EP300=ENC003TF_ChIP-seq_EP300 ENC001TF_ChIP-seq_EP300=ENC001TF_ChIP-seq_EP300 ENC004TF_ChIP-seq_EP300=ENC004TF_ChIP-seq_EP300 ENC002TF_ChIP-seq_EP300=ENC002TF_ChIP-seq_EP300 ENC003TF_ChIP-seq_POLR2A=ENC003TF_ChIP-seq_POLR2A ENC001TF_ChIP-seq_POLR2A=ENC001TF_ChIP-seq_POLR2A ENC004TF_ChIP-seq_POLR2A=ENC004TF_ChIP-seq_POLR2A ENC002TF_ChIP-seq_POLR2A=ENC002TF_ChIP-seq_POLR2A ENC003TF_ChIP-seq_POLR2AphosphoS5=ENC003TF_ChIP-seq_POLR2AphosphoS5 ENC001TF_ChIP-seq_POLR2AphosphoS5=ENC001TF_ChIP-seq_POLR2AphosphoS5 ENC004TF_ChIP-seq_POLR2AphosphoS5=ENC004TF_ChIP-seq_POLR2AphosphoS5 ENC002TF_ChIP-seq_POLR2AphosphoS5=ENC002TF_ChIP-seq_POLR2AphosphoS5 ENC003WGBS=ENC003WGBS ENC001WGBS=ENC001WGBS ENC004WGBS=ENC004WGBS ENC002WGBS=ENC002WGBS ENC003eCLIP_DGCR8=ENC003eCLIP_DGCR8 ENC001eCLIP_DGCR8=ENC001eCLIP_DGCR8 ENC004eCLIP_DGCR8=ENC004eCLIP_DGCR8 ENC002eCLIP_DGCR8=ENC002eCLIP_DGCR8 ENC003eCLIP_DGCR8_eCLIP_mock_input=ENC003eCLIP_DGCR8_eCLIP_mock_input ENC001eCLIP_DGCR8_eCLIP_mock_input=ENC001eCLIP_DGCR8_eCLIP_mock_input ENC004eCLIP_DGCR8_eCLIP_mock_input=ENC004eCLIP_DGCR8_eCLIP_mock_input ENC002eCLIP_DGCR8_eCLIP_mock_input=ENC002eCLIP_DGCR8_eCLIP_mock_input ENC003eCLIP_HNRNPU=ENC003eCLIP_HNRNPU ENC001eCLIP_HNRNPU=ENC001eCLIP_HNRNPU ENC004eCLIP_HNRNPU=ENC004eCLIP_HNRNPU ENC002eCLIP_HNRNPU=ENC002eCLIP_HNRNPU ENC003eCLIP_HNRNPU_eCLIP_mock_input=ENC003eCLIP_HNRNPU_eCLIP_mock_input ENC001eCLIP_HNRNPU_eCLIP_mock_input=ENC001eCLIP_HNRNPU_eCLIP_mock_input ENC004eCLIP_HNRNPU_eCLIP_mock_input=ENC004eCLIP_HNRNPU_eCLIP_mock_input ENC002eCLIP_HNRNPU_eCLIP_mock_input=ENC002eCLIP_HNRNPU_eCLIP_mock_input ENC003genotyping_HTS=ENC003genotyping_HTS ENC001genotyping_HTS=ENC001genotyping_HTS ENC004genotyping_HTS=ENC004genotyping_HTS ENC002genotyping_HTS=ENC002genotyping_HTS ENC003genotyping_array=ENC003genotyping_array ENC001genotyping_array=ENC001genotyping_array ENC004genotyping_array=ENC004genotyping_array ENC002genotyping_array=ENC002genotyping_array ENC003long_read_RNA-seq=ENC003long_read_RNA-seq ENC001long_read_RNA-seq=ENC001long_read_RNA-seq ENC004long_read_RNA-seq=ENC004long_read_RNA-seq ENC002long_read_RNA-seq=ENC002long_read_RNA-seq ENC003microRNA_counts=ENC003microRNA_counts ENC001microRNA_counts=ENC001microRNA_counts ENC004microRNA_counts=ENC004microRNA_counts ENC002microRNA_counts=ENC002microRNA_counts ENC003microRNA-seq=ENC003microRNA-seq ENC001microRNA-seq=ENC001microRNA-seq ENC004microRNA-seq=ENC004microRNA-seq ENC002microRNA-seq=ENC002microRNA-seq ENC003small_RNA-seq=ENC003small_RNA-seq ENC001small_RNA-seq=ENC001small_RNA-seq ENC004small_RNA-seq=ENC004small_RNA-seq ENC002small_RNA-seq=ENC002small_RNA-seq ENC003snATAC-seq=ENC003snATAC-seq ENC001snATAC-seq=ENC001snATAC-seq ENC004snATAC-seq=ENC004snATAC-seq ENC002snATAC-seq=ENC002snATAC-seq ENC003total_RNA-seq=ENC003total_RNA-seq ENC001total_RNA-seq=ENC001total_RNA-seq ENC004total_RNA-seq=ENC004total_RNA-seq ENC002total_RNA-seq=ENC002total_RNA-seq 
@@ -488,7 +488,7 @@ dimensionAchecked pool
     parent ENC001 on
     view Histone_ChIP-seq_H3K4me1
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -498,7 +498,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me1 assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K4me1_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR928BGP3 TARG=OC view=Histone_ChIP-seq_H3K4me1
 
@@ -508,7 +508,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me1 assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K4me1_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR928BGP2 TARG=OC view=Histone_ChIP-seq_H3K4me1
 
@@ -518,7 +518,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me1 assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K4me1_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR928BGP1 TARG=OC view=Histone_ChIP-seq_H3K4me1
 
@@ -526,7 +526,7 @@ dimensionAchecked pool
     parent ENC001 on
     view Histone_ChIP-seq_H3K4me3
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -536,7 +536,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me3 assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K4me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR556QXD2 TARG=OC view=Histone_ChIP-seq_H3K4me3
 
@@ -546,7 +546,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me3 assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K4me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR556QXD3 TARG=OC view=Histone_ChIP-seq_H3K4me3
 
@@ -556,7 +556,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me3 assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K4me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR556QXD1 TARG=OC view=Histone_ChIP-seq_H3K4me3
 
@@ -564,7 +564,7 @@ dimensionAchecked pool
     parent ENC001 on
     view Histone_ChIP-seq_H3K9me3
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -574,7 +574,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K9me3 assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K9me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR091IRL2 TARG=OC view=Histone_ChIP-seq_H3K9me3
 
@@ -584,7 +584,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K9me3 assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K9me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR091IRL3 TARG=OC view=Histone_ChIP-seq_H3K9me3
 
@@ -594,7 +594,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K9me3 assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K9me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR091IRL1 TARG=OC view=Histone_ChIP-seq_H3K9me3
 
@@ -602,7 +602,7 @@ dimensionAchecked pool
     parent ENC001 on
     view Histone_ChIP-seq_H3K27ac
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -612,7 +612,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K27ac_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR426VHO2 TARG=OC view=Histone_ChIP-seq_H3K27ac
 
@@ -622,7 +622,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K27ac_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR426VHO3 TARG=OC view=Histone_ChIP-seq_H3K27ac
 
@@ -632,7 +632,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K27ac_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR426VHO1 TARG=OC view=Histone_ChIP-seq_H3K27ac
 
@@ -640,7 +640,7 @@ dimensionAchecked pool
     parent ENC001 on
     view Histone_ChIP-seq_H3K27me3
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -650,7 +650,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27me3 assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K27me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR506DCR3 TARG=OC view=Histone_ChIP-seq_H3K27me3
 
@@ -660,7 +660,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27me3 assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K27me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR506DCR2 TARG=OC view=Histone_ChIP-seq_H3K27me3
 
@@ -670,7 +670,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27me3 assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K27me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR506DCR1 TARG=OC view=Histone_ChIP-seq_H3K27me3
 
@@ -678,7 +678,7 @@ dimensionAchecked pool
     parent ENC001 on
     view Histone_ChIP-seq_H3K36me3
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -688,7 +688,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K36me3 assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K36me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR407UEE3 TARG=OC view=Histone_ChIP-seq_H3K36me3
 
@@ -698,7 +698,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K36me3 assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K36me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR407UEE2 TARG=OC view=Histone_ChIP-seq_H3K36me3
 
@@ -708,7 +708,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K36me3 assay performed on spleen from ENC001
         shortLabel Histone_ChIP-seq_H3K36me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR407UEE1 TARG=OC view=Histone_ChIP-seq_H3K36me3
 
@@ -716,7 +716,7 @@ dimensionAchecked pool
     parent ENC001 on
     view RAMPAGE
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -726,7 +726,7 @@ dimensionAchecked pool
         longLabel RAMPAGE assay performed on spleen from ENC001
         shortLabel RAMPAGE_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR329YVA2 TARG=OC view=RAMPAGE
 
@@ -736,7 +736,7 @@ dimensionAchecked pool
         longLabel RAMPAGE assay performed on spleen from ENC001
         shortLabel RAMPAGE_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR329YVA1 TARG=OC view=RAMPAGE
 
@@ -744,7 +744,7 @@ dimensionAchecked pool
     parent ENC001 on
     view TF_ChIP-seq_CTCF
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -754,7 +754,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_CTCF assay performed on spleen from ENC001
         shortLabel TF_ChIP-seq_CTCF_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR234HEM1 TARG=OC view=TF_ChIP-seq_CTCF
 
@@ -764,7 +764,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_CTCF assay performed on spleen from ENC001
         shortLabel TF_ChIP-seq_CTCF_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR343RJH1 TARG=OC view=TF_ChIP-seq_CTCF
 
@@ -774,7 +774,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_CTCF assay performed on spleen from ENC001
         shortLabel TF_ChIP-seq_CTCF_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR343RJH3 TARG=OC view=TF_ChIP-seq_CTCF
 
@@ -784,7 +784,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_CTCF assay performed on spleen from ENC001
         shortLabel TF_ChIP-seq_CTCF_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR343RJH2 TARG=OC view=TF_ChIP-seq_CTCF
 
@@ -792,7 +792,7 @@ dimensionAchecked pool
     parent ENC001 on
     view TF_ChIP-seq_POLR2A
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -802,7 +802,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_POLR2A assay performed on spleen from ENC001
         shortLabel TF_ChIP-seq_POLR2A_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR729GXE1 TARG=OC view=TF_ChIP-seq_POLR2A
 
@@ -810,7 +810,7 @@ dimensionAchecked pool
     parent ENC001 on
     view TF_ChIP-seq_POLR2AphosphoS5
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -820,7 +820,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_POLR2AphosphoS5 assay performed on spleen from ENC001
         shortLabel TF_ChIP-seq_POLR2AphosphoS5_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR950CUQ1 TARG=OC view=TF_ChIP-seq_POLR2AphosphoS5
 
@@ -828,7 +828,7 @@ dimensionAchecked pool
     parent ENC001 on
     view WGBS
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -838,7 +838,7 @@ dimensionAchecked pool
         longLabel WGBS assay performed on spleen from ENC001
         shortLabel WGBS_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR757JTX1 TARG=OC view=WGBS
 
@@ -846,7 +846,7 @@ dimensionAchecked pool
     parent ENC001 on
     view small_RNA-seq
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -856,7 +856,7 @@ dimensionAchecked pool
         longLabel small_RNA-seq assay performed on spleen from ENC001
         shortLabel small_RNA-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR917CQJ2 TARG=OC view=small_RNA-seq
 
@@ -866,7 +866,7 @@ dimensionAchecked pool
         longLabel small_RNA-seq assay performed on spleen from ENC001
         shortLabel small_RNA-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR917CQJ1 TARG=OC view=small_RNA-seq
 
@@ -874,7 +874,7 @@ dimensionAchecked pool
     parent ENC001 on
     view total_RNA-seq
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -884,7 +884,7 @@ dimensionAchecked pool
         longLabel total_RNA-seq assay performed on spleen from ENC001
         shortLabel total_RNA-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR330UMQ2 TARG=OC view=total_RNA-seq
 
@@ -894,7 +894,7 @@ dimensionAchecked pool
         longLabel total_RNA-seq assay performed on spleen from ENC001
         shortLabel total_RNA-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR330UMQ1 TARG=OC view=total_RNA-seq
 
@@ -903,7 +903,7 @@ compositeTrack on
 type bigWig
 longLabel Collection of ENCODE data for ENC004
 shortLabel ENTEx ENC004
-visibility dense
+visibility hide
 pennantIcon https://www.encodeproject.org/static/img/pennant-encode.png
 html HIST
 subGroup1 view Views ENC003ATAC-seq=ENC003ATAC-seq ENC001ATAC-seq=ENC001ATAC-seq ENC004ATAC-seq=ENC004ATAC-seq ENC002ATAC-seq=ENC002ATAC-seq ENC003Control_ChIP-seq_Control=ENC003Control_ChIP-seq_Control ENC001Control_ChIP-seq_Control=ENC001Control_ChIP-seq_Control ENC004Control_ChIP-seq_Control=ENC004Control_ChIP-seq_Control ENC002Control_ChIP-seq_Control=ENC002Control_ChIP-seq_Control ENC003DNAme_array=ENC003DNAme_array ENC001DNAme_array=ENC001DNAme_array ENC004DNAme_array=ENC004DNAme_array ENC002DNAme_array=ENC002DNAme_array ENC003DNase-seq=ENC003DNase-seq ENC001DNase-seq=ENC001DNase-seq ENC004DNase-seq=ENC004DNase-seq ENC002DNase-seq=ENC002DNase-seq ENC003Histone_ChIP-seq_H3K4me1=ENC003Histone_ChIP-seq_H3K4me1 ENC001Histone_ChIP-seq_H3K4me1=ENC001Histone_ChIP-seq_H3K4me1 ENC004Histone_ChIP-seq_H3K4me1=ENC004Histone_ChIP-seq_H3K4me1 ENC002Histone_ChIP-seq_H3K4me1=ENC002Histone_ChIP-seq_H3K4me1 ENC003Histone_ChIP-seq_H3K4me3=ENC003Histone_ChIP-seq_H3K4me3 ENC001Histone_ChIP-seq_H3K4me3=ENC001Histone_ChIP-seq_H3K4me3 ENC004Histone_ChIP-seq_H3K4me3=ENC004Histone_ChIP-seq_H3K4me3 ENC002Histone_ChIP-seq_H3K4me3=ENC002Histone_ChIP-seq_H3K4me3 ENC003Histone_ChIP-seq_H3K9me3=ENC003Histone_ChIP-seq_H3K9me3 ENC001Histone_ChIP-seq_H3K9me3=ENC001Histone_ChIP-seq_H3K9me3 ENC004Histone_ChIP-seq_H3K9me3=ENC004Histone_ChIP-seq_H3K9me3 ENC002Histone_ChIP-seq_H3K9me3=ENC002Histone_ChIP-seq_H3K9me3 ENC003Histone_ChIP-seq_H3K27ac=ENC003Histone_ChIP-seq_H3K27ac ENC001Histone_ChIP-seq_H3K27ac=ENC001Histone_ChIP-seq_H3K27ac ENC004Histone_ChIP-seq_H3K27ac=ENC004Histone_ChIP-seq_H3K27ac ENC002Histone_ChIP-seq_H3K27ac=ENC002Histone_ChIP-seq_H3K27ac ENC003Histone_ChIP-seq_H3K27me3=ENC003Histone_ChIP-seq_H3K27me3 ENC001Histone_ChIP-seq_H3K27me3=ENC001Histone_ChIP-seq_H3K27me3 ENC004Histone_ChIP-seq_H3K27me3=ENC004Histone_ChIP-seq_H3K27me3 ENC002Histone_ChIP-seq_H3K27me3=ENC002Histone_ChIP-seq_H3K27me3 ENC003Histone_ChIP-seq_H3K36me3=ENC003Histone_ChIP-seq_H3K36me3 ENC001Histone_ChIP-seq_H3K36me3=ENC001Histone_ChIP-seq_H3K36me3 ENC004Histone_ChIP-seq_H3K36me3=ENC004Histone_ChIP-seq_H3K36me3 ENC002Histone_ChIP-seq_H3K36me3=ENC002Histone_ChIP-seq_H3K36me3 ENC003Hi-C=ENC003Hi-C ENC001Hi-C=ENC001Hi-C ENC004Hi-C=ENC004Hi-C ENC002Hi-C=ENC002Hi-C ENC003RAMPAGE=ENC003RAMPAGE ENC001RAMPAGE=ENC001RAMPAGE ENC004RAMPAGE=ENC004RAMPAGE ENC002RAMPAGE=ENC002RAMPAGE ENC003TF_ChIP-seq_CTCF=ENC003TF_ChIP-seq_CTCF ENC001TF_ChIP-seq_CTCF=ENC001TF_ChIP-seq_CTCF ENC004TF_ChIP-seq_CTCF=ENC004TF_ChIP-seq_CTCF ENC002TF_ChIP-seq_CTCF=ENC002TF_ChIP-seq_CTCF ENC003TF_ChIP-seq_EP300=ENC003TF_ChIP-seq_EP300 ENC001TF_ChIP-seq_EP300=ENC001TF_ChIP-seq_EP300 ENC004TF_ChIP-seq_EP300=ENC004TF_ChIP-seq_EP300 ENC002TF_ChIP-seq_EP300=ENC002TF_ChIP-seq_EP300 ENC003TF_ChIP-seq_POLR2A=ENC003TF_ChIP-seq_POLR2A ENC001TF_ChIP-seq_POLR2A=ENC001TF_ChIP-seq_POLR2A ENC004TF_ChIP-seq_POLR2A=ENC004TF_ChIP-seq_POLR2A ENC002TF_ChIP-seq_POLR2A=ENC002TF_ChIP-seq_POLR2A ENC003TF_ChIP-seq_POLR2AphosphoS5=ENC003TF_ChIP-seq_POLR2AphosphoS5 ENC001TF_ChIP-seq_POLR2AphosphoS5=ENC001TF_ChIP-seq_POLR2AphosphoS5 ENC004TF_ChIP-seq_POLR2AphosphoS5=ENC004TF_ChIP-seq_POLR2AphosphoS5 ENC002TF_ChIP-seq_POLR2AphosphoS5=ENC002TF_ChIP-seq_POLR2AphosphoS5 ENC003WGBS=ENC003WGBS ENC001WGBS=ENC001WGBS ENC004WGBS=ENC004WGBS ENC002WGBS=ENC002WGBS ENC003eCLIP_DGCR8=ENC003eCLIP_DGCR8 ENC001eCLIP_DGCR8=ENC001eCLIP_DGCR8 ENC004eCLIP_DGCR8=ENC004eCLIP_DGCR8 ENC002eCLIP_DGCR8=ENC002eCLIP_DGCR8 ENC003eCLIP_DGCR8_eCLIP_mock_input=ENC003eCLIP_DGCR8_eCLIP_mock_input ENC001eCLIP_DGCR8_eCLIP_mock_input=ENC001eCLIP_DGCR8_eCLIP_mock_input ENC004eCLIP_DGCR8_eCLIP_mock_input=ENC004eCLIP_DGCR8_eCLIP_mock_input ENC002eCLIP_DGCR8_eCLIP_mock_input=ENC002eCLIP_DGCR8_eCLIP_mock_input ENC003eCLIP_HNRNPU=ENC003eCLIP_HNRNPU ENC001eCLIP_HNRNPU=ENC001eCLIP_HNRNPU ENC004eCLIP_HNRNPU=ENC004eCLIP_HNRNPU ENC002eCLIP_HNRNPU=ENC002eCLIP_HNRNPU ENC003eCLIP_HNRNPU_eCLIP_mock_input=ENC003eCLIP_HNRNPU_eCLIP_mock_input ENC001eCLIP_HNRNPU_eCLIP_mock_input=ENC001eCLIP_HNRNPU_eCLIP_mock_input ENC004eCLIP_HNRNPU_eCLIP_mock_input=ENC004eCLIP_HNRNPU_eCLIP_mock_input ENC002eCLIP_HNRNPU_eCLIP_mock_input=ENC002eCLIP_HNRNPU_eCLIP_mock_input ENC003genotyping_HTS=ENC003genotyping_HTS ENC001genotyping_HTS=ENC001genotyping_HTS ENC004genotyping_HTS=ENC004genotyping_HTS ENC002genotyping_HTS=ENC002genotyping_HTS ENC003genotyping_array=ENC003genotyping_array ENC001genotyping_array=ENC001genotyping_array ENC004genotyping_array=ENC004genotyping_array ENC002genotyping_array=ENC002genotyping_array ENC003long_read_RNA-seq=ENC003long_read_RNA-seq ENC001long_read_RNA-seq=ENC001long_read_RNA-seq ENC004long_read_RNA-seq=ENC004long_read_RNA-seq ENC002long_read_RNA-seq=ENC002long_read_RNA-seq ENC003microRNA_counts=ENC003microRNA_counts ENC001microRNA_counts=ENC001microRNA_counts ENC004microRNA_counts=ENC004microRNA_counts ENC002microRNA_counts=ENC002microRNA_counts ENC003microRNA-seq=ENC003microRNA-seq ENC001microRNA-seq=ENC001microRNA-seq ENC004microRNA-seq=ENC004microRNA-seq ENC002microRNA-seq=ENC002microRNA-seq ENC003small_RNA-seq=ENC003small_RNA-seq ENC001small_RNA-seq=ENC001small_RNA-seq ENC004small_RNA-seq=ENC004small_RNA-seq ENC002small_RNA-seq=ENC002small_RNA-seq ENC003snATAC-seq=ENC003snATAC-seq ENC001snATAC-seq=ENC001snATAC-seq ENC004snATAC-seq=ENC004snATAC-seq ENC002snATAC-seq=ENC002snATAC-seq ENC003total_RNA-seq=ENC003total_RNA-seq ENC001total_RNA-seq=ENC001total_RNA-seq ENC004total_RNA-seq=ENC004total_RNA-seq ENC002total_RNA-seq=ENC002total_RNA-seq 
@@ -917,7 +917,7 @@ dimensionAchecked pool
     parent ENC004 on
     view ATAC-seq
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -927,7 +927,7 @@ dimensionAchecked pool
         longLabel ATAC-seq assay performed on spleen from ENC004
         shortLabel ATAC-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR078EBD1 TARG=OC view=ATAC-seq
 
@@ -935,7 +935,7 @@ dimensionAchecked pool
     parent ENC004 on
     view Histone_ChIP-seq_H3K4me1
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -945,7 +945,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me1 assay performed on spleen from ENC004
         shortLabel Histone_ChIP-seq_H3K4me1_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR831EDZ1 TARG=OC view=Histone_ChIP-seq_H3K4me1
 
@@ -955,7 +955,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me1 assay performed on spleen from ENC004
         shortLabel Histone_ChIP-seq_H3K4me1_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR831EDZ2 TARG=OC view=Histone_ChIP-seq_H3K4me1
 
@@ -965,7 +965,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me1 assay performed on spleen from ENC004
         shortLabel Histone_ChIP-seq_H3K4me1_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR831EDZ3 TARG=OC view=Histone_ChIP-seq_H3K4me1
 
@@ -973,7 +973,7 @@ dimensionAchecked pool
     parent ENC004 on
     view Histone_ChIP-seq_H3K4me3
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -983,7 +983,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me3 assay performed on spleen from ENC004
         shortLabel Histone_ChIP-seq_H3K4me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR589DBF1 TARG=OC view=Histone_ChIP-seq_H3K4me3
 
@@ -993,7 +993,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me3 assay performed on spleen from ENC004
         shortLabel Histone_ChIP-seq_H3K4me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR589DBF3 TARG=OC view=Histone_ChIP-seq_H3K4me3
 
@@ -1003,7 +1003,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me3 assay performed on spleen from ENC004
         shortLabel Histone_ChIP-seq_H3K4me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR589DBF2 TARG=OC view=Histone_ChIP-seq_H3K4me3
 
@@ -1011,7 +1011,7 @@ dimensionAchecked pool
     parent ENC004 on
     view Histone_ChIP-seq_H3K9me3
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1021,7 +1021,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K9me3 assay performed on spleen from ENC004
         shortLabel Histone_ChIP-seq_H3K9me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR272CIV2 TARG=OC view=Histone_ChIP-seq_H3K9me3
 
@@ -1031,7 +1031,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K9me3 assay performed on spleen from ENC004
         shortLabel Histone_ChIP-seq_H3K9me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR272CIV3 TARG=OC view=Histone_ChIP-seq_H3K9me3
 
@@ -1041,7 +1041,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K9me3 assay performed on spleen from ENC004
         shortLabel Histone_ChIP-seq_H3K9me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR272CIV1 TARG=OC view=Histone_ChIP-seq_H3K9me3
 
@@ -1049,7 +1049,7 @@ dimensionAchecked pool
     parent ENC004 on
     view Histone_ChIP-seq_H3K27ac
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1059,7 +1059,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC004
         shortLabel Histone_ChIP-seq_H3K27ac_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR668GBL2 TARG=OC view=Histone_ChIP-seq_H3K27ac
 
@@ -1069,7 +1069,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC004
         shortLabel Histone_ChIP-seq_H3K27ac_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR668GBL3 TARG=OC view=Histone_ChIP-seq_H3K27ac
 
@@ -1079,7 +1079,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC004
         shortLabel Histone_ChIP-seq_H3K27ac_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR668GBL1 TARG=OC view=Histone_ChIP-seq_H3K27ac
 
@@ -1087,7 +1087,7 @@ dimensionAchecked pool
     parent ENC004 on
     view Histone_ChIP-seq_H3K27me3
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1097,7 +1097,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27me3 assay performed on spleen from ENC004
         shortLabel Histone_ChIP-seq_H3K27me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR826MTK3 TARG=OC view=Histone_ChIP-seq_H3K27me3
 
@@ -1107,7 +1107,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27me3 assay performed on spleen from ENC004
         shortLabel Histone_ChIP-seq_H3K27me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR826MTK2 TARG=OC view=Histone_ChIP-seq_H3K27me3
 
@@ -1117,7 +1117,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27me3 assay performed on spleen from ENC004
         shortLabel Histone_ChIP-seq_H3K27me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR826MTK1 TARG=OC view=Histone_ChIP-seq_H3K27me3
 
@@ -1125,7 +1125,7 @@ dimensionAchecked pool
     parent ENC004 on
     view RAMPAGE
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1135,7 +1135,7 @@ dimensionAchecked pool
         longLabel RAMPAGE assay performed on spleen from ENC004
         shortLabel RAMPAGE_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR887SSW1 TARG=OC view=RAMPAGE
 
@@ -1145,7 +1145,7 @@ dimensionAchecked pool
         longLabel RAMPAGE assay performed on spleen from ENC004
         shortLabel RAMPAGE_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR887SSW2 TARG=OC view=RAMPAGE
 
@@ -1153,7 +1153,7 @@ dimensionAchecked pool
     parent ENC004 on
     view TF_ChIP-seq_CTCF
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1163,7 +1163,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_CTCF assay performed on spleen from ENC004
         shortLabel TF_ChIP-seq_CTCF_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR482PMN1 TARG=OC view=TF_ChIP-seq_CTCF
 
@@ -1173,7 +1173,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_CTCF assay performed on spleen from ENC004
         shortLabel TF_ChIP-seq_CTCF_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR595BPR2 TARG=OC view=TF_ChIP-seq_CTCF
 
@@ -1183,7 +1183,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_CTCF assay performed on spleen from ENC004
         shortLabel TF_ChIP-seq_CTCF_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR595BPR3 TARG=OC view=TF_ChIP-seq_CTCF
 
@@ -1193,7 +1193,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_CTCF assay performed on spleen from ENC004
         shortLabel TF_ChIP-seq_CTCF_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR595BPR1 TARG=OC view=TF_ChIP-seq_CTCF
 
@@ -1201,7 +1201,7 @@ dimensionAchecked pool
     parent ENC004 on
     view TF_ChIP-seq_POLR2A
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1211,7 +1211,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_POLR2A assay performed on spleen from ENC004
         shortLabel TF_ChIP-seq_POLR2A_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR691CPM1 TARG=OC view=TF_ChIP-seq_POLR2A
 
@@ -1219,7 +1219,7 @@ dimensionAchecked pool
     parent ENC004 on
     view TF_ChIP-seq_POLR2AphosphoS5
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1229,7 +1229,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_POLR2AphosphoS5 assay performed on spleen from ENC004
         shortLabel TF_ChIP-seq_POLR2AphosphoS5_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR350PUV1 TARG=OC view=TF_ChIP-seq_POLR2AphosphoS5
 
@@ -1237,7 +1237,7 @@ dimensionAchecked pool
     parent ENC004 on
     view WGBS
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1247,7 +1247,7 @@ dimensionAchecked pool
         longLabel WGBS assay performed on spleen from ENC004
         shortLabel WGBS_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR750CPN1 TARG=OC view=WGBS
 
@@ -1255,7 +1255,7 @@ dimensionAchecked pool
     parent ENC004 on
     view small_RNA-seq
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1265,7 +1265,7 @@ dimensionAchecked pool
         longLabel small_RNA-seq assay performed on spleen from ENC004
         shortLabel small_RNA-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR593MVW1 TARG=OC view=small_RNA-seq
 
@@ -1275,7 +1275,7 @@ dimensionAchecked pool
         longLabel small_RNA-seq assay performed on spleen from ENC004
         shortLabel small_RNA-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR593MVW2 TARG=OC view=small_RNA-seq
 
@@ -1283,7 +1283,7 @@ dimensionAchecked pool
     parent ENC004 on
     view total_RNA-seq
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1293,7 +1293,7 @@ dimensionAchecked pool
         longLabel total_RNA-seq assay performed on spleen from ENC004
         shortLabel total_RNA-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR194HVU2 TARG=OC view=total_RNA-seq
 
@@ -1303,7 +1303,7 @@ dimensionAchecked pool
         longLabel total_RNA-seq assay performed on spleen from ENC004
         shortLabel total_RNA-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR194HVU1 TARG=OC view=total_RNA-seq
 
@@ -1312,7 +1312,7 @@ compositeTrack on
 type bigWig
 longLabel Collection of ENCODE data for ENC002
 shortLabel ENTEx ENC002
-visibility dense
+visibility hide
 pennantIcon https://www.encodeproject.org/static/img/pennant-encode.png
 html HIST
 subGroup1 view Views ENC003ATAC-seq=ENC003ATAC-seq ENC001ATAC-seq=ENC001ATAC-seq ENC004ATAC-seq=ENC004ATAC-seq ENC002ATAC-seq=ENC002ATAC-seq ENC003Control_ChIP-seq_Control=ENC003Control_ChIP-seq_Control ENC001Control_ChIP-seq_Control=ENC001Control_ChIP-seq_Control ENC004Control_ChIP-seq_Control=ENC004Control_ChIP-seq_Control ENC002Control_ChIP-seq_Control=ENC002Control_ChIP-seq_Control ENC003DNAme_array=ENC003DNAme_array ENC001DNAme_array=ENC001DNAme_array ENC004DNAme_array=ENC004DNAme_array ENC002DNAme_array=ENC002DNAme_array ENC003DNase-seq=ENC003DNase-seq ENC001DNase-seq=ENC001DNase-seq ENC004DNase-seq=ENC004DNase-seq ENC002DNase-seq=ENC002DNase-seq ENC003Histone_ChIP-seq_H3K4me1=ENC003Histone_ChIP-seq_H3K4me1 ENC001Histone_ChIP-seq_H3K4me1=ENC001Histone_ChIP-seq_H3K4me1 ENC004Histone_ChIP-seq_H3K4me1=ENC004Histone_ChIP-seq_H3K4me1 ENC002Histone_ChIP-seq_H3K4me1=ENC002Histone_ChIP-seq_H3K4me1 ENC003Histone_ChIP-seq_H3K4me3=ENC003Histone_ChIP-seq_H3K4me3 ENC001Histone_ChIP-seq_H3K4me3=ENC001Histone_ChIP-seq_H3K4me3 ENC004Histone_ChIP-seq_H3K4me3=ENC004Histone_ChIP-seq_H3K4me3 ENC002Histone_ChIP-seq_H3K4me3=ENC002Histone_ChIP-seq_H3K4me3 ENC003Histone_ChIP-seq_H3K9me3=ENC003Histone_ChIP-seq_H3K9me3 ENC001Histone_ChIP-seq_H3K9me3=ENC001Histone_ChIP-seq_H3K9me3 ENC004Histone_ChIP-seq_H3K9me3=ENC004Histone_ChIP-seq_H3K9me3 ENC002Histone_ChIP-seq_H3K9me3=ENC002Histone_ChIP-seq_H3K9me3 ENC003Histone_ChIP-seq_H3K27ac=ENC003Histone_ChIP-seq_H3K27ac ENC001Histone_ChIP-seq_H3K27ac=ENC001Histone_ChIP-seq_H3K27ac ENC004Histone_ChIP-seq_H3K27ac=ENC004Histone_ChIP-seq_H3K27ac ENC002Histone_ChIP-seq_H3K27ac=ENC002Histone_ChIP-seq_H3K27ac ENC003Histone_ChIP-seq_H3K27me3=ENC003Histone_ChIP-seq_H3K27me3 ENC001Histone_ChIP-seq_H3K27me3=ENC001Histone_ChIP-seq_H3K27me3 ENC004Histone_ChIP-seq_H3K27me3=ENC004Histone_ChIP-seq_H3K27me3 ENC002Histone_ChIP-seq_H3K27me3=ENC002Histone_ChIP-seq_H3K27me3 ENC003Histone_ChIP-seq_H3K36me3=ENC003Histone_ChIP-seq_H3K36me3 ENC001Histone_ChIP-seq_H3K36me3=ENC001Histone_ChIP-seq_H3K36me3 ENC004Histone_ChIP-seq_H3K36me3=ENC004Histone_ChIP-seq_H3K36me3 ENC002Histone_ChIP-seq_H3K36me3=ENC002Histone_ChIP-seq_H3K36me3 ENC003Hi-C=ENC003Hi-C ENC001Hi-C=ENC001Hi-C ENC004Hi-C=ENC004Hi-C ENC002Hi-C=ENC002Hi-C ENC003RAMPAGE=ENC003RAMPAGE ENC001RAMPAGE=ENC001RAMPAGE ENC004RAMPAGE=ENC004RAMPAGE ENC002RAMPAGE=ENC002RAMPAGE ENC003TF_ChIP-seq_CTCF=ENC003TF_ChIP-seq_CTCF ENC001TF_ChIP-seq_CTCF=ENC001TF_ChIP-seq_CTCF ENC004TF_ChIP-seq_CTCF=ENC004TF_ChIP-seq_CTCF ENC002TF_ChIP-seq_CTCF=ENC002TF_ChIP-seq_CTCF ENC003TF_ChIP-seq_EP300=ENC003TF_ChIP-seq_EP300 ENC001TF_ChIP-seq_EP300=ENC001TF_ChIP-seq_EP300 ENC004TF_ChIP-seq_EP300=ENC004TF_ChIP-seq_EP300 ENC002TF_ChIP-seq_EP300=ENC002TF_ChIP-seq_EP300 ENC003TF_ChIP-seq_POLR2A=ENC003TF_ChIP-seq_POLR2A ENC001TF_ChIP-seq_POLR2A=ENC001TF_ChIP-seq_POLR2A ENC004TF_ChIP-seq_POLR2A=ENC004TF_ChIP-seq_POLR2A ENC002TF_ChIP-seq_POLR2A=ENC002TF_ChIP-seq_POLR2A ENC003TF_ChIP-seq_POLR2AphosphoS5=ENC003TF_ChIP-seq_POLR2AphosphoS5 ENC001TF_ChIP-seq_POLR2AphosphoS5=ENC001TF_ChIP-seq_POLR2AphosphoS5 ENC004TF_ChIP-seq_POLR2AphosphoS5=ENC004TF_ChIP-seq_POLR2AphosphoS5 ENC002TF_ChIP-seq_POLR2AphosphoS5=ENC002TF_ChIP-seq_POLR2AphosphoS5 ENC003WGBS=ENC003WGBS ENC001WGBS=ENC001WGBS ENC004WGBS=ENC004WGBS ENC002WGBS=ENC002WGBS ENC003eCLIP_DGCR8=ENC003eCLIP_DGCR8 ENC001eCLIP_DGCR8=ENC001eCLIP_DGCR8 ENC004eCLIP_DGCR8=ENC004eCLIP_DGCR8 ENC002eCLIP_DGCR8=ENC002eCLIP_DGCR8 ENC003eCLIP_DGCR8_eCLIP_mock_input=ENC003eCLIP_DGCR8_eCLIP_mock_input ENC001eCLIP_DGCR8_eCLIP_mock_input=ENC001eCLIP_DGCR8_eCLIP_mock_input ENC004eCLIP_DGCR8_eCLIP_mock_input=ENC004eCLIP_DGCR8_eCLIP_mock_input ENC002eCLIP_DGCR8_eCLIP_mock_input=ENC002eCLIP_DGCR8_eCLIP_mock_input ENC003eCLIP_HNRNPU=ENC003eCLIP_HNRNPU ENC001eCLIP_HNRNPU=ENC001eCLIP_HNRNPU ENC004eCLIP_HNRNPU=ENC004eCLIP_HNRNPU ENC002eCLIP_HNRNPU=ENC002eCLIP_HNRNPU ENC003eCLIP_HNRNPU_eCLIP_mock_input=ENC003eCLIP_HNRNPU_eCLIP_mock_input ENC001eCLIP_HNRNPU_eCLIP_mock_input=ENC001eCLIP_HNRNPU_eCLIP_mock_input ENC004eCLIP_HNRNPU_eCLIP_mock_input=ENC004eCLIP_HNRNPU_eCLIP_mock_input ENC002eCLIP_HNRNPU_eCLIP_mock_input=ENC002eCLIP_HNRNPU_eCLIP_mock_input ENC003genotyping_HTS=ENC003genotyping_HTS ENC001genotyping_HTS=ENC001genotyping_HTS ENC004genotyping_HTS=ENC004genotyping_HTS ENC002genotyping_HTS=ENC002genotyping_HTS ENC003genotyping_array=ENC003genotyping_array ENC001genotyping_array=ENC001genotyping_array ENC004genotyping_array=ENC004genotyping_array ENC002genotyping_array=ENC002genotyping_array ENC003long_read_RNA-seq=ENC003long_read_RNA-seq ENC001long_read_RNA-seq=ENC001long_read_RNA-seq ENC004long_read_RNA-seq=ENC004long_read_RNA-seq ENC002long_read_RNA-seq=ENC002long_read_RNA-seq ENC003microRNA_counts=ENC003microRNA_counts ENC001microRNA_counts=ENC001microRNA_counts ENC004microRNA_counts=ENC004microRNA_counts ENC002microRNA_counts=ENC002microRNA_counts ENC003microRNA-seq=ENC003microRNA-seq ENC001microRNA-seq=ENC001microRNA-seq ENC004microRNA-seq=ENC004microRNA-seq ENC002microRNA-seq=ENC002microRNA-seq ENC003small_RNA-seq=ENC003small_RNA-seq ENC001small_RNA-seq=ENC001small_RNA-seq ENC004small_RNA-seq=ENC004small_RNA-seq ENC002small_RNA-seq=ENC002small_RNA-seq ENC003snATAC-seq=ENC003snATAC-seq ENC001snATAC-seq=ENC001snATAC-seq ENC004snATAC-seq=ENC004snATAC-seq ENC002snATAC-seq=ENC002snATAC-seq ENC003total_RNA-seq=ENC003total_RNA-seq ENC001total_RNA-seq=ENC001total_RNA-seq ENC004total_RNA-seq=ENC004total_RNA-seq ENC002total_RNA-seq=ENC002total_RNA-seq 
@@ -1326,7 +1326,7 @@ dimensionAchecked pool
     parent ENC002 on
     view DNase-seq
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1336,7 +1336,7 @@ dimensionAchecked pool
         longLabel DNase-seq assay performed on spleen from ENC002
         shortLabel DNase-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR850YHJ1 TARG=OC view=DNase-seq
 
@@ -1344,7 +1344,7 @@ dimensionAchecked pool
     parent ENC002 on
     view Histone_ChIP-seq_H3K4me1
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1354,7 +1354,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me1 assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K4me1_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR635IRN1 TARG=OC view=Histone_ChIP-seq_H3K4me1
 
@@ -1364,7 +1364,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me1 assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K4me1_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR635IRN2 TARG=OC view=Histone_ChIP-seq_H3K4me1
 
@@ -1374,7 +1374,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me1 assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K4me1_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR635IRN3 TARG=OC view=Histone_ChIP-seq_H3K4me1
 
@@ -1382,7 +1382,7 @@ dimensionAchecked pool
     parent ENC002 on
     view Histone_ChIP-seq_H3K4me3
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1392,7 +1392,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me3 assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K4me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR377ILM1 TARG=OC view=Histone_ChIP-seq_H3K4me3
 
@@ -1402,7 +1402,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me3 assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K4me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR377ILM2 TARG=OC view=Histone_ChIP-seq_H3K4me3
 
@@ -1412,7 +1412,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K4me3 assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K4me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR377ILM3 TARG=OC view=Histone_ChIP-seq_H3K4me3
 
@@ -1420,7 +1420,7 @@ dimensionAchecked pool
     parent ENC002 on
     view Histone_ChIP-seq_H3K9me3
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1430,7 +1430,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K9me3 assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K9me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR709APF2 TARG=OC view=Histone_ChIP-seq_H3K9me3
 
@@ -1440,7 +1440,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K9me3 assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K9me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR709APF3 TARG=OC view=Histone_ChIP-seq_H3K9me3
 
@@ -1450,7 +1450,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K9me3 assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K9me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR709APF1 TARG=OC view=Histone_ChIP-seq_H3K9me3
 
@@ -1458,7 +1458,7 @@ dimensionAchecked pool
     parent ENC002 on
     view Histone_ChIP-seq_H3K27ac
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1468,7 +1468,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K27ac_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR593INW1 TARG=OC view=Histone_ChIP-seq_H3K27ac
 
@@ -1478,7 +1478,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K27ac_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR593INW2 TARG=OC view=Histone_ChIP-seq_H3K27ac
 
@@ -1488,7 +1488,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K27ac_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR593INW3 TARG=OC view=Histone_ChIP-seq_H3K27ac
 
@@ -1496,7 +1496,7 @@ dimensionAchecked pool
     parent ENC002 on
     view Histone_ChIP-seq_H3K27me3
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1506,7 +1506,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27me3 assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K27me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR080JPX3 TARG=OC view=Histone_ChIP-seq_H3K27me3
 
@@ -1516,7 +1516,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27me3 assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K27me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR080JPX2 TARG=OC view=Histone_ChIP-seq_H3K27me3
 
@@ -1526,7 +1526,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K27me3 assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K27me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR080JPX1 TARG=OC view=Histone_ChIP-seq_H3K27me3
 
@@ -1534,7 +1534,7 @@ dimensionAchecked pool
     parent ENC002 on
     view Histone_ChIP-seq_H3K36me3
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1544,7 +1544,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K36me3 assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K36me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR787YHR1 TARG=OC view=Histone_ChIP-seq_H3K36me3
 
@@ -1554,7 +1554,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K36me3 assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K36me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR787YHR2 TARG=OC view=Histone_ChIP-seq_H3K36me3
 
@@ -1564,7 +1564,7 @@ dimensionAchecked pool
         longLabel Histone_ChIP-seq_H3K36me3 assay performed on spleen from ENC002
         shortLabel Histone_ChIP-seq_H3K36me3_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR787YHR3 TARG=OC view=Histone_ChIP-seq_H3K36me3
 
@@ -1572,7 +1572,7 @@ dimensionAchecked pool
     parent ENC002 on
     view RAMPAGE
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1582,7 +1582,7 @@ dimensionAchecked pool
         longLabel RAMPAGE assay performed on spleen from ENC002
         shortLabel RAMPAGE_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR627SPU1 TARG=OC view=RAMPAGE
 
@@ -1592,7 +1592,7 @@ dimensionAchecked pool
         longLabel RAMPAGE assay performed on spleen from ENC002
         shortLabel RAMPAGE_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR627SPU2 TARG=OC view=RAMPAGE
 
@@ -1600,7 +1600,7 @@ dimensionAchecked pool
     parent ENC002 on
     view TF_ChIP-seq_CTCF
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1610,7 +1610,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_CTCF assay performed on spleen from ENC002
         shortLabel TF_ChIP-seq_CTCF_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR028YEV1 TARG=OC view=TF_ChIP-seq_CTCF
 
@@ -1620,7 +1620,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_CTCF assay performed on spleen from ENC002
         shortLabel TF_ChIP-seq_CTCF_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR225YGX1 TARG=OC view=TF_ChIP-seq_CTCF
 
@@ -1630,7 +1630,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_CTCF assay performed on spleen from ENC002
         shortLabel TF_ChIP-seq_CTCF_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR225YGX2 TARG=OC view=TF_ChIP-seq_CTCF
 
@@ -1640,7 +1640,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_CTCF assay performed on spleen from ENC002
         shortLabel TF_ChIP-seq_CTCF_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR225YGX3 TARG=OC view=TF_ChIP-seq_CTCF
 
@@ -1648,7 +1648,7 @@ dimensionAchecked pool
     parent ENC002 on
     view TF_ChIP-seq_POLR2A
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1658,7 +1658,7 @@ dimensionAchecked pool
         longLabel TF_ChIP-seq_POLR2A assay performed on spleen from ENC002
         shortLabel TF_ChIP-seq_POLR2A_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR266XFE1 TARG=OC view=TF_ChIP-seq_POLR2A
 
@@ -1666,7 +1666,7 @@ dimensionAchecked pool
     parent ENC002 on
     view small_RNA-seq
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1676,7 +1676,7 @@ dimensionAchecked pool
         longLabel small_RNA-seq assay performed on spleen from ENC002
         shortLabel small_RNA-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR587CPE1 TARG=OC view=small_RNA-seq
 
@@ -1686,7 +1686,7 @@ dimensionAchecked pool
         longLabel small_RNA-seq assay performed on spleen from ENC002
         shortLabel small_RNA-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR587CPE2 TARG=OC view=small_RNA-seq
 
@@ -1694,7 +1694,7 @@ dimensionAchecked pool
     parent ENC002 on
     view total_RNA-seq
     type bigWig
-    visibility dense
+    visibility hide
     autoScale on
 
 
@@ -1704,7 +1704,7 @@ dimensionAchecked pool
         longLabel total_RNA-seq assay performed on spleen from ENC002
         shortLabel total_RNA-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR106SZN2 TARG=OC view=total_RNA-seq
 
@@ -1714,6 +1714,6 @@ dimensionAchecked pool
         longLabel total_RNA-seq assay performed on spleen from ENC002
         shortLabel total_RNA-seq_spleen
         type bigWig
-        color 214,0,0
+        color #CDB79E
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR106SZN1 TARG=OC view=total_RNA-seq
