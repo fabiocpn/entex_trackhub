@@ -66,7 +66,7 @@ dimensionAchecked pool
 
         track ENCSR923JYH
         parent hist_fFCOC_view on
-        bigDataUrl https://encode-private.s3.amazonaws.com/2019/09/10/5c8e78df-30d3-4610-ac88-d07a1a87da85/ENCFF911YMS.bigWig
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/093556df-70a5-4d9f-869d-25c0922d1dc3/ENCFF624FJD.bigWig
         longLabel H3K4me1 Histone ChIP-seq of tibial artery fold change over control rep1 ENCSR000SNM - ENCFF748JIG
         shortLabel 04_DNAse_TC
         type bigWig
