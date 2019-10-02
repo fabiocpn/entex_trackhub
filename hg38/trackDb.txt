@@ -12,6 +12,7 @@ subGroup3 assay Assay ATAC-seq=ATAC-seq Control_ChIP-seq_Control=Control_ChIP-se
 sortOrder BS=+ assay=+
 dimensions dimX=BS dimY=assay
 dimensionAchecked pool
+
 	track ENC003ATAC-seq_view
 	parent ENC003 on
 	view ATAC-seq
@@ -4812,6 +4813,7 @@ subGroup3 assay Assay ATAC-seq=ATAC-seq Control_ChIP-seq_Control=Control_ChIP-se
 sortOrder BS=+ assay=+
 dimensions dimX=BS dimY=assay
 dimensionAchecked pool
+
 	track ENC001ATAC-seq_view
 	parent ENC001 on
 	view ATAC-seq
@@ -9614,6 +9616,7 @@ subGroup3 assay Assay ATAC-seq=ATAC-seq Control_ChIP-seq_Control=Control_ChIP-se
 sortOrder BS=+ assay=+
 dimensions dimX=BS dimY=assay
 dimensionAchecked pool
+
 	track ENC004ATAC-seq_view
 	parent ENC004 on
 	view ATAC-seq
@@ -14184,6 +14187,7 @@ subGroup3 assay Assay ATAC-seq=ATAC-seq Control_ChIP-seq_Control=Control_ChIP-se
 sortOrder BS=+ assay=+
 dimensions dimX=BS dimY=assay
 dimensionAchecked pool
+
 	track ENC002ATAC-seq_view
 	parent ENC002 on
 	view ATAC-seq
