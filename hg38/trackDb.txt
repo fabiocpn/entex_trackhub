@@ -12,7 +12,7 @@ subGroup3 IND Individuals ENC003=ENC003 ENC001=ENC001 ENC004=ENC004 ENC002=ENC00
 subGroup4 assay Assay ATAC-seq=ATAC-seq Control_ChIP-seq_Control=Control_ChIP-seq_Control DNAme_array=DNAme_array DNase-seq=DNase-seq Histone_ChIP-seq_H3K4me1=Histone_ChIP-seq_H3K4me1 Histone_ChIP-seq_H3K4me3=Histone_ChIP-seq_H3K4me3 Histone_ChIP-seq_H3K9me3=Histone_ChIP-seq_H3K9me3 Histone_ChIP-seq_H3K27ac=Histone_ChIP-seq_H3K27ac Histone_ChIP-seq_H3K27me3=Histone_ChIP-seq_H3K27me3 Histone_ChIP-seq_H3K36me3=Histone_ChIP-seq_H3K36me3 Hi-C=Hi-C RAMPAGE=RAMPAGE TF_ChIP-seq_CTCF=TF_ChIP-seq_CTCF TF_ChIP-seq_EP300=TF_ChIP-seq_EP300 TF_ChIP-seq_POLR2A=TF_ChIP-seq_POLR2A TF_ChIP-seq_POLR2AphosphoS5=TF_ChIP-seq_POLR2AphosphoS5 WGBS=WGBS eCLIP_DGCR8=eCLIP_DGCR8 eCLIP_DGCR8_eCLIP_mock_input=eCLIP_DGCR8_eCLIP_mock_input eCLIP_HNRNPU=eCLIP_HNRNPU eCLIP_HNRNPU_eCLIP_mock_input=eCLIP_HNRNPU_eCLIP_mock_input genotyping_HTS=genotyping_HTS genotyping_array=genotyping_array long_read_RNA-seq=long_read_RNA-seq microRNA_counts=microRNA_counts microRNA-seq=microRNA-seq small_RNA-seq=small_RNA-seq snATAC-seq=snATAC-seq total_RNA-seq=total_RNA-seq 
 
 sortOrder BS=+ IND=+ view=+
-dimensions dimA=IND dimX=BS dimY=assay
+dimensions dimX=BS dimY=assay
 dimensionAchecked pool
     track ENC003ATAC-seq_view
     parent ENC003 on
