@@ -20,10 +20,7 @@ dimensionAchecked pool
     view fFCOC
     type bigWig
     visibility dense
-    viewLimits 0:10
-    autoScale off
-    maxHeightPixels 64:18:8
-    windowingFunction mean+whiskers
+    autoScale on
 
         track ENCSR668VCT
         parent hist_fFCOC_view on
@@ -64,6 +61,47 @@ dimensionAchecked pool
         color 214,0,0
         altColor 214,79,79
         subGroups BS=transverse_colon EXP=ENCSR761TKU TARG=OC view=fFCOC
+        
+        #/experiments/ENCSR668VCT/##ATAC-seq##transverse colon##(37 years)##released##unreplicated##
+        track zz
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/a3b1eafd-64e6-4d8d-a69a-cefe688e1ad1/ENCFF523ZFE.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_ATAC-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=zz TARG=OC view=fFCOC
+        #/experiments/ENCSR386HAZ/##ATAC-seq##transverse colon##(51 year)##released##unreplicated##
+        track zz
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/186eb082-22e1-4195-a6ad-61a1d9983370/ENCFF724HKZ.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_ATAC-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=zz TARG=OC view=fFCOC
+        #/experiments/ENCSR404LLJ/##ATAC-seq##transverse colon##(53 years)##released##unreplicated##
+        track zz
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/047460d1-f305-4ea9-9961-0939f19c6025/ENCFF031MAM.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_ATAC-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=zz TARG=OC view=fFCOC
+        #/experiments/ENCSR761TKU/##ATAC-seq##transverse colon##(54 years)##released##unreplicated##
+        track zz
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/5ec15835-ce97-4f55-baf9-e44942fe2593/ENCFF284HMB.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_ATAC-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=zz TARG=OC view=fFCOC
 
 track dnase
 compositeTrack on
@@ -87,10 +125,7 @@ dimensionAchecked pool
     view ePKS
     type bigWig
     visibility dense
-    viewLimits 0:10
-    autoScale off
-    maxHeightPixels 64:18:8
-    windowingFunction mean+whiskers
+    autoScale on
 
         track ENCSR923JYH
         parent DNAse_fFCOC_view on
