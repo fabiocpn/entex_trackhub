@@ -1,6 +1,6 @@
-track hist
+track Chromatin - ATAC
 compositeTrack on
-type bed 3
+type bigWig
 longLabel Collection of ENCODE Histone ChIP-seq experiments
 shortLabel ENCODE Histone ChIP
 visibility full
@@ -14,9 +14,9 @@ sortOrder BS=+ TARG=+ REP=+ view=+ EXP=+
 dimensions dimA=REP dimX=TARG dimY=BS
 dimensionAchecked pool
 
-    track hist_fFCOC_view
+    track ATAC
     parent hist on
-    view fFCOC
+    view ATAC
     type bigWig
     visibility dense
     viewLimits 0:10
@@ -24,16 +24,57 @@ dimensionAchecked pool
     maxHeightPixels 64:18:8
     windowingFunction mean+whiskers
 
-        track ENCFF748JIG
-        parent hist_fFCOC_view off
-        bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/4ce564cf-f6d0-4713-8c98-dd822e9a47e5/ENCFF748JIG.bigWig
+        track ENCSR668VCT
+        parent ATAC on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/a3b1eafd-64e6-4d8d-a69a-cefe688e1ad1/ENCFF523ZFE.bigWig
         longLabel H3K4me1 Histone ChIP-seq of tibial artery fold change over control rep1 ENCSR000SNM - ENCFF748JIG
-        shortLabel rep1 foldchg
+        shortLabel 01_ATAC-seq_TC
         type bigWig
         color 214,0,0
         altColor 214,79,79
-        subGroups BS=tibial_artery EXP=ENCSR000SNM REP=rep01 TARG=H3K4me1 view=fFCOC
+        subGroups BS=transverse_colon EXP=ENCSR668VCT TARG=OC view=fFCOC
 
+        track ENCSR386HAZ
+        parent ATAC on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/186eb082-22e1-4195-a6ad-61a1d9983370/ENCFF724HKZ.bigWig
+        longLabel H3K4me1 Histone ChIP-seq of tibial artery fold change over control rep1 ENCSR000SNM - ENCFF748JIG
+        shortLabel 02_ATAC-seq_TC
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR386HAZ TARG=OC view=fFCOC
+
+        track ENCSR404LLJ
+        parent ATAC on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/047460d1-f305-4ea9-9961-0939f19c6025/ENCFF031MAM.bigWig
+        longLabel H3K4me1 Histone ChIP-seq of tibial artery fold change over control rep1 ENCSR000SNM - ENCFF748JIG
+        shortLabel 03_ATAC-seq_TC
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR404LLJ TARG=OC view=fFCOC
+
+        track ENCSR761TKU
+        parent ATAC on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/5ec15835-ce97-4f55-baf9-e44942fe2593/ENCFF284HMB.bigWig
+        longLabel H3K4me1 Histone ChIP-seq of tibial artery fold change over control rep1 ENCSR000SNM - ENCFF748JIG
+        shortLabel 04_ATAC-seq_TC
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR761TKU TARG=OC view=fFCOC
+
+        track ENCSR923JYH
+        parent ATAC on
+        bigDataUrl https://encode-private.s3.amazonaws.com/2019/09/10/5c8e78df-30d3-4610-ac88-d07a1a87da85/ENCFF911YMS.bigWig
+        longLabel H3K4me1 Histone ChIP-seq of tibial artery fold change over control rep1 ENCSR000SNM - ENCFF748JIG
+        shortLabel 04_DNAse_TC
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse_colon EXP=ENCSR923JYH TARG=OC view=fFCOC
+
+#######################
 
         track ENCFF218VMU
         parent hist_fFCOC_view off
