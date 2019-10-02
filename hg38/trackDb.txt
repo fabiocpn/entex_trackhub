@@ -1,4 +1,4 @@
-track something
+track hist
 compositeTrack on
 type bigWig
 longLabel Collection of ENCODE Histone ChIP-seq experiments
