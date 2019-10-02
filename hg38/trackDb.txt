@@ -17,7 +17,7 @@ dimensionAchecked pool
 
 
     track Histone_ChIP-seq_H3K4me1_view
-    parent ENC003 on
+    parent hist on
     view Histone_ChIP-seq_H3K4me1
     type bigWig
     visibility dense
