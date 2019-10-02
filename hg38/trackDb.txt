@@ -6,7 +6,7 @@ shortLabel ENCODE Histone ChIP
 visibility full
 pennantIcon https://www.encodeproject.org/static/img/pennant-encode.png https://www.encodeproject.org/ "This trackhub was automatically generated from the ENCODE files and metadata found at the ENCODE portal"
 html HIST
-subGroup1 view Views ATAC=ATAC bIDRT=IDR_thresholded_peaks cRPKS=Replicated_peaks dSPKS=Stable_peaks ePKS=Peaks fFCOC=Fold_change_over_control gSPV=Signal_p-value hSIG=Signal
+subGroup1 view Views bIDRT=IDR_thresholded_peaks cRPKS=Replicated_peaks dSPKS=Stable_peaks ePKS=Peaks fFCOC=Fold_change_over_control gSPV=Signal_p-value hSIG=Signal
 subGroup2 BS Biosample Peyer39s_patch=Peyer&#39;s_patch adrenal_gland=adrenal_gland ascending_aorta=ascending_aorta body_of_pancreas=body_of_pancreas breast_epithelium=breast_epithelium coronary_artery=coronary_artery esophagus_muscularis_mucosa=esophagus_muscularis_mucosa esophagus_squamous_epithelium=esophagus_squamous_epithelium gastrocnemius_medialis=gastrocnemius_medialis gastroesophageal_sphincter=gastroesophageal_sphincter heart_left_ventricle=heart_left_ventricle lower_leg_skin=lower_leg_skin ovary=ovary prostate_gland=prostate_gland right_atrium_auricular_region=right_atrium_auricular_region right_lobe_of_liver=right_lobe_of_liver sigmoid_colon=sigmoid_colon spleen=spleen stomach=stomach suprapubic_skin=suprapubic_skin testis=testis thoracic_aorta=thoracic_aorta thyroid_gland=thyroid_gland tibial_artery=tibial_artery tibial_nerve=tibial_nerve transverse_colon=transverse_colon upper_lobe_of_left_lung=upper_lobe_of_left_lung uterus=uterus vagina=vagina
 subGroup4 REP Replicates pool=Pooled rep01=Replicate_1 rep02=Replicate_2
 subGroup5 TARG Targets H3K27ac=H3K27ac H3K27me3=H3K27me3 H3K36me3=H3K36me3 H3K4me1=H3K4me1 H3K4me3=H3K4me3 H3K9me3=H3K9me3
