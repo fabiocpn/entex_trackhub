@@ -67,7 +67,7 @@ dimensionAchecked pool
 
     track DNAse_fFCOC_view
     parent hist on
-    view fFCOC
+    view ePKS
     type bigWig
     visibility dense
     viewLimits 0:10
