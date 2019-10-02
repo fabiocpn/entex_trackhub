@@ -29,7 +29,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR659RJP4 TARG=OC view=Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR659RJP4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me1
 
         track ENCSR659RJP1
         parent ENC003Histone_ChIP-seq_H3K4me1_view on
@@ -39,7 +39,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR659RJP1 TARG=OC view=Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR659RJP1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me1
 
         track ENCSR659RJP3
         parent ENC003Histone_ChIP-seq_H3K4me1_view on
@@ -49,7 +49,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR659RJP3 TARG=OC view=Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR659RJP3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me1
 
         track ENCSR659RJP2
         parent ENC003Histone_ChIP-seq_H3K4me1_view on
@@ -59,7 +59,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR659RJP2 TARG=OC view=Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR659RJP2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me1
 
     track ENC003Histone_ChIP-seq_H3K4me3_view
     parent ENC003 on
@@ -77,7 +77,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR197QDK2 TARG=OC view=Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR197QDK2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me3
 
         track ENCSR197QDK3
         parent ENC003Histone_ChIP-seq_H3K4me3_view on
@@ -87,7 +87,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR197QDK3 TARG=OC view=Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR197QDK3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me3
 
         track ENCSR197QDK1
         parent ENC003Histone_ChIP-seq_H3K4me3_view on
@@ -97,7 +97,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR197QDK1 TARG=OC view=Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR197QDK1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me3
 
         track ENCSR197QDK4
         parent ENC003Histone_ChIP-seq_H3K4me3_view on
@@ -107,7 +107,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR197QDK4 TARG=OC view=Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR197QDK4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K4me3
 
     track ENC003Histone_ChIP-seq_H3K9me3_view
     parent ENC003 on
@@ -125,7 +125,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR105URN2 TARG=OC view=Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR105URN2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K9me3
 
         track ENCSR105URN3
         parent ENC003Histone_ChIP-seq_H3K9me3_view on
@@ -135,7 +135,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR105URN3 TARG=OC view=Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR105URN3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K9me3
 
         track ENCSR105URN1
         parent ENC003Histone_ChIP-seq_H3K9me3_view on
@@ -145,7 +145,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR105URN1 TARG=OC view=Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR105URN1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K9me3
 
         track ENCSR105URN4
         parent ENC003Histone_ChIP-seq_H3K9me3_view on
@@ -155,7 +155,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR105URN4 TARG=OC view=Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR105URN4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K9me3
 
     track ENC003Histone_ChIP-seq_H3K27ac_view
     parent ENC003 on
@@ -173,7 +173,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR726HTS3 TARG=OC view=Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR726HTS3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27ac
 
         track ENCSR726HTS2
         parent ENC003Histone_ChIP-seq_H3K27ac_view on
@@ -183,7 +183,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR726HTS2 TARG=OC view=Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR726HTS2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27ac
 
         track ENCSR726HTS1
         parent ENC003Histone_ChIP-seq_H3K27ac_view on
@@ -193,7 +193,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR726HTS1 TARG=OC view=Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR726HTS1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27ac
 
         track ENCSR726HTS4
         parent ENC003Histone_ChIP-seq_H3K27ac_view on
@@ -203,7 +203,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR726HTS4 TARG=OC view=Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR726HTS4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27ac
 
     track ENC003Histone_ChIP-seq_H3K27me3_view
     parent ENC003 on
@@ -221,7 +221,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR161FEJ2 TARG=OC view=Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR161FEJ2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27me3
 
         track ENCSR161FEJ3
         parent ENC003Histone_ChIP-seq_H3K27me3_view on
@@ -231,7 +231,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR161FEJ3 TARG=OC view=Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR161FEJ3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27me3
 
         track ENCSR161FEJ1
         parent ENC003Histone_ChIP-seq_H3K27me3_view on
@@ -241,7 +241,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR161FEJ1 TARG=OC view=Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR161FEJ1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27me3
 
         track ENCSR161FEJ4
         parent ENC003Histone_ChIP-seq_H3K27me3_view on
@@ -251,7 +251,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR161FEJ4 TARG=OC view=Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR161FEJ4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27me3
 
     track ENC003Histone_ChIP-seq_H3K36me3_view
     parent ENC003 on
@@ -269,7 +269,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR589TCU4 TARG=OC view=Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR589TCU4 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K36me3
 
         track ENCSR589TCU1
         parent ENC003Histone_ChIP-seq_H3K36me3_view on
@@ -279,7 +279,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR589TCU1 TARG=OC view=Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR589TCU1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K36me3
 
         track ENCSR589TCU3
         parent ENC003Histone_ChIP-seq_H3K36me3_view on
@@ -289,7 +289,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR589TCU3 TARG=OC view=Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR589TCU3 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K36me3
 
         track ENCSR589TCU2
         parent ENC003Histone_ChIP-seq_H3K36me3_view on
@@ -299,7 +299,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR589TCU2 TARG=OC view=Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR589TCU2 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K36me3
 
     track ENC003RAMPAGE_view
     parent ENC003 on
@@ -317,7 +317,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR236PTD1 TARG=OC view=RAMPAGE
+        subGroups BS=spleen EXP=ENCSR236PTD1 IND=ENC003 view=ENC003RAMPAGE
 
         track ENCSR236PTD2
         parent ENC003RAMPAGE_view on
@@ -327,7 +327,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR236PTD2 TARG=OC view=RAMPAGE
+        subGroups BS=spleen EXP=ENCSR236PTD2 IND=ENC003 view=ENC003RAMPAGE
 
     track ENC003TF_ChIP-seq_CTCF_view
     parent ENC003 on
@@ -345,7 +345,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR601FEB3 TARG=OC view=TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR601FEB3 IND=ENC003 view=ENC003TF_ChIP-seq_CTCF
 
         track ENCSR601FEB2
         parent ENC003TF_ChIP-seq_CTCF_view on
@@ -355,7 +355,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR601FEB2 TARG=OC view=TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR601FEB2 IND=ENC003 view=ENC003TF_ChIP-seq_CTCF
 
         track ENCSR601FEB1
         parent ENC003TF_ChIP-seq_CTCF_view on
@@ -365,7 +365,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR601FEB1 TARG=OC view=TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR601FEB1 IND=ENC003 view=ENC003TF_ChIP-seq_CTCF
 
         track ENCSR692ILH1
         parent ENC003TF_ChIP-seq_CTCF_view on
@@ -375,7 +375,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR692ILH1 TARG=OC view=TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR692ILH1 IND=ENC003 view=ENC003TF_ChIP-seq_CTCF
 
     track ENC003TF_ChIP-seq_POLR2A_view
     parent ENC003 on
@@ -393,7 +393,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR289VTP1 TARG=OC view=TF_ChIP-seq_POLR2A
+        subGroups BS=spleen EXP=ENCSR289VTP1 IND=ENC003 view=ENC003TF_ChIP-seq_POLR2A
 
     track ENC003TF_ChIP-seq_POLR2AphosphoS5_view
     parent ENC003 on
@@ -411,7 +411,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR959UQA1 TARG=OC view=TF_ChIP-seq_POLR2AphosphoS5
+        subGroups BS=spleen EXP=ENCSR959UQA1 IND=ENC003 view=ENC003TF_ChIP-seq_POLR2AphosphoS5
 
     track ENC003small_RNA-seq_view
     parent ENC003 on
@@ -429,7 +429,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR307FBN2 TARG=OC view=small_RNA-seq
+        subGroups BS=spleen EXP=ENCSR307FBN2 IND=ENC003 view=ENC003small_RNA-seq
 
         track ENCSR307FBN1
         parent ENC003small_RNA-seq_view on
@@ -439,7 +439,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR307FBN1 TARG=OC view=small_RNA-seq
+        subGroups BS=spleen EXP=ENCSR307FBN1 IND=ENC003 view=ENC003small_RNA-seq
 
     track ENC003total_RNA-seq_view
     parent ENC003 on
@@ -457,7 +457,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR900SGE1 TARG=OC view=total_RNA-seq
+        subGroups BS=spleen EXP=ENCSR900SGE1 IND=ENC003 view=ENC003total_RNA-seq
 
         track ENCSR900SGE2
         parent ENC003total_RNA-seq_view on
@@ -467,7 +467,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR900SGE2 TARG=OC view=total_RNA-seq
+        subGroups BS=spleen EXP=ENCSR900SGE2 IND=ENC003 view=ENC003total_RNA-seq
 
 track ENC001
 compositeTrack on
@@ -500,7 +500,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR928BGP3 TARG=OC view=Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR928BGP3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me1
 
         track ENCSR928BGP2
         parent ENC001Histone_ChIP-seq_H3K4me1_view on
@@ -510,7 +510,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR928BGP2 TARG=OC view=Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR928BGP2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me1
 
         track ENCSR928BGP1
         parent ENC001Histone_ChIP-seq_H3K4me1_view on
@@ -520,7 +520,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR928BGP1 TARG=OC view=Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR928BGP1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me1
 
     track ENC001Histone_ChIP-seq_H3K4me3_view
     parent ENC001 on
@@ -538,7 +538,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR556QXD2 TARG=OC view=Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR556QXD2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me3
 
         track ENCSR556QXD3
         parent ENC001Histone_ChIP-seq_H3K4me3_view on
@@ -548,7 +548,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR556QXD3 TARG=OC view=Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR556QXD3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me3
 
         track ENCSR556QXD1
         parent ENC001Histone_ChIP-seq_H3K4me3_view on
@@ -558,7 +558,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR556QXD1 TARG=OC view=Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR556QXD1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K4me3
 
     track ENC001Histone_ChIP-seq_H3K9me3_view
     parent ENC001 on
@@ -576,7 +576,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR091IRL2 TARG=OC view=Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR091IRL2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K9me3
 
         track ENCSR091IRL3
         parent ENC001Histone_ChIP-seq_H3K9me3_view on
@@ -586,7 +586,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR091IRL3 TARG=OC view=Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR091IRL3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K9me3
 
         track ENCSR091IRL1
         parent ENC001Histone_ChIP-seq_H3K9me3_view on
@@ -596,7 +596,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR091IRL1 TARG=OC view=Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR091IRL1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K9me3
 
     track ENC001Histone_ChIP-seq_H3K27ac_view
     parent ENC001 on
@@ -614,7 +614,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR426VHO2 TARG=OC view=Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR426VHO2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27ac
 
         track ENCSR426VHO3
         parent ENC001Histone_ChIP-seq_H3K27ac_view on
@@ -624,7 +624,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR426VHO3 TARG=OC view=Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR426VHO3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27ac
 
         track ENCSR426VHO1
         parent ENC001Histone_ChIP-seq_H3K27ac_view on
@@ -634,7 +634,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR426VHO1 TARG=OC view=Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR426VHO1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27ac
 
     track ENC001Histone_ChIP-seq_H3K27me3_view
     parent ENC001 on
@@ -652,7 +652,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR506DCR3 TARG=OC view=Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR506DCR3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27me3
 
         track ENCSR506DCR2
         parent ENC001Histone_ChIP-seq_H3K27me3_view on
@@ -662,7 +662,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR506DCR2 TARG=OC view=Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR506DCR2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27me3
 
         track ENCSR506DCR1
         parent ENC001Histone_ChIP-seq_H3K27me3_view on
@@ -672,7 +672,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR506DCR1 TARG=OC view=Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR506DCR1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27me3
 
     track ENC001Histone_ChIP-seq_H3K36me3_view
     parent ENC001 on
@@ -690,7 +690,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR407UEE3 TARG=OC view=Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR407UEE3 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K36me3
 
         track ENCSR407UEE2
         parent ENC001Histone_ChIP-seq_H3K36me3_view on
@@ -700,7 +700,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR407UEE2 TARG=OC view=Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR407UEE2 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K36me3
 
         track ENCSR407UEE1
         parent ENC001Histone_ChIP-seq_H3K36me3_view on
@@ -710,7 +710,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR407UEE1 TARG=OC view=Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR407UEE1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K36me3
 
     track ENC001RAMPAGE_view
     parent ENC001 on
@@ -728,7 +728,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR329YVA2 TARG=OC view=RAMPAGE
+        subGroups BS=spleen EXP=ENCSR329YVA2 IND=ENC001 view=ENC001RAMPAGE
 
         track ENCSR329YVA1
         parent ENC001RAMPAGE_view on
@@ -738,7 +738,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR329YVA1 TARG=OC view=RAMPAGE
+        subGroups BS=spleen EXP=ENCSR329YVA1 IND=ENC001 view=ENC001RAMPAGE
 
     track ENC001TF_ChIP-seq_CTCF_view
     parent ENC001 on
@@ -756,7 +756,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR234HEM1 TARG=OC view=TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR234HEM1 IND=ENC001 view=ENC001TF_ChIP-seq_CTCF
 
         track ENCSR343RJH1
         parent ENC001TF_ChIP-seq_CTCF_view on
@@ -766,7 +766,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR343RJH1 TARG=OC view=TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR343RJH1 IND=ENC001 view=ENC001TF_ChIP-seq_CTCF
 
         track ENCSR343RJH3
         parent ENC001TF_ChIP-seq_CTCF_view on
@@ -776,7 +776,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR343RJH3 TARG=OC view=TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR343RJH3 IND=ENC001 view=ENC001TF_ChIP-seq_CTCF
 
         track ENCSR343RJH2
         parent ENC001TF_ChIP-seq_CTCF_view on
@@ -786,7 +786,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR343RJH2 TARG=OC view=TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR343RJH2 IND=ENC001 view=ENC001TF_ChIP-seq_CTCF
 
     track ENC001TF_ChIP-seq_POLR2A_view
     parent ENC001 on
@@ -804,7 +804,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR729GXE1 TARG=OC view=TF_ChIP-seq_POLR2A
+        subGroups BS=spleen EXP=ENCSR729GXE1 IND=ENC001 view=ENC001TF_ChIP-seq_POLR2A
 
     track ENC001TF_ChIP-seq_POLR2AphosphoS5_view
     parent ENC001 on
@@ -822,7 +822,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR950CUQ1 TARG=OC view=TF_ChIP-seq_POLR2AphosphoS5
+        subGroups BS=spleen EXP=ENCSR950CUQ1 IND=ENC001 view=ENC001TF_ChIP-seq_POLR2AphosphoS5
 
     track ENC001WGBS_view
     parent ENC001 on
@@ -840,7 +840,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR757JTX1 TARG=OC view=WGBS
+        subGroups BS=spleen EXP=ENCSR757JTX1 IND=ENC001 view=ENC001WGBS
 
     track ENC001small_RNA-seq_view
     parent ENC001 on
@@ -858,7 +858,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR917CQJ2 TARG=OC view=small_RNA-seq
+        subGroups BS=spleen EXP=ENCSR917CQJ2 IND=ENC001 view=ENC001small_RNA-seq
 
         track ENCSR917CQJ1
         parent ENC001small_RNA-seq_view on
@@ -868,7 +868,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR917CQJ1 TARG=OC view=small_RNA-seq
+        subGroups BS=spleen EXP=ENCSR917CQJ1 IND=ENC001 view=ENC001small_RNA-seq
 
     track ENC001total_RNA-seq_view
     parent ENC001 on
@@ -886,7 +886,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR330UMQ2 TARG=OC view=total_RNA-seq
+        subGroups BS=spleen EXP=ENCSR330UMQ2 IND=ENC001 view=ENC001total_RNA-seq
 
         track ENCSR330UMQ1
         parent ENC001total_RNA-seq_view on
@@ -896,7 +896,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR330UMQ1 TARG=OC view=total_RNA-seq
+        subGroups BS=spleen EXP=ENCSR330UMQ1 IND=ENC001 view=ENC001total_RNA-seq
 
 track ENC004
 compositeTrack on
@@ -929,7 +929,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR078EBD1 TARG=OC view=ATAC-seq
+        subGroups BS=spleen EXP=ENCSR078EBD1 IND=ENC004 view=ENC004ATAC-seq
 
     track ENC004Histone_ChIP-seq_H3K4me1_view
     parent ENC004 on
@@ -947,7 +947,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR831EDZ1 TARG=OC view=Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR831EDZ1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me1
 
         track ENCSR831EDZ2
         parent ENC004Histone_ChIP-seq_H3K4me1_view on
@@ -957,7 +957,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR831EDZ2 TARG=OC view=Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR831EDZ2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me1
 
         track ENCSR831EDZ3
         parent ENC004Histone_ChIP-seq_H3K4me1_view on
@@ -967,7 +967,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR831EDZ3 TARG=OC view=Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR831EDZ3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me1
 
     track ENC004Histone_ChIP-seq_H3K4me3_view
     parent ENC004 on
@@ -985,7 +985,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR589DBF1 TARG=OC view=Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR589DBF1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me3
 
         track ENCSR589DBF3
         parent ENC004Histone_ChIP-seq_H3K4me3_view on
@@ -995,7 +995,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR589DBF3 TARG=OC view=Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR589DBF3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me3
 
         track ENCSR589DBF2
         parent ENC004Histone_ChIP-seq_H3K4me3_view on
@@ -1005,7 +1005,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR589DBF2 TARG=OC view=Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR589DBF2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K4me3
 
     track ENC004Histone_ChIP-seq_H3K9me3_view
     parent ENC004 on
@@ -1023,7 +1023,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR272CIV2 TARG=OC view=Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR272CIV2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K9me3
 
         track ENCSR272CIV3
         parent ENC004Histone_ChIP-seq_H3K9me3_view on
@@ -1033,7 +1033,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR272CIV3 TARG=OC view=Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR272CIV3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K9me3
 
         track ENCSR272CIV1
         parent ENC004Histone_ChIP-seq_H3K9me3_view on
@@ -1043,7 +1043,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR272CIV1 TARG=OC view=Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR272CIV1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K9me3
 
     track ENC004Histone_ChIP-seq_H3K27ac_view
     parent ENC004 on
@@ -1061,7 +1061,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR668GBL2 TARG=OC view=Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR668GBL2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27ac
 
         track ENCSR668GBL3
         parent ENC004Histone_ChIP-seq_H3K27ac_view on
@@ -1071,7 +1071,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR668GBL3 TARG=OC view=Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR668GBL3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27ac
 
         track ENCSR668GBL1
         parent ENC004Histone_ChIP-seq_H3K27ac_view on
@@ -1081,7 +1081,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR668GBL1 TARG=OC view=Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR668GBL1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27ac
 
     track ENC004Histone_ChIP-seq_H3K27me3_view
     parent ENC004 on
@@ -1099,7 +1099,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR826MTK3 TARG=OC view=Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR826MTK3 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27me3
 
         track ENCSR826MTK2
         parent ENC004Histone_ChIP-seq_H3K27me3_view on
@@ -1109,7 +1109,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR826MTK2 TARG=OC view=Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR826MTK2 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27me3
 
         track ENCSR826MTK1
         parent ENC004Histone_ChIP-seq_H3K27me3_view on
@@ -1119,7 +1119,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR826MTK1 TARG=OC view=Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR826MTK1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27me3
 
     track ENC004RAMPAGE_view
     parent ENC004 on
@@ -1137,7 +1137,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR887SSW1 TARG=OC view=RAMPAGE
+        subGroups BS=spleen EXP=ENCSR887SSW1 IND=ENC004 view=ENC004RAMPAGE
 
         track ENCSR887SSW2
         parent ENC004RAMPAGE_view on
@@ -1147,7 +1147,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR887SSW2 TARG=OC view=RAMPAGE
+        subGroups BS=spleen EXP=ENCSR887SSW2 IND=ENC004 view=ENC004RAMPAGE
 
     track ENC004TF_ChIP-seq_CTCF_view
     parent ENC004 on
@@ -1165,7 +1165,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR482PMN1 TARG=OC view=TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR482PMN1 IND=ENC004 view=ENC004TF_ChIP-seq_CTCF
 
         track ENCSR595BPR2
         parent ENC004TF_ChIP-seq_CTCF_view on
@@ -1175,7 +1175,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR595BPR2 TARG=OC view=TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR595BPR2 IND=ENC004 view=ENC004TF_ChIP-seq_CTCF
 
         track ENCSR595BPR3
         parent ENC004TF_ChIP-seq_CTCF_view on
@@ -1185,7 +1185,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR595BPR3 TARG=OC view=TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR595BPR3 IND=ENC004 view=ENC004TF_ChIP-seq_CTCF
 
         track ENCSR595BPR1
         parent ENC004TF_ChIP-seq_CTCF_view on
@@ -1195,7 +1195,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR595BPR1 TARG=OC view=TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR595BPR1 IND=ENC004 view=ENC004TF_ChIP-seq_CTCF
 
     track ENC004TF_ChIP-seq_POLR2A_view
     parent ENC004 on
@@ -1213,7 +1213,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR691CPM1 TARG=OC view=TF_ChIP-seq_POLR2A
+        subGroups BS=spleen EXP=ENCSR691CPM1 IND=ENC004 view=ENC004TF_ChIP-seq_POLR2A
 
     track ENC004TF_ChIP-seq_POLR2AphosphoS5_view
     parent ENC004 on
@@ -1231,7 +1231,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR350PUV1 TARG=OC view=TF_ChIP-seq_POLR2AphosphoS5
+        subGroups BS=spleen EXP=ENCSR350PUV1 IND=ENC004 view=ENC004TF_ChIP-seq_POLR2AphosphoS5
 
     track ENC004WGBS_view
     parent ENC004 on
@@ -1249,7 +1249,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR750CPN1 TARG=OC view=WGBS
+        subGroups BS=spleen EXP=ENCSR750CPN1 IND=ENC004 view=ENC004WGBS
 
     track ENC004small_RNA-seq_view
     parent ENC004 on
@@ -1267,7 +1267,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR593MVW1 TARG=OC view=small_RNA-seq
+        subGroups BS=spleen EXP=ENCSR593MVW1 IND=ENC004 view=ENC004small_RNA-seq
 
         track ENCSR593MVW2
         parent ENC004small_RNA-seq_view on
@@ -1277,7 +1277,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR593MVW2 TARG=OC view=small_RNA-seq
+        subGroups BS=spleen EXP=ENCSR593MVW2 IND=ENC004 view=ENC004small_RNA-seq
 
     track ENC004total_RNA-seq_view
     parent ENC004 on
@@ -1295,7 +1295,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR194HVU2 TARG=OC view=total_RNA-seq
+        subGroups BS=spleen EXP=ENCSR194HVU2 IND=ENC004 view=ENC004total_RNA-seq
 
         track ENCSR194HVU1
         parent ENC004total_RNA-seq_view on
@@ -1305,7 +1305,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR194HVU1 TARG=OC view=total_RNA-seq
+        subGroups BS=spleen EXP=ENCSR194HVU1 IND=ENC004 view=ENC004total_RNA-seq
 
 track ENC002
 compositeTrack on
@@ -1338,7 +1338,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR850YHJ1 TARG=OC view=DNase-seq
+        subGroups BS=spleen EXP=ENCSR850YHJ1 IND=ENC002 view=ENC002DNase-seq
 
     track ENC002Histone_ChIP-seq_H3K4me1_view
     parent ENC002 on
@@ -1356,7 +1356,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR635IRN1 TARG=OC view=Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR635IRN1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me1
 
         track ENCSR635IRN2
         parent ENC002Histone_ChIP-seq_H3K4me1_view on
@@ -1366,7 +1366,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR635IRN2 TARG=OC view=Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR635IRN2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me1
 
         track ENCSR635IRN3
         parent ENC002Histone_ChIP-seq_H3K4me1_view on
@@ -1376,7 +1376,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR635IRN3 TARG=OC view=Histone_ChIP-seq_H3K4me1
+        subGroups BS=spleen EXP=ENCSR635IRN3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me1
 
     track ENC002Histone_ChIP-seq_H3K4me3_view
     parent ENC002 on
@@ -1394,7 +1394,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR377ILM1 TARG=OC view=Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR377ILM1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me3
 
         track ENCSR377ILM2
         parent ENC002Histone_ChIP-seq_H3K4me3_view on
@@ -1404,7 +1404,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR377ILM2 TARG=OC view=Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR377ILM2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me3
 
         track ENCSR377ILM3
         parent ENC002Histone_ChIP-seq_H3K4me3_view on
@@ -1414,7 +1414,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR377ILM3 TARG=OC view=Histone_ChIP-seq_H3K4me3
+        subGroups BS=spleen EXP=ENCSR377ILM3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K4me3
 
     track ENC002Histone_ChIP-seq_H3K9me3_view
     parent ENC002 on
@@ -1432,7 +1432,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR709APF2 TARG=OC view=Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR709APF2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K9me3
 
         track ENCSR709APF3
         parent ENC002Histone_ChIP-seq_H3K9me3_view on
@@ -1442,7 +1442,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR709APF3 TARG=OC view=Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR709APF3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K9me3
 
         track ENCSR709APF1
         parent ENC002Histone_ChIP-seq_H3K9me3_view on
@@ -1452,7 +1452,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR709APF1 TARG=OC view=Histone_ChIP-seq_H3K9me3
+        subGroups BS=spleen EXP=ENCSR709APF1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K9me3
 
     track ENC002Histone_ChIP-seq_H3K27ac_view
     parent ENC002 on
@@ -1470,7 +1470,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR593INW1 TARG=OC view=Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR593INW1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27ac
 
         track ENCSR593INW2
         parent ENC002Histone_ChIP-seq_H3K27ac_view on
@@ -1480,7 +1480,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR593INW2 TARG=OC view=Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR593INW2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27ac
 
         track ENCSR593INW3
         parent ENC002Histone_ChIP-seq_H3K27ac_view on
@@ -1490,7 +1490,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR593INW3 TARG=OC view=Histone_ChIP-seq_H3K27ac
+        subGroups BS=spleen EXP=ENCSR593INW3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27ac
 
     track ENC002Histone_ChIP-seq_H3K27me3_view
     parent ENC002 on
@@ -1508,7 +1508,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR080JPX3 TARG=OC view=Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR080JPX3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27me3
 
         track ENCSR080JPX2
         parent ENC002Histone_ChIP-seq_H3K27me3_view on
@@ -1518,7 +1518,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR080JPX2 TARG=OC view=Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR080JPX2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27me3
 
         track ENCSR080JPX1
         parent ENC002Histone_ChIP-seq_H3K27me3_view on
@@ -1528,7 +1528,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR080JPX1 TARG=OC view=Histone_ChIP-seq_H3K27me3
+        subGroups BS=spleen EXP=ENCSR080JPX1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27me3
 
     track ENC002Histone_ChIP-seq_H3K36me3_view
     parent ENC002 on
@@ -1546,7 +1546,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR787YHR1 TARG=OC view=Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR787YHR1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K36me3
 
         track ENCSR787YHR2
         parent ENC002Histone_ChIP-seq_H3K36me3_view on
@@ -1556,7 +1556,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR787YHR2 TARG=OC view=Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR787YHR2 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K36me3
 
         track ENCSR787YHR3
         parent ENC002Histone_ChIP-seq_H3K36me3_view on
@@ -1566,7 +1566,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR787YHR3 TARG=OC view=Histone_ChIP-seq_H3K36me3
+        subGroups BS=spleen EXP=ENCSR787YHR3 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K36me3
 
     track ENC002RAMPAGE_view
     parent ENC002 on
@@ -1584,7 +1584,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR627SPU1 TARG=OC view=RAMPAGE
+        subGroups BS=spleen EXP=ENCSR627SPU1 IND=ENC002 view=ENC002RAMPAGE
 
         track ENCSR627SPU2
         parent ENC002RAMPAGE_view on
@@ -1594,7 +1594,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR627SPU2 TARG=OC view=RAMPAGE
+        subGroups BS=spleen EXP=ENCSR627SPU2 IND=ENC002 view=ENC002RAMPAGE
 
     track ENC002TF_ChIP-seq_CTCF_view
     parent ENC002 on
@@ -1612,7 +1612,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR028YEV1 TARG=OC view=TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR028YEV1 IND=ENC002 view=ENC002TF_ChIP-seq_CTCF
 
         track ENCSR225YGX1
         parent ENC002TF_ChIP-seq_CTCF_view on
@@ -1622,7 +1622,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR225YGX1 TARG=OC view=TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR225YGX1 IND=ENC002 view=ENC002TF_ChIP-seq_CTCF
 
         track ENCSR225YGX2
         parent ENC002TF_ChIP-seq_CTCF_view on
@@ -1632,7 +1632,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR225YGX2 TARG=OC view=TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR225YGX2 IND=ENC002 view=ENC002TF_ChIP-seq_CTCF
 
         track ENCSR225YGX3
         parent ENC002TF_ChIP-seq_CTCF_view on
@@ -1642,7 +1642,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR225YGX3 TARG=OC view=TF_ChIP-seq_CTCF
+        subGroups BS=spleen EXP=ENCSR225YGX3 IND=ENC002 view=ENC002TF_ChIP-seq_CTCF
 
     track ENC002TF_ChIP-seq_POLR2A_view
     parent ENC002 on
@@ -1660,7 +1660,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR266XFE1 TARG=OC view=TF_ChIP-seq_POLR2A
+        subGroups BS=spleen EXP=ENCSR266XFE1 IND=ENC002 view=ENC002TF_ChIP-seq_POLR2A
 
     track ENC002small_RNA-seq_view
     parent ENC002 on
@@ -1678,7 +1678,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR587CPE1 TARG=OC view=small_RNA-seq
+        subGroups BS=spleen EXP=ENCSR587CPE1 IND=ENC002 view=ENC002small_RNA-seq
 
         track ENCSR587CPE2
         parent ENC002small_RNA-seq_view on
@@ -1688,7 +1688,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR587CPE2 TARG=OC view=small_RNA-seq
+        subGroups BS=spleen EXP=ENCSR587CPE2 IND=ENC002 view=ENC002small_RNA-seq
 
     track ENC002total_RNA-seq_view
     parent ENC002 on
@@ -1706,7 +1706,7 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR106SZN2 TARG=OC view=total_RNA-seq
+        subGroups BS=spleen EXP=ENCSR106SZN2 IND=ENC002 view=ENC002total_RNA-seq
 
         track ENCSR106SZN1
         parent ENC002total_RNA-seq_view on
@@ -1716,4 +1716,4 @@ dimensionAchecked pool
         type bigWig
         color 205,183,158
         altColor 214,79,79
-        subGroups BS=spleen EXP=ENCSR106SZN1 TARG=OC view=total_RNA-seq
+        subGroups BS=spleen EXP=ENCSR106SZN1 IND=ENC002 view=ENC002total_RNA-seq
