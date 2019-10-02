@@ -22,1571 +22,1571 @@ dimensionAchecked pool
     visibility dense
     autoScale on
 
-#/experiments/ENCSR668VCT/##ATAC-seq##transverse colon##(37 years)##released##unreplicated##
-track ENCSR668VCT
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/a3b1eafd-64e6-4d8d-a69a-cefe688e1ad1/ENCFF523ZFE.bigWig
-longLabel ZZ
-shortLabel (37 years)_ATAC-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR668VCT TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR386HAZ/##ATAC-seq##transverse colon##(51 year)##released##unreplicated##
-track ENCSR386HAZ
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/186eb082-22e1-4195-a6ad-61a1d9983370/ENCFF724HKZ.bigWig
-longLabel ZZ
-shortLabel (51 year)_ATAC-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR386HAZ TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR404LLJ/##ATAC-seq##transverse colon##(53 years)##released##unreplicated##
-track ENCSR404LLJ
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/047460d1-f305-4ea9-9961-0939f19c6025/ENCFF031MAM.bigWig
-longLabel ZZ
-shortLabel (53 years)_ATAC-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR404LLJ TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR761TKU/##ATAC-seq##transverse colon##(54 years)##released##unreplicated##
-track ENCSR761TKU
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/5ec15835-ce97-4f55-baf9-e44942fe2593/ENCFF284HMB.bigWig
-longLabel ZZ
-shortLabel (54 years)_ATAC-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR761TKU TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR009MWG/##Control ChIP-seq_Control##transverse colon##(37 years)##released##unreplicated##
-#/experiments/ENCSR138QGB/##Control ChIP-seq_Control##transverse colon##(37 years)##released##unreplicated##
-#/experiments/ENCSR293DLP/##Control ChIP-seq_Control##transverse colon##(37 years)##released##unreplicated##
-#/experiments/ENCSR479HSY/##Control ChIP-seq_Control##transverse colon##(37 years)##released##isogenic##
-#/experiments/ENCSR147NJH/##Control ChIP-seq_Control##transverse colon##(51 year)##released##unreplicated##
-#/experiments/ENCSR384KIB/##Control ChIP-seq_Control##transverse colon##(51 year)##released##isogenic##
-#/experiments/ENCSR457NQR/##Control ChIP-seq_Control##transverse colon##(51 year)##released##unreplicated##
-#/experiments/ENCSR602GPF/##Control ChIP-seq_Control##transverse colon##(51 year)##released##unreplicated##
-#/experiments/ENCSR170BPY/##Control ChIP-seq_Control##transverse colon##(53 years)##released##unreplicated##
-#/experiments/ENCSR567EKU/##Control ChIP-seq_Control##transverse colon##(53 years)##released##unreplicated##
-#/experiments/ENCSR717TBA/##Control ChIP-seq_Control##transverse colon##(53 years)##released##unreplicated##
-#/experiments/ENCSR828XQV/##Control ChIP-seq_Control##transverse colon##(53 years)##released##isogenic##
-#/experiments/ENCSR651ISB/##Control ChIP-seq_Control##transverse colon##(54 years)##released##isogenic##
-#/experiments/ENCSR799YAO/##Control ChIP-seq_Control##transverse colon##(54 years)##released##unreplicated##
-#/experiments/ENCSR580LHO/##DNAme array##transverse colon##(37 years)##released##unreplicated##
-#/experiments/ENCSR090CRZ/##DNAme array##transverse colon##(51 year)##released##unreplicated##
-#/experiments/ENCSR558ACF/##DNAme array##transverse colon##(53 years)##released##unreplicated##
-#/experiments/ENCSR002LED/##DNAme array##transverse colon##(54 years)##released##unreplicated##
-#/experiments/ENCSR923JYH/##DNase-seq##transverse colon##(37 years)##in progress##unreplicated##
-track ENCSR923JYH
-parent hist_fFCOC_view on
-bigDataUrl https://encode-private.s3.amazonaws.com/2019/09/10/5c8e78df-30d3-4610-ac88-d07a1a87da85/ENCFF911YMS.bigWig
-longLabel ZZ
-shortLabel (37 years)_DNase-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR923JYH TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR979ZJS/##DNase-seq##transverse colon##(37 years)##released##unreplicated##
-track ENCSR979ZJS
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/093556df-70a5-4d9f-869d-25c0922d1dc3/ENCFF624FJD.bigWig
-longLabel ZZ
-shortLabel (37 years)_DNase-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR979ZJS TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR760QZM/##DNase-seq##transverse colon##(51 year)##released##unreplicated##
-track ENCSR760QZM
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/09/10/a8b3d6b1-8c0f-4bb1-8789-cbcc8f010fc9/ENCFF950KRY.bigWig
-longLabel ZZ
-shortLabel (51 year)_DNase-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR760QZM TARG=OC view=fFCOC
-
+        #/experiments/ENCSR668VCT/##ATAC-seq##transverse colon##(37 years)##released##unreplicated##
+        track ENCSR668VCT
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/a3b1eafd-64e6-4d8d-a69a-cefe688e1ad1/ENCFF523ZFE.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_ATAC-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR668VCT TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR386HAZ/##ATAC-seq##transverse colon##(51 year)##released##unreplicated##
+        track ENCSR386HAZ
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/186eb082-22e1-4195-a6ad-61a1d9983370/ENCFF724HKZ.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_ATAC-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR386HAZ TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR404LLJ/##ATAC-seq##transverse colon##(53 years)##released##unreplicated##
+        track ENCSR404LLJ
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/047460d1-f305-4ea9-9961-0939f19c6025/ENCFF031MAM.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_ATAC-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR404LLJ TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR761TKU/##ATAC-seq##transverse colon##(54 years)##released##unreplicated##
+        track ENCSR761TKU
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/12/22/5ec15835-ce97-4f55-baf9-e44942fe2593/ENCFF284HMB.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_ATAC-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR761TKU TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR009MWG/##Control ChIP-seq_Control##transverse colon##(37 years)##released##unreplicated##
+        #/experiments/ENCSR138QGB/##Control ChIP-seq_Control##transverse colon##(37 years)##released##unreplicated##
+        #/experiments/ENCSR293DLP/##Control ChIP-seq_Control##transverse colon##(37 years)##released##unreplicated##
+        #/experiments/ENCSR479HSY/##Control ChIP-seq_Control##transverse colon##(37 years)##released##isogenic##
+        #/experiments/ENCSR147NJH/##Control ChIP-seq_Control##transverse colon##(51 year)##released##unreplicated##
+        #/experiments/ENCSR384KIB/##Control ChIP-seq_Control##transverse colon##(51 year)##released##isogenic##
+        #/experiments/ENCSR457NQR/##Control ChIP-seq_Control##transverse colon##(51 year)##released##unreplicated##
+        #/experiments/ENCSR602GPF/##Control ChIP-seq_Control##transverse colon##(51 year)##released##unreplicated##
+        #/experiments/ENCSR170BPY/##Control ChIP-seq_Control##transverse colon##(53 years)##released##unreplicated##
+        #/experiments/ENCSR567EKU/##Control ChIP-seq_Control##transverse colon##(53 years)##released##unreplicated##
+        #/experiments/ENCSR717TBA/##Control ChIP-seq_Control##transverse colon##(53 years)##released##unreplicated##
+        #/experiments/ENCSR828XQV/##Control ChIP-seq_Control##transverse colon##(53 years)##released##isogenic##
+        #/experiments/ENCSR651ISB/##Control ChIP-seq_Control##transverse colon##(54 years)##released##isogenic##
+        #/experiments/ENCSR799YAO/##Control ChIP-seq_Control##transverse colon##(54 years)##released##unreplicated##
+        #/experiments/ENCSR580LHO/##DNAme array##transverse colon##(37 years)##released##unreplicated##
+        #/experiments/ENCSR090CRZ/##DNAme array##transverse colon##(51 year)##released##unreplicated##
+        #/experiments/ENCSR558ACF/##DNAme array##transverse colon##(53 years)##released##unreplicated##
+        #/experiments/ENCSR002LED/##DNAme array##transverse colon##(54 years)##released##unreplicated##
+        #/experiments/ENCSR923JYH/##DNase-seq##transverse colon##(37 years)##in progress##unreplicated##
+        track ENCSR923JYH
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-private.s3.amazonaws.com/2019/09/10/5c8e78df-30d3-4610-ac88-d07a1a87da85/ENCFF911YMS.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_DNase-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR923JYH TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR979ZJS/##DNase-seq##transverse colon##(37 years)##released##unreplicated##
+        track ENCSR979ZJS
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/093556df-70a5-4d9f-869d-25c0922d1dc3/ENCFF624FJD.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_DNase-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR979ZJS TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR760QZM/##DNase-seq##transverse colon##(51 year)##released##unreplicated##
+        track ENCSR760QZM
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/09/10/a8b3d6b1-8c0f-4bb1-8789-cbcc8f010fc9/ENCFF950KRY.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_DNase-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR760QZM TARG=OC view=fFCOC
+
 
-#/experiments/ENCSR504WYA/##DNase-seq##transverse colon##(53 years)##released##unreplicated##
-track ENCSR504WYA
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/033fac20-6b2a-4222-8d59-22a230a62824/ENCFF413EKZ.bigWig
-longLabel ZZ
-shortLabel (53 years)_DNase-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR504WYA TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR763AKE/##DNase-seq##transverse colon##(53 years)##in progress##unreplicated##
-track ENCSR763AKE
-parent hist_fFCOC_view on
-bigDataUrl https://encode-private.s3.amazonaws.com/2019/09/11/dbf1df0f-ddc0-4516-88f6-da95b4276c79/ENCFF458EJZ.bigWig
-longLabel ZZ
-shortLabel (53 years)_DNase-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR763AKE TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR340MRJ/##DNase-seq##transverse colon##(54 years)##in progress##unreplicated##
-#/experiments/ENCSR790FIS/##DNase-seq##transverse colon##(54 years)##released##unreplicated##
-track ENCSR790FIS
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/26/1b979699-5a21-430e-b347-8b2162f57cb8/ENCFF098CAJ.bigWig
-longLabel ZZ
-shortLabel (54 years)_DNase-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR790FIS TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR516QFO/##Histone ChIP-seq_H3K4me1##transverse colon##(37 years)##released##isogenic##
-track ENCSR516QFO
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/02/11/c3e1efa0-91ca-45a0-aa0f-ef40657353dc/ENCFF418CVS.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K4me1_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR516QFO TARG=OC view=fFCOC
-
-
-track ENCSR516QFO
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/b7d4368d-3bc1-4267-b481-717abae5887c/ENCFF761ZXZ.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K4me1_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR516QFO TARG=OC view=fFCOC
-
-
-track ENCSR516QFO
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/97deacd5-ea44-456e-9c20-51bc7dde9c52/ENCFF575DJJ.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K4me1_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR516QFO TARG=OC view=fFCOC
-
-
-track ENCSR516QFO
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/9dd21758-89b1-4b2d-8bf0-a5aa4b68cbb4/ENCFF927ZMT.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K4me1_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR516QFO TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR500QVK/##Histone ChIP-seq_H3K4me1##transverse colon##(51 year)##released##isogenic##
-track ENCSR500QVK
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/c8906283-c96d-4ade-afb7-47be0b947f7e/ENCFF067YCI.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K4me1_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR500QVK TARG=OC view=fFCOC
-
-
-track ENCSR500QVK
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/016673fd-5e31-40bd-a7e8-8d64699edc48/ENCFF935EVL.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K4me1_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR500QVK TARG=OC view=fFCOC
-
-
-track ENCSR500QVK
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/8cefe3ff-0867-4a50-b78f-b11330234256/ENCFF108SCL.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K4me1_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR500QVK TARG=OC view=fFCOC
-
-
-track ENCSR500QVK
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/98b42e88-1a41-439e-9911-e4b401db17a1/ENCFF531LYY.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K4me1_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR500QVK TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR791LZY/##Histone ChIP-seq_H3K4me1##transverse colon##(53 years)##released##isogenic##
-track ENCSR791LZY
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/265b4bb9-b334-4488-9a8d-989646fc4043/ENCFF077HMG.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K4me1_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR791LZY TARG=OC view=fFCOC
-
-
-track ENCSR791LZY
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/fda2121a-8ca2-4bca-9c7f-d06f2438595c/ENCFF148SIT.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K4me1_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR791LZY TARG=OC view=fFCOC
-
-
-track ENCSR791LZY
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/c31f222b-8934-4b69-adc3-19cb47c3e53b/ENCFF950HPZ.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K4me1_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR791LZY TARG=OC view=fFCOC
-
-
-track ENCSR791LZY
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/976ec5ff-33d8-4145-849c-f334a238e503/ENCFF710QVK.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K4me1_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR791LZY TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR482OKN/##Histone ChIP-seq_H3K4me1##transverse colon##(54 years)##submitted##isogenic##
-#/experiments/ENCSR813ZEY/##Histone ChIP-seq_H3K4me3##transverse colon##(37 years)##released##isogenic##
-track ENCSR813ZEY
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/c74b3fed-449d-487c-9f44-f25bb3a778b1/ENCFF287OSD.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K4me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR813ZEY TARG=OC view=fFCOC
-
-
-track ENCSR813ZEY
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/6786b047-590d-4cc6-af6f-32ec4b8ac4ee/ENCFF784LZB.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K4me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR813ZEY TARG=OC view=fFCOC
-
-
-track ENCSR813ZEY
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/77fc2cec-0677-41b5-b3ba-61e5e25e1573/ENCFF627KYY.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K4me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR813ZEY TARG=OC view=fFCOC
-
-
-track ENCSR813ZEY
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/d8288adc-849e-4ba6-b31c-e9918ef536a3/ENCFF412IPU.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K4me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR813ZEY TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR315EZG/##Histone ChIP-seq_H3K4me3##transverse colon##(51 year)##released##isogenic##
-track ENCSR315EZG
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/76338daf-d3af-40d2-bbe9-91eb72c2e7bc/ENCFF028FBE.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K4me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR315EZG TARG=OC view=fFCOC
-
-
-track ENCSR315EZG
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/144014a8-a2a9-4421-b68e-391c0d8cbdf5/ENCFF767SRO.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K4me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR315EZG TARG=OC view=fFCOC
-
-
-track ENCSR315EZG
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/f92b00a1-f0cc-4847-b429-6681b9addb47/ENCFF284VAH.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K4me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR315EZG TARG=OC view=fFCOC
-
-
-track ENCSR315EZG
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/8b4addbb-76e0-4c75-83b0-0164e2b58038/ENCFF382GDY.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K4me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR315EZG TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR933BVL/##Histone ChIP-seq_H3K4me3##transverse colon##(53 years)##released##isogenic##
-track ENCSR933BVL
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2018/02/27/ebd16e13-cd84-4005-b2d0-bdbc759ea457/ENCFF254GWA.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K4me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR933BVL TARG=OC view=fFCOC
-
-
-track ENCSR933BVL
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/427b6151-7897-43a9-98df-7b1c486787a1/ENCFF067QBT.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K4me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR933BVL TARG=OC view=fFCOC
-
-
-track ENCSR933BVL
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/5461b057-96ab-4e09-b509-e33bf38728ae/ENCFF494HTI.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K4me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR933BVL TARG=OC view=fFCOC
-
-
-track ENCSR933BVL
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/2f2b8754-f76f-4fd5-8b90-5b536a9a1fc5/ENCFF420GBI.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K4me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR933BVL TARG=OC view=fFCOC
-
-
-track ENCSR933BVL
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/66b90a35-f3d3-485f-9642-a171bfd5c144/ENCFF986QOQ.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K4me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR933BVL TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR557OWY/##Histone ChIP-seq_H3K4me3##transverse colon##(54 years)##released##unreplicated##
-track ENCSR557OWY
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/09/955df7a7-b0b8-4e69-a706-2469ceddf1b7/ENCFF424LFW.bigWig
-longLabel ZZ
-shortLabel (54 years)_Histone ChIP-seq_H3K4me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR557OWY TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR083DXD/##Histone ChIP-seq_H3K9me3##transverse colon##(37 years)##released##isogenic##
-track ENCSR083DXD
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/f0512e47-50dd-4757-9bbe-e5500f66ee95/ENCFF598TJM.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K9me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR083DXD TARG=OC view=fFCOC
-
-
-track ENCSR083DXD
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/89738fac-76b8-4d5c-af1e-243cc2efa512/ENCFF518FSV.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K9me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR083DXD TARG=OC view=fFCOC
-
-
-track ENCSR083DXD
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/26e082ed-f3e1-4969-9a97-2a343b95ce02/ENCFF771ZMD.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K9me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR083DXD TARG=OC view=fFCOC
-
-
-track ENCSR083DXD
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/47c9885e-7a4e-43fc-94fe-bfc1eec14ef9/ENCFF057OBD.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K9me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR083DXD TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR235REN/##Histone ChIP-seq_H3K9me3##transverse colon##(51 year)##released##isogenic##
-track ENCSR235REN
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/09481897-2f08-4536-bcf8-434f90d0b4e7/ENCFF441LVS.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K9me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR235REN TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR025MHG/##Histone ChIP-seq_H3K9me3##transverse colon##(53 years)##submitted##isogenic##
-#/experiments/ENCSR413CHO/##Histone ChIP-seq_H3K9me3##transverse colon##(54 years)##released##isogenic##
-track ENCSR413CHO
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/12/9547164f-6a17-467e-889d-adfcafd724b1/ENCFF010BYI.bigWig
-longLabel ZZ
-shortLabel (54 years)_Histone ChIP-seq_H3K9me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR413CHO TARG=OC view=fFCOC
-
-
-track ENCSR413CHO
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/12/afa87dd3-2ba1-4ac6-9835-a255e82182f9/ENCFF016EFS.bigWig
-longLabel ZZ
-shortLabel (54 years)_Histone ChIP-seq_H3K9me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR413CHO TARG=OC view=fFCOC
-
-
-track ENCSR413CHO
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/12/e5ccef79-d35b-436a-82a4-643affc82eae/ENCFF045ENS.bigWig
-longLabel ZZ
-shortLabel (54 years)_Histone ChIP-seq_H3K9me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR413CHO TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR640XRV/##Histone ChIP-seq_H3K27ac##transverse colon##(37 years)##released##isogenic##
-track ENCSR640XRV
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/275d1ace-4d52-4bb8-93a4-56d65c2819a5/ENCFF574WKW.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K27ac_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR640XRV TARG=OC view=fFCOC
-
-
-track ENCSR640XRV
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/c69bda11-ed07-41d4-9847-4b2aa664b7e9/ENCFF548TWX.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K27ac_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR640XRV TARG=OC view=fFCOC
-
-
-track ENCSR640XRV
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/5aa1a0dd-e0c0-42ed-80c5-f2e54f853371/ENCFF851ZCU.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K27ac_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR640XRV TARG=OC view=fFCOC
-
-
-track ENCSR640XRV
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/ae7b4998-1bfc-4f88-bf46-c92b411fcfd5/ENCFF253WKZ.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K27ac_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR640XRV TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR792VLP/##Histone ChIP-seq_H3K27ac##transverse colon##(51 year)##released##isogenic##
-track ENCSR792VLP
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/dc5651f3-5517-4b26-9bd3-09082f955f75/ENCFF283VGV.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K27ac_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR792VLP TARG=OC view=fFCOC
-
-
-track ENCSR792VLP
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/603a6527-857e-46c5-b9c1-d42e1b120f71/ENCFF144YOU.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K27ac_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR792VLP TARG=OC view=fFCOC
-
-
-track ENCSR792VLP
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/1c041138-f3f8-4d82-9603-a17a71811646/ENCFF302BGP.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K27ac_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR792VLP TARG=OC view=fFCOC
-
-
-track ENCSR792VLP
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/02a5e77e-db6e-47fb-a805-91db3c633578/ENCFF873MWG.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K27ac_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR792VLP TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR208QRN/##Histone ChIP-seq_H3K27ac##transverse colon##(53 years)##released##isogenic##
-track ENCSR208QRN
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/6ffae5c6-3146-4f05-972d-4c33810a6698/ENCFF083BTK.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K27ac_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR208QRN TARG=OC view=fFCOC
-
-
-track ENCSR208QRN
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/b8ca2968-902d-470d-810b-aa63d40a3d6c/ENCFF354KXB.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K27ac_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR208QRN TARG=OC view=fFCOC
-
-
-track ENCSR208QRN
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/b8a701d7-c9cf-4d62-adc0-c780d08a3091/ENCFF780SLS.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K27ac_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR208QRN TARG=OC view=fFCOC
-
-
-track ENCSR208QRN
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/3dde96b4-4373-49db-8a79-31d7028faecd/ENCFF103SZL.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K27ac_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR208QRN TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR069EGE/##Histone ChIP-seq_H3K27ac##transverse colon##(54 years)##released##isogenic##
-track ENCSR069EGE
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/26/4b42c972-5e39-41f9-be5d-f85abb3f1689/ENCFF604LTF.bigWig
-longLabel ZZ
-shortLabel (54 years)_Histone ChIP-seq_H3K27ac_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR069EGE TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR643KID/##Histone ChIP-seq_H3K27me3##transverse colon##(37 years)##released##isogenic##
-track ENCSR643KID
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/3e2613e4-02bc-43c1-9b25-e901ccac0f56/ENCFF698YZQ.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K27me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR643KID TARG=OC view=fFCOC
-
-
-track ENCSR643KID
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/133cfc37-1881-4599-8f1a-1970ff95ef61/ENCFF518MBZ.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K27me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR643KID TARG=OC view=fFCOC
-
-
-track ENCSR643KID
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/29909de5-b9c9-449f-a927-614e72aeb9cd/ENCFF135KOV.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K27me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR643KID TARG=OC view=fFCOC
-
-
-track ENCSR643KID
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/1f19ccad-aac0-4ddc-b71e-d606d66a0b40/ENCFF922CAD.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K27me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR643KID TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR604QMH/##Histone ChIP-seq_H3K27me3##transverse colon##(51 year)##released##isogenic##
-track ENCSR604QMH
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/9a1b99eb-0c43-4248-a66f-043846dedea9/ENCFF338OVD.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K27me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR604QMH TARG=OC view=fFCOC
-
-
-track ENCSR604QMH
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/e01d85c0-6767-474a-839f-cdf6214435ac/ENCFF386HIU.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K27me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR604QMH TARG=OC view=fFCOC
-
-
-track ENCSR604QMH
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/49b812c4-7720-4557-9524-7188b8f276b6/ENCFF624CBI.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K27me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR604QMH TARG=OC view=fFCOC
-
-
-track ENCSR604QMH
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/eb8f577f-1489-4ec2-92bb-e578ff7c9b03/ENCFF708HGN.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K27me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR604QMH TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR840VWD/##Histone ChIP-seq_H3K27me3##transverse colon##(53 years)##released##isogenic##
-track ENCSR840VWD
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/8297ab20-1f16-4aa7-8382-b0d35cc299f6/ENCFF254JVO.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K27me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR840VWD TARG=OC view=fFCOC
-
-
-track ENCSR840VWD
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/83ee7e9c-26b1-4799-bb15-caec61768f29/ENCFF395NWE.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K27me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR840VWD TARG=OC view=fFCOC
-
-
-track ENCSR840VWD
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/cd683ec0-e43a-48fe-9c7c-3a4b394cc71b/ENCFF579VDS.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K27me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR840VWD TARG=OC view=fFCOC
-
-
-track ENCSR840VWD
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/6698cde4-07de-4088-8e92-7a6ba7219a13/ENCFF325ZTU.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K27me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR840VWD TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR024SHT/##Histone ChIP-seq_H3K27me3##transverse colon##(54 years)##submitted##isogenic##
-#/experiments/ENCSR749ABB/##Histone ChIP-seq_H3K36me3##transverse colon##(37 years)##released##isogenic##
-track ENCSR749ABB
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/a8c7a5a8-47b5-4654-bfe5-200a527762c7/ENCFF314OSH.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K36me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR749ABB TARG=OC view=fFCOC
-
-
-track ENCSR749ABB
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/800b7794-96c3-4a04-b55e-0c00992f44ed/ENCFF474CLQ.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K36me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR749ABB TARG=OC view=fFCOC
-
-
-track ENCSR749ABB
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/237fbd5a-3cd2-4557-b0c4-9dd44f1eddf1/ENCFF119VPS.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K36me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR749ABB TARG=OC view=fFCOC
-
-
-track ENCSR749ABB
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/c7fbfd2f-c09d-4e6a-b460-222fb9d723ff/ENCFF232SNC.bigWig
-longLabel ZZ
-shortLabel (37 years)_Histone ChIP-seq_H3K36me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR749ABB TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR488YXS/##Histone ChIP-seq_H3K36me3##transverse colon##(51 year)##released##isogenic##
-track ENCSR488YXS
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/4d0c901c-8949-436a-b463-98a775dfd949/ENCFF022IAE.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K36me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR488YXS TARG=OC view=fFCOC
-
-
-track ENCSR488YXS
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/664bfe12-ecbf-4f28-8116-f184f1e34c33/ENCFF091EDM.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K36me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR488YXS TARG=OC view=fFCOC
-
-
-track ENCSR488YXS
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/8dde6ba3-795f-4073-ba90-a1c873ad49d7/ENCFF244JOW.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K36me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR488YXS TARG=OC view=fFCOC
-
-
-track ENCSR488YXS
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/456621c3-5c19-48e7-9f1e-b0fadec45c19/ENCFF663EZI.bigWig
-longLabel ZZ
-shortLabel (51 year)_Histone ChIP-seq_H3K36me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR488YXS TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR047JMV/##Histone ChIP-seq_H3K36me3##transverse colon##(53 years)##released##isogenic##
-track ENCSR047JMV
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/6a693a6c-4daa-4b6b-9c9b-6d44083b1226/ENCFF787JIV.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K36me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR047JMV TARG=OC view=fFCOC
-
-
-track ENCSR047JMV
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/4e337762-4785-42b2-87eb-463b58c56828/ENCFF134KQD.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K36me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR047JMV TARG=OC view=fFCOC
-
-
-track ENCSR047JMV
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/3f49b812-8514-44e7-90cd-763fb3adfa33/ENCFF503QWX.bigWig
-longLabel ZZ
-shortLabel (53 years)_Histone ChIP-seq_H3K36me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR047JMV TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR101EEJ/##Histone ChIP-seq_H3K36me3##transverse colon##(54 years)##released##isogenic##
-track ENCSR101EEJ
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/07cc4fcd-e002-46db-8a7c-2648173e1c54/ENCFF890ROP.bigWig
-longLabel ZZ
-shortLabel (54 years)_Histone ChIP-seq_H3K36me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR101EEJ TARG=OC view=fFCOC
-
-
-track ENCSR101EEJ
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/4ac830d0-6e23-4439-b5ef-dc9be5871e31/ENCFF463KRU.bigWig
-longLabel ZZ
-shortLabel (54 years)_Histone ChIP-seq_H3K36me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR101EEJ TARG=OC view=fFCOC
-
-
-track ENCSR101EEJ
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/f6b1b2c9-6aa0-4c7a-8c45-95fbcc173092/ENCFF797RYG.bigWig
-longLabel ZZ
-shortLabel (54 years)_Histone ChIP-seq_H3K36me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR101EEJ TARG=OC view=fFCOC
-
-
-track ENCSR101EEJ
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/90572e60-3371-42ab-a04b-502678b3a73d/ENCFF494KSM.bigWig
-longLabel ZZ
-shortLabel (54 years)_Histone ChIP-seq_H3K36me3_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR101EEJ TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR295BDK/##Hi-C##transverse colon##(37 years)##released##unreplicated##
-#/experiments/ENCSR424WMG/##Hi-C##transverse colon##(51 year)##released##unreplicated##
-#/experiments/ENCSR504OTV/##Hi-C##transverse colon##(53 years)##released##unreplicated##
-#/experiments/ENCSR079IDJ/##Hi-C##transverse colon##(54 years)##released##unreplicated##
-#/experiments/ENCSR688YRV/##RAMPAGE##transverse colon##(37 years)##released##unreplicated##
-track ENCSR688YRV
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/11/01/c7bade58-bd71-40ec-9957-80fb56d726db/ENCFF696JPZ.bigWig
-longLabel ZZ
-shortLabel (37 years)_RAMPAGE_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR688YRV TARG=OC view=fFCOC
-
-
-track ENCSR688YRV
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/11/01/ad6992e2-6012-40c6-8d45-75ff3408b50d/ENCFF778KDC.bigWig
-longLabel ZZ
-shortLabel (37 years)_RAMPAGE_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR688YRV TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR297QGC/##RAMPAGE##transverse colon##(51 year)##released##unreplicated##
-track ENCSR297QGC
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/11/01/ce8b8097-5c76-4234-ab35-30d60b6e38ef/ENCFF714RXF.bigWig
-longLabel ZZ
-shortLabel (51 year)_RAMPAGE_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR297QGC TARG=OC view=fFCOC
-
-
-track ENCSR297QGC
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/11/01/c495e06e-a29a-4832-9746-95876b233276/ENCFF878ZLW.bigWig
-longLabel ZZ
-shortLabel (51 year)_RAMPAGE_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR297QGC TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR855GRG/##RAMPAGE##transverse colon##(53 years)##released##unreplicated##
-track ENCSR855GRG
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/6484d008-5d9c-4fef-88fc-d606ade57a24/ENCFF914HNK.bigWig
-longLabel ZZ
-shortLabel (53 years)_RAMPAGE_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR855GRG TARG=OC view=fFCOC
-
-
-track ENCSR855GRG
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/7ae5aa4f-40e7-406e-814d-c55fed1609d1/ENCFF057UXI.bigWig
-longLabel ZZ
-shortLabel (53 years)_RAMPAGE_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR855GRG TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR649WDK/##RAMPAGE##transverse colon##(54 years)##released##unreplicated##
-track ENCSR649WDK
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/deda4e40-eac7-46f8-868d-ad43ece21507/ENCFF404BYY.bigWig
-longLabel ZZ
-shortLabel (54 years)_RAMPAGE_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR649WDK TARG=OC view=fFCOC
-
-
-track ENCSR649WDK
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/338aef6d-3cab-4de7-a4bd-31e030458646/ENCFF578PAO.bigWig
-longLabel ZZ
-shortLabel (54 years)_RAMPAGE_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR649WDK TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR102CSD/##TF ChIP-seq_CTCF##transverse colon##(37 years)##released##unreplicated##
-track ENCSR102CSD
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/214e7537-b64d-4b83-aaf3-d0b0170930e2/ENCFF653KIU.bigWig
-longLabel ZZ
-shortLabel (37 years)_TF ChIP-seq_CTCF_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR102CSD TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR608WPS/##TF ChIP-seq_CTCF##transverse colon##(37 years)##released##isogenic##
-track ENCSR608WPS
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/7399e165-e813-48b1-88fd-69524f37c359/ENCFF418KYU.bigWig
-longLabel ZZ
-shortLabel (37 years)_TF ChIP-seq_CTCF_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR608WPS TARG=OC view=fFCOC
-
-
-track ENCSR608WPS
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/6eb6a880-2225-4e4b-ba81-8ed64d2a86c9/ENCFF242VQV.bigWig
-longLabel ZZ
-shortLabel (37 years)_TF ChIP-seq_CTCF_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR608WPS TARG=OC view=fFCOC
-
-
-track ENCSR608WPS
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/219f0c98-b01b-49b0-865d-fa9c94fbb3fe/ENCFF879SPR.bigWig
-longLabel ZZ
-shortLabel (37 years)_TF ChIP-seq_CTCF_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR608WPS TARG=OC view=fFCOC
-
-
-track ENCSR608WPS
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/26/b984ad2a-0a3a-49c2-8a42-eb531a3ccbff/ENCFF117OCW.bigWig
-longLabel ZZ
-shortLabel (37 years)_TF ChIP-seq_CTCF_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR608WPS TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR449SEF/##TF ChIP-seq_CTCF##transverse colon##(51 year)##released##isogenic##
-track ENCSR449SEF
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/5fa3e734-b920-40ce-8338-3fe047855ca3/ENCFF709RNW.bigWig
-longLabel ZZ
-shortLabel (51 year)_TF ChIP-seq_CTCF_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR449SEF TARG=OC view=fFCOC
-
-
-track ENCSR449SEF
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/d375f908-8b21-4e90-9687-1f5a139253a6/ENCFF664AML.bigWig
-longLabel ZZ
-shortLabel (51 year)_TF ChIP-seq_CTCF_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR449SEF TARG=OC view=fFCOC
-
-
-track ENCSR449SEF
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/c9d55835-6f09-4c00-9d10-07831686f372/ENCFF439EFL.bigWig
-longLabel ZZ
-shortLabel (51 year)_TF ChIP-seq_CTCF_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR449SEF TARG=OC view=fFCOC
-
-
-track ENCSR449SEF
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/ff8b1b52-b168-45d3-9314-f32593ab95ed/ENCFF509URL.bigWig
-longLabel ZZ
-shortLabel (51 year)_TF ChIP-seq_CTCF_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR449SEF TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR558HTE/##TF ChIP-seq_CTCF##transverse colon##(51 year)##released##unreplicated##
-track ENCSR558HTE
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/d3843743-1a8f-433f-b74e-64d71d9e8f41/ENCFF748PHO.bigWig
-longLabel ZZ
-shortLabel (51 year)_TF ChIP-seq_CTCF_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR558HTE TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR236YGF/##TF ChIP-seq_CTCF##transverse colon##(53 years)##released##isogenic##
-track ENCSR236YGF
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/d01d8c1e-54f9-45a4-b2ab-a66e679bcf2c/ENCFF564FSI.bigWig
-longLabel ZZ
-shortLabel (53 years)_TF ChIP-seq_CTCF_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR236YGF TARG=OC view=fFCOC
-
-
-track ENCSR236YGF
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/c9c26c1d-630b-4974-a3ca-62737d08ff41/ENCFF715LIY.bigWig
-longLabel ZZ
-shortLabel (53 years)_TF ChIP-seq_CTCF_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR236YGF TARG=OC view=fFCOC
-
-
-track ENCSR236YGF
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/0b5f9abe-e465-4c66-b596-72e044a289c4/ENCFF790FAF.bigWig
-longLabel ZZ
-shortLabel (53 years)_TF ChIP-seq_CTCF_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR236YGF TARG=OC view=fFCOC
-
-
-track ENCSR236YGF
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/26/cf83b8ea-f0f1-4b3a-bca1-8ea7b1d15538/ENCFF975VDL.bigWig
-longLabel ZZ
-shortLabel (53 years)_TF ChIP-seq_CTCF_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR236YGF TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR769WKR/##TF ChIP-seq_CTCF##transverse colon##(53 years)##released##unreplicated##
-track ENCSR769WKR
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/808f575e-0cd7-4fce-be7a-6a1d72acdedd/ENCFF458ZYU.bigWig
-longLabel ZZ
-shortLabel (53 years)_TF ChIP-seq_CTCF_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR769WKR TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR833FWC/##TF ChIP-seq_CTCF##transverse colon##(54 years)##released##unreplicated##
-track ENCSR833FWC
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/12395ddb-a6f3-4005-b331-65e3e017561b/ENCFF007DYR.bigWig
-longLabel ZZ
-shortLabel (54 years)_TF ChIP-seq_CTCF_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR833FWC TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR907BES/##TF ChIP-seq_CTCF##transverse colon##(54 years)##released##isogenic##
-track ENCSR907BES
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/26/366fd637-2503-4290-98d9-cf4865af7fea/ENCFF991QOA.bigWig
-longLabel ZZ
-shortLabel (54 years)_TF ChIP-seq_CTCF_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR907BES TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR429JTR/##TF ChIP-seq_EP300##transverse colon##(37 years)##released##unreplicated##
-track ENCSR429JTR
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/06/15/d5bb0bff-1198-4fc1-8a40-14ed59d71ec9/ENCFF305XIN.bigWig
-longLabel ZZ
-shortLabel (37 years)_TF ChIP-seq_EP300_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR429JTR TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR667UWT/##TF ChIP-seq_POLR2A##transverse colon##(37 years)##released##unreplicated##
-track ENCSR667UWT
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/4ae5b8f5-de1a-4f54-9e71-33c925a4ac0d/ENCFF502AUB.bigWig
-longLabel ZZ
-shortLabel (37 years)_TF ChIP-seq_POLR2A_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR667UWT TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR974HQI/##TF ChIP-seq_POLR2A##transverse colon##(51 year)##released##unreplicated##
-track ENCSR974HQI
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/25110d1e-7ef9-429f-9dd7-7bbb42d1a485/ENCFF946YRI.bigWig
-longLabel ZZ
-shortLabel (51 year)_TF ChIP-seq_POLR2A_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR974HQI TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR107EUS/##TF ChIP-seq_POLR2A##transverse colon##(53 years)##released##unreplicated##
-track ENCSR107EUS
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/07/20/ba0b55a3-3b1e-41b8-9467-265ecabc7cc1/ENCFF795RWB.bigWig
-longLabel ZZ
-shortLabel (53 years)_TF ChIP-seq_POLR2A_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR107EUS TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR132XRW/##TF ChIP-seq_POLR2A##transverse colon##(54 years)##released##unreplicated##
-track ENCSR132XRW
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/605e6222-42f9-4055-be19-ae8d5e92fc9b/ENCFF757YCH.bigWig
-longLabel ZZ
-shortLabel (54 years)_TF ChIP-seq_POLR2A_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR132XRW TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR930CPA/##TF ChIP-seq_POLR2AphosphoS5##transverse colon##(37 years)##released##unreplicated##
-track ENCSR930CPA
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/06/17/e390deb7-ea56-4bb6-8ef4-cfd35d793ca9/ENCFF640OPA.bigWig
-longLabel ZZ
-shortLabel (37 years)_TF ChIP-seq_POLR2AphosphoS5_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR930CPA TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR170NMC/##TF ChIP-seq_POLR2AphosphoS5##transverse colon##(51 year)##released##unreplicated##
-track ENCSR170NMC
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/06/17/c80cbd3b-a04f-48bf-a286-f5133569f81e/ENCFF043ZLX.bigWig
-longLabel ZZ
-shortLabel (51 year)_TF ChIP-seq_POLR2AphosphoS5_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR170NMC TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR714EQS/##TF ChIP-seq_POLR2AphosphoS5##transverse colon##(53 years)##released##unreplicated##
-track ENCSR714EQS
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2017/06/17/93685422-b2b9-4973-b1ed-a957788e5024/ENCFF594BQL.bigWig
-longLabel ZZ
-shortLabel (53 years)_TF ChIP-seq_POLR2AphosphoS5_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR714EQS TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR668FTZ/##WGBS##transverse colon##(53 years)##released##unreplicated##
-#/experiments/ENCSR156JXJ/##WGBS##transverse colon##(54 years)##released##unreplicated##
-#/experiments/ENCSR246MMZ/##genotyping HTS##transverse colon##(37 years)##released##unreplicated##
-#/experiments/ENCSR410ALS/##genotyping HTS##transverse colon##(37 years)##released##unreplicated##
-#/experiments/ENCSR420NDH/##genotyping HTS##transverse colon##(51 year)##released##unreplicated##
-#/experiments/ENCSR456SNK/##genotyping HTS##transverse colon##(51 year)##released##unreplicated##
-#/experiments/ENCSR664TEU/##genotyping HTS##transverse colon##(53 years)##in progress##unreplicated##
-#/experiments/ENCSR961ZRM/##genotyping HTS##transverse colon##(53 years)##released##unreplicated##
-#/experiments/ENCSR997HAI/##genotyping HTS##transverse colon##(53 years)##released##unreplicated##
-#/experiments/ENCSR549QWF/##genotyping HTS##transverse colon##(54 years)##released##unreplicated##
-#/experiments/ENCSR613XEH/##genotyping HTS##transverse colon##(54 years)##released##unreplicated##
-#/experiments/ENCSR723PGJ/##genotyping HTS##transverse colon##(54 years)##in progress##unreplicated##
-#/experiments/ENCSR411PDO/##genotyping array##transverse colon##(37 years)##released##unreplicated##
-#/experiments/ENCSR449HXA/##genotyping array##transverse colon##(51 year)##released##unreplicated##
-#/experiments/ENCSR366KJM/##genotyping array##transverse colon##(53 years)##released##unreplicated##
-#/experiments/ENCSR453DBS/##genotyping array##transverse colon##(54 years)##released##unreplicated##
-#/experiments/ENCSR525WFB/##small RNA-seq##transverse colon##(37 years)##released##unreplicated##
-track ENCSR525WFB
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/4d0094ff-1610-4645-9440-08eb71adc84a/ENCFF814XUL.bigWig
-longLabel ZZ
-shortLabel (37 years)_small RNA-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR525WFB TARG=OC view=fFCOC
-
-
-track ENCSR525WFB
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/6eab2e28-ea13-471b-a75f-fdb102119a56/ENCFF987JWN.bigWig
-longLabel ZZ
-shortLabel (37 years)_small RNA-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR525WFB TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR183YQY/##small RNA-seq##transverse colon##(51 year)##released##unreplicated##
-track ENCSR183YQY
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/e951e14f-8a55-40c9-a8b7-20c98417cd06/ENCFF163YXB.bigWig
-longLabel ZZ
-shortLabel (51 year)_small RNA-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR183YQY TARG=OC view=fFCOC
-
-
-track ENCSR183YQY
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/33b04732-844b-48b4-af11-9bd67751d25e/ENCFF245TUH.bigWig
-longLabel ZZ
-shortLabel (51 year)_small RNA-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR183YQY TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR316SXP/##small RNA-seq##transverse colon##(53 years)##released##unreplicated##
-track ENCSR316SXP
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/6f62bc79-c967-456f-a521-5b88f1dae6cc/ENCFF172ABJ.bigWig
-longLabel ZZ
-shortLabel (53 years)_small RNA-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR316SXP TARG=OC view=fFCOC
-
-
-track ENCSR316SXP
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/cefc438a-5f42-4991-bcb6-e2a26a335f51/ENCFF023YNA.bigWig
-longLabel ZZ
-shortLabel (53 years)_small RNA-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR316SXP TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR168XPO/##small RNA-seq##transverse colon##(54 years)##released##unreplicated##
-track ENCSR168XPO
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/ef171c88-8601-43ad-b089-52eeab751807/ENCFF775WTW.bigWig
-longLabel ZZ
-shortLabel (54 years)_small RNA-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR168XPO TARG=OC view=fFCOC
-
-
-track ENCSR168XPO
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/67fd29ce-5dc8-4059-96bc-679435149885/ENCFF523YMH.bigWig
-longLabel ZZ
-shortLabel (54 years)_small RNA-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR168XPO TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR506YMX/##snATAC-seq##transverse colon##(51 year)##in progress##unreplicated##
-#/experiments/ENCSR007QIO/##snATAC-seq##transverse colon##(53 years)##in progress##unreplicated##
-#/experiments/ENCSR349XKD/##snATAC-seq##transverse colon##(54 years)##in progress##unreplicated##
-#/experiments/ENCSR653ZJF/##total RNA-seq##transverse colon##(37 years)##released##unreplicated##
-track ENCSR653ZJF
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/ea70dbf9-03dc-4007-afa5-3e05295510d0/ENCFF528HFR.bigWig
-longLabel ZZ
-shortLabel (37 years)_total RNA-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR653ZJF TARG=OC view=fFCOC
-
-
-track ENCSR653ZJF
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/d224be81-8453-4f2e-9583-e348f53c6b73/ENCFF240QEU.bigWig
-longLabel ZZ
-shortLabel (37 years)_total RNA-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR653ZJF TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR403SZN/##total RNA-seq##transverse colon##(51 year)##released##unreplicated##
-track ENCSR403SZN
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/8ebfaa10-ee35-4f0e-8e47-5a54553b2884/ENCFF850RSS.bigWig
-longLabel ZZ
-shortLabel (51 year)_total RNA-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR403SZN TARG=OC view=fFCOC
-
-
-track ENCSR403SZN
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/3a258984-17b8-4d4f-80e2-7bb6e27765e4/ENCFF419WFX.bigWig
-longLabel ZZ
-shortLabel (51 year)_total RNA-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR403SZN TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR800WIY/##total RNA-seq##transverse colon##(53 years)##released##unreplicated##
-track ENCSR800WIY
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/02/17/653daa50-0efb-4e78-acbb-251a74bee92b/ENCFF351UZL.bigWig
-longLabel ZZ
-shortLabel (53 years)_total RNA-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR800WIY TARG=OC view=fFCOC
-
-
-track ENCSR800WIY
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/02/17/1d607615-3674-49cf-8b0a-2b3623786bbd/ENCFF656MVW.bigWig
-longLabel ZZ
-shortLabel (53 years)_total RNA-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR800WIY TARG=OC view=fFCOC
-
-
-#/experiments/ENCSR630VJN/##total RNA-seq##transverse colon##(54 years)##released##unreplicated##
-track ENCSR630VJN
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/02/17/06d01284-9324-47f2-9963-70be9ff366bb/ENCFF428MEL.bigWig
-longLabel ZZ
-shortLabel (54 years)_total RNA-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR630VJN TARG=OC view=fFCOC
-
-
-track ENCSR630VJN
-parent hist_fFCOC_view on
-bigDataUrl https://encode-public.s3.amazonaws.com/2016/02/17/ee77d384-574d-4cc9-b875-c033af8aa5d4/ENCFF715DRI.bigWig
-longLabel ZZ
-shortLabel (54 years)_total RNA-seq_transverse colon
-type bigWig
-color 214,0,0
-altColor 214,79,79
-subGroups BS=transverse colon EXP=ENCSR630VJN TARG=OC view=fFCOC
+        #/experiments/ENCSR504WYA/##DNase-seq##transverse colon##(53 years)##released##unreplicated##
+        track ENCSR504WYA
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/033fac20-6b2a-4222-8d59-22a230a62824/ENCFF413EKZ.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_DNase-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR504WYA TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR763AKE/##DNase-seq##transverse colon##(53 years)##in progress##unreplicated##
+        track ENCSR763AKE
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-private.s3.amazonaws.com/2019/09/11/dbf1df0f-ddc0-4516-88f6-da95b4276c79/ENCFF458EJZ.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_DNase-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR763AKE TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR340MRJ/##DNase-seq##transverse colon##(54 years)##in progress##unreplicated##
+        #/experiments/ENCSR790FIS/##DNase-seq##transverse colon##(54 years)##released##unreplicated##
+        track ENCSR790FIS
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/26/1b979699-5a21-430e-b347-8b2162f57cb8/ENCFF098CAJ.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_DNase-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR790FIS TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR516QFO/##Histone ChIP-seq_H3K4me1##transverse colon##(37 years)##released##isogenic##
+        track ENCSR516QFO
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/02/11/c3e1efa0-91ca-45a0-aa0f-ef40657353dc/ENCFF418CVS.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K4me1_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR516QFO TARG=OC view=fFCOC
+
+
+        track ENCSR516QFO
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/b7d4368d-3bc1-4267-b481-717abae5887c/ENCFF761ZXZ.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K4me1_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR516QFO TARG=OC view=fFCOC
+
+
+        track ENCSR516QFO
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/97deacd5-ea44-456e-9c20-51bc7dde9c52/ENCFF575DJJ.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K4me1_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR516QFO TARG=OC view=fFCOC
+
+
+        track ENCSR516QFO
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/9dd21758-89b1-4b2d-8bf0-a5aa4b68cbb4/ENCFF927ZMT.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K4me1_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR516QFO TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR500QVK/##Histone ChIP-seq_H3K4me1##transverse colon##(51 year)##released##isogenic##
+        track ENCSR500QVK
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/c8906283-c96d-4ade-afb7-47be0b947f7e/ENCFF067YCI.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K4me1_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR500QVK TARG=OC view=fFCOC
+
+
+        track ENCSR500QVK
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/016673fd-5e31-40bd-a7e8-8d64699edc48/ENCFF935EVL.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K4me1_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR500QVK TARG=OC view=fFCOC
+
+
+        track ENCSR500QVK
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/8cefe3ff-0867-4a50-b78f-b11330234256/ENCFF108SCL.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K4me1_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR500QVK TARG=OC view=fFCOC
+
+
+        track ENCSR500QVK
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/98b42e88-1a41-439e-9911-e4b401db17a1/ENCFF531LYY.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K4me1_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR500QVK TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR791LZY/##Histone ChIP-seq_H3K4me1##transverse colon##(53 years)##released##isogenic##
+        track ENCSR791LZY
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/265b4bb9-b334-4488-9a8d-989646fc4043/ENCFF077HMG.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K4me1_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR791LZY TARG=OC view=fFCOC
+
+
+        track ENCSR791LZY
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/fda2121a-8ca2-4bca-9c7f-d06f2438595c/ENCFF148SIT.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K4me1_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR791LZY TARG=OC view=fFCOC
+
+
+        track ENCSR791LZY
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/c31f222b-8934-4b69-adc3-19cb47c3e53b/ENCFF950HPZ.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K4me1_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR791LZY TARG=OC view=fFCOC
+
+
+        track ENCSR791LZY
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/976ec5ff-33d8-4145-849c-f334a238e503/ENCFF710QVK.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K4me1_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR791LZY TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR482OKN/##Histone ChIP-seq_H3K4me1##transverse colon##(54 years)##submitted##isogenic##
+        #/experiments/ENCSR813ZEY/##Histone ChIP-seq_H3K4me3##transverse colon##(37 years)##released##isogenic##
+        track ENCSR813ZEY
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/c74b3fed-449d-487c-9f44-f25bb3a778b1/ENCFF287OSD.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K4me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR813ZEY TARG=OC view=fFCOC
+
+
+        track ENCSR813ZEY
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/6786b047-590d-4cc6-af6f-32ec4b8ac4ee/ENCFF784LZB.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K4me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR813ZEY TARG=OC view=fFCOC
+
+
+        track ENCSR813ZEY
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/77fc2cec-0677-41b5-b3ba-61e5e25e1573/ENCFF627KYY.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K4me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR813ZEY TARG=OC view=fFCOC
+
+
+        track ENCSR813ZEY
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/d8288adc-849e-4ba6-b31c-e9918ef536a3/ENCFF412IPU.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K4me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR813ZEY TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR315EZG/##Histone ChIP-seq_H3K4me3##transverse colon##(51 year)##released##isogenic##
+        track ENCSR315EZG
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/76338daf-d3af-40d2-bbe9-91eb72c2e7bc/ENCFF028FBE.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K4me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR315EZG TARG=OC view=fFCOC
+
+
+        track ENCSR315EZG
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/144014a8-a2a9-4421-b68e-391c0d8cbdf5/ENCFF767SRO.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K4me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR315EZG TARG=OC view=fFCOC
+
+
+        track ENCSR315EZG
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/f92b00a1-f0cc-4847-b429-6681b9addb47/ENCFF284VAH.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K4me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR315EZG TARG=OC view=fFCOC
+
+
+        track ENCSR315EZG
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/8b4addbb-76e0-4c75-83b0-0164e2b58038/ENCFF382GDY.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K4me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR315EZG TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR933BVL/##Histone ChIP-seq_H3K4me3##transverse colon##(53 years)##released##isogenic##
+        track ENCSR933BVL
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2018/02/27/ebd16e13-cd84-4005-b2d0-bdbc759ea457/ENCFF254GWA.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K4me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR933BVL TARG=OC view=fFCOC
+
+
+        track ENCSR933BVL
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/427b6151-7897-43a9-98df-7b1c486787a1/ENCFF067QBT.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K4me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR933BVL TARG=OC view=fFCOC
+
+
+        track ENCSR933BVL
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/5461b057-96ab-4e09-b509-e33bf38728ae/ENCFF494HTI.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K4me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR933BVL TARG=OC view=fFCOC
+
+
+        track ENCSR933BVL
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/2f2b8754-f76f-4fd5-8b90-5b536a9a1fc5/ENCFF420GBI.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K4me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR933BVL TARG=OC view=fFCOC
+
+
+        track ENCSR933BVL
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/66b90a35-f3d3-485f-9642-a171bfd5c144/ENCFF986QOQ.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K4me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR933BVL TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR557OWY/##Histone ChIP-seq_H3K4me3##transverse colon##(54 years)##released##unreplicated##
+        track ENCSR557OWY
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/09/955df7a7-b0b8-4e69-a706-2469ceddf1b7/ENCFF424LFW.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_Histone ChIP-seq_H3K4me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR557OWY TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR083DXD/##Histone ChIP-seq_H3K9me3##transverse colon##(37 years)##released##isogenic##
+        track ENCSR083DXD
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/f0512e47-50dd-4757-9bbe-e5500f66ee95/ENCFF598TJM.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K9me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR083DXD TARG=OC view=fFCOC
+
+
+        track ENCSR083DXD
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/89738fac-76b8-4d5c-af1e-243cc2efa512/ENCFF518FSV.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K9me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR083DXD TARG=OC view=fFCOC
+
+
+        track ENCSR083DXD
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/26e082ed-f3e1-4969-9a97-2a343b95ce02/ENCFF771ZMD.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K9me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR083DXD TARG=OC view=fFCOC
+
+
+        track ENCSR083DXD
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/47c9885e-7a4e-43fc-94fe-bfc1eec14ef9/ENCFF057OBD.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K9me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR083DXD TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR235REN/##Histone ChIP-seq_H3K9me3##transverse colon##(51 year)##released##isogenic##
+        track ENCSR235REN
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/09481897-2f08-4536-bcf8-434f90d0b4e7/ENCFF441LVS.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K9me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR235REN TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR025MHG/##Histone ChIP-seq_H3K9me3##transverse colon##(53 years)##submitted##isogenic##
+        #/experiments/ENCSR413CHO/##Histone ChIP-seq_H3K9me3##transverse colon##(54 years)##released##isogenic##
+        track ENCSR413CHO
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/12/9547164f-6a17-467e-889d-adfcafd724b1/ENCFF010BYI.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_Histone ChIP-seq_H3K9me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR413CHO TARG=OC view=fFCOC
+
+
+        track ENCSR413CHO
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/12/afa87dd3-2ba1-4ac6-9835-a255e82182f9/ENCFF016EFS.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_Histone ChIP-seq_H3K9me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR413CHO TARG=OC view=fFCOC
+
+
+        track ENCSR413CHO
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/12/e5ccef79-d35b-436a-82a4-643affc82eae/ENCFF045ENS.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_Histone ChIP-seq_H3K9me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR413CHO TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR640XRV/##Histone ChIP-seq_H3K27ac##transverse colon##(37 years)##released##isogenic##
+        track ENCSR640XRV
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/275d1ace-4d52-4bb8-93a4-56d65c2819a5/ENCFF574WKW.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K27ac_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR640XRV TARG=OC view=fFCOC
+
+
+        track ENCSR640XRV
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/c69bda11-ed07-41d4-9847-4b2aa664b7e9/ENCFF548TWX.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K27ac_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR640XRV TARG=OC view=fFCOC
+
+
+        track ENCSR640XRV
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/5aa1a0dd-e0c0-42ed-80c5-f2e54f853371/ENCFF851ZCU.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K27ac_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR640XRV TARG=OC view=fFCOC
+
+
+        track ENCSR640XRV
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/ae7b4998-1bfc-4f88-bf46-c92b411fcfd5/ENCFF253WKZ.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K27ac_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR640XRV TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR792VLP/##Histone ChIP-seq_H3K27ac##transverse colon##(51 year)##released##isogenic##
+        track ENCSR792VLP
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/dc5651f3-5517-4b26-9bd3-09082f955f75/ENCFF283VGV.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K27ac_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR792VLP TARG=OC view=fFCOC
+
+
+        track ENCSR792VLP
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/603a6527-857e-46c5-b9c1-d42e1b120f71/ENCFF144YOU.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K27ac_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR792VLP TARG=OC view=fFCOC
+
+
+        track ENCSR792VLP
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/1c041138-f3f8-4d82-9603-a17a71811646/ENCFF302BGP.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K27ac_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR792VLP TARG=OC view=fFCOC
+
+
+        track ENCSR792VLP
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/02a5e77e-db6e-47fb-a805-91db3c633578/ENCFF873MWG.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K27ac_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR792VLP TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR208QRN/##Histone ChIP-seq_H3K27ac##transverse colon##(53 years)##released##isogenic##
+        track ENCSR208QRN
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/6ffae5c6-3146-4f05-972d-4c33810a6698/ENCFF083BTK.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K27ac_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR208QRN TARG=OC view=fFCOC
+
+
+        track ENCSR208QRN
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/b8ca2968-902d-470d-810b-aa63d40a3d6c/ENCFF354KXB.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K27ac_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR208QRN TARG=OC view=fFCOC
+
+
+        track ENCSR208QRN
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/b8a701d7-c9cf-4d62-adc0-c780d08a3091/ENCFF780SLS.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K27ac_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR208QRN TARG=OC view=fFCOC
+
+
+        track ENCSR208QRN
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/3dde96b4-4373-49db-8a79-31d7028faecd/ENCFF103SZL.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K27ac_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR208QRN TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR069EGE/##Histone ChIP-seq_H3K27ac##transverse colon##(54 years)##released##isogenic##
+        track ENCSR069EGE
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/26/4b42c972-5e39-41f9-be5d-f85abb3f1689/ENCFF604LTF.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_Histone ChIP-seq_H3K27ac_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR069EGE TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR643KID/##Histone ChIP-seq_H3K27me3##transverse colon##(37 years)##released##isogenic##
+        track ENCSR643KID
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/3e2613e4-02bc-43c1-9b25-e901ccac0f56/ENCFF698YZQ.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K27me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR643KID TARG=OC view=fFCOC
+
+
+        track ENCSR643KID
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/133cfc37-1881-4599-8f1a-1970ff95ef61/ENCFF518MBZ.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K27me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR643KID TARG=OC view=fFCOC
+
+
+        track ENCSR643KID
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/29909de5-b9c9-449f-a927-614e72aeb9cd/ENCFF135KOV.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K27me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR643KID TARG=OC view=fFCOC
+
+
+        track ENCSR643KID
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/1f19ccad-aac0-4ddc-b71e-d606d66a0b40/ENCFF922CAD.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K27me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR643KID TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR604QMH/##Histone ChIP-seq_H3K27me3##transverse colon##(51 year)##released##isogenic##
+        track ENCSR604QMH
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/9a1b99eb-0c43-4248-a66f-043846dedea9/ENCFF338OVD.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K27me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR604QMH TARG=OC view=fFCOC
+
+
+        track ENCSR604QMH
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/e01d85c0-6767-474a-839f-cdf6214435ac/ENCFF386HIU.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K27me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR604QMH TARG=OC view=fFCOC
+
+
+        track ENCSR604QMH
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/49b812c4-7720-4557-9524-7188b8f276b6/ENCFF624CBI.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K27me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR604QMH TARG=OC view=fFCOC
+
+
+        track ENCSR604QMH
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/eb8f577f-1489-4ec2-92bb-e578ff7c9b03/ENCFF708HGN.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K27me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR604QMH TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR840VWD/##Histone ChIP-seq_H3K27me3##transverse colon##(53 years)##released##isogenic##
+        track ENCSR840VWD
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/8297ab20-1f16-4aa7-8382-b0d35cc299f6/ENCFF254JVO.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K27me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR840VWD TARG=OC view=fFCOC
+
+
+        track ENCSR840VWD
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/83ee7e9c-26b1-4799-bb15-caec61768f29/ENCFF395NWE.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K27me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR840VWD TARG=OC view=fFCOC
+
+
+        track ENCSR840VWD
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/cd683ec0-e43a-48fe-9c7c-3a4b394cc71b/ENCFF579VDS.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K27me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR840VWD TARG=OC view=fFCOC
+
+
+        track ENCSR840VWD
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/6698cde4-07de-4088-8e92-7a6ba7219a13/ENCFF325ZTU.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K27me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR840VWD TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR024SHT/##Histone ChIP-seq_H3K27me3##transverse colon##(54 years)##submitted##isogenic##
+        #/experiments/ENCSR749ABB/##Histone ChIP-seq_H3K36me3##transverse colon##(37 years)##released##isogenic##
+        track ENCSR749ABB
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/a8c7a5a8-47b5-4654-bfe5-200a527762c7/ENCFF314OSH.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K36me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR749ABB TARG=OC view=fFCOC
+
+
+        track ENCSR749ABB
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/800b7794-96c3-4a04-b55e-0c00992f44ed/ENCFF474CLQ.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K36me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR749ABB TARG=OC view=fFCOC
+
+
+        track ENCSR749ABB
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/237fbd5a-3cd2-4557-b0c4-9dd44f1eddf1/ENCFF119VPS.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K36me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR749ABB TARG=OC view=fFCOC
+
+
+        track ENCSR749ABB
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/c7fbfd2f-c09d-4e6a-b460-222fb9d723ff/ENCFF232SNC.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_Histone ChIP-seq_H3K36me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR749ABB TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR488YXS/##Histone ChIP-seq_H3K36me3##transverse colon##(51 year)##released##isogenic##
+        track ENCSR488YXS
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/4d0c901c-8949-436a-b463-98a775dfd949/ENCFF022IAE.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K36me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR488YXS TARG=OC view=fFCOC
+
+
+        track ENCSR488YXS
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/664bfe12-ecbf-4f28-8116-f184f1e34c33/ENCFF091EDM.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K36me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR488YXS TARG=OC view=fFCOC
+
+
+        track ENCSR488YXS
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/8dde6ba3-795f-4073-ba90-a1c873ad49d7/ENCFF244JOW.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K36me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR488YXS TARG=OC view=fFCOC
+
+
+        track ENCSR488YXS
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/456621c3-5c19-48e7-9f1e-b0fadec45c19/ENCFF663EZI.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_Histone ChIP-seq_H3K36me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR488YXS TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR047JMV/##Histone ChIP-seq_H3K36me3##transverse colon##(53 years)##released##isogenic##
+        track ENCSR047JMV
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/6a693a6c-4daa-4b6b-9c9b-6d44083b1226/ENCFF787JIV.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K36me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR047JMV TARG=OC view=fFCOC
+
+
+        track ENCSR047JMV
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/4e337762-4785-42b2-87eb-463b58c56828/ENCFF134KQD.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K36me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR047JMV TARG=OC view=fFCOC
+
+
+        track ENCSR047JMV
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/3f49b812-8514-44e7-90cd-763fb3adfa33/ENCFF503QWX.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_Histone ChIP-seq_H3K36me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR047JMV TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR101EEJ/##Histone ChIP-seq_H3K36me3##transverse colon##(54 years)##released##isogenic##
+        track ENCSR101EEJ
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/07cc4fcd-e002-46db-8a7c-2648173e1c54/ENCFF890ROP.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_Histone ChIP-seq_H3K36me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR101EEJ TARG=OC view=fFCOC
+
+
+        track ENCSR101EEJ
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/4ac830d0-6e23-4439-b5ef-dc9be5871e31/ENCFF463KRU.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_Histone ChIP-seq_H3K36me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR101EEJ TARG=OC view=fFCOC
+
+
+        track ENCSR101EEJ
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/f6b1b2c9-6aa0-4c7a-8c45-95fbcc173092/ENCFF797RYG.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_Histone ChIP-seq_H3K36me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR101EEJ TARG=OC view=fFCOC
+
+
+        track ENCSR101EEJ
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/25/90572e60-3371-42ab-a04b-502678b3a73d/ENCFF494KSM.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_Histone ChIP-seq_H3K36me3_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR101EEJ TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR295BDK/##Hi-C##transverse colon##(37 years)##released##unreplicated##
+        #/experiments/ENCSR424WMG/##Hi-C##transverse colon##(51 year)##released##unreplicated##
+        #/experiments/ENCSR504OTV/##Hi-C##transverse colon##(53 years)##released##unreplicated##
+        #/experiments/ENCSR079IDJ/##Hi-C##transverse colon##(54 years)##released##unreplicated##
+        #/experiments/ENCSR688YRV/##RAMPAGE##transverse colon##(37 years)##released##unreplicated##
+        track ENCSR688YRV
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/11/01/c7bade58-bd71-40ec-9957-80fb56d726db/ENCFF696JPZ.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_RAMPAGE_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR688YRV TARG=OC view=fFCOC
+
+
+        track ENCSR688YRV
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/11/01/ad6992e2-6012-40c6-8d45-75ff3408b50d/ENCFF778KDC.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_RAMPAGE_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR688YRV TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR297QGC/##RAMPAGE##transverse colon##(51 year)##released##unreplicated##
+        track ENCSR297QGC
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/11/01/ce8b8097-5c76-4234-ab35-30d60b6e38ef/ENCFF714RXF.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_RAMPAGE_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR297QGC TARG=OC view=fFCOC
+
+
+        track ENCSR297QGC
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/11/01/c495e06e-a29a-4832-9746-95876b233276/ENCFF878ZLW.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_RAMPAGE_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR297QGC TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR855GRG/##RAMPAGE##transverse colon##(53 years)##released##unreplicated##
+        track ENCSR855GRG
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/6484d008-5d9c-4fef-88fc-d606ade57a24/ENCFF914HNK.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_RAMPAGE_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR855GRG TARG=OC view=fFCOC
+
+
+        track ENCSR855GRG
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/7ae5aa4f-40e7-406e-814d-c55fed1609d1/ENCFF057UXI.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_RAMPAGE_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR855GRG TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR649WDK/##RAMPAGE##transverse colon##(54 years)##released##unreplicated##
+        track ENCSR649WDK
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/deda4e40-eac7-46f8-868d-ad43ece21507/ENCFF404BYY.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_RAMPAGE_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR649WDK TARG=OC view=fFCOC
+
+
+        track ENCSR649WDK
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/338aef6d-3cab-4de7-a4bd-31e030458646/ENCFF578PAO.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_RAMPAGE_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR649WDK TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR102CSD/##TF ChIP-seq_CTCF##transverse colon##(37 years)##released##unreplicated##
+        track ENCSR102CSD
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/214e7537-b64d-4b83-aaf3-d0b0170930e2/ENCFF653KIU.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_TF ChIP-seq_CTCF_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR102CSD TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR608WPS/##TF ChIP-seq_CTCF##transverse colon##(37 years)##released##isogenic##
+        track ENCSR608WPS
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/7399e165-e813-48b1-88fd-69524f37c359/ENCFF418KYU.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_TF ChIP-seq_CTCF_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR608WPS TARG=OC view=fFCOC
+
+
+        track ENCSR608WPS
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/6eb6a880-2225-4e4b-ba81-8ed64d2a86c9/ENCFF242VQV.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_TF ChIP-seq_CTCF_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR608WPS TARG=OC view=fFCOC
+
+
+        track ENCSR608WPS
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/219f0c98-b01b-49b0-865d-fa9c94fbb3fe/ENCFF879SPR.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_TF ChIP-seq_CTCF_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR608WPS TARG=OC view=fFCOC
+
+
+        track ENCSR608WPS
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/26/b984ad2a-0a3a-49c2-8a42-eb531a3ccbff/ENCFF117OCW.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_TF ChIP-seq_CTCF_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR608WPS TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR449SEF/##TF ChIP-seq_CTCF##transverse colon##(51 year)##released##isogenic##
+        track ENCSR449SEF
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/5fa3e734-b920-40ce-8338-3fe047855ca3/ENCFF709RNW.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_TF ChIP-seq_CTCF_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR449SEF TARG=OC view=fFCOC
+
+
+        track ENCSR449SEF
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/d375f908-8b21-4e90-9687-1f5a139253a6/ENCFF664AML.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_TF ChIP-seq_CTCF_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR449SEF TARG=OC view=fFCOC
+
+
+        track ENCSR449SEF
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/c9d55835-6f09-4c00-9d10-07831686f372/ENCFF439EFL.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_TF ChIP-seq_CTCF_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR449SEF TARG=OC view=fFCOC
+
+
+        track ENCSR449SEF
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/ff8b1b52-b168-45d3-9314-f32593ab95ed/ENCFF509URL.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_TF ChIP-seq_CTCF_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR449SEF TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR558HTE/##TF ChIP-seq_CTCF##transverse colon##(51 year)##released##unreplicated##
+        track ENCSR558HTE
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/d3843743-1a8f-433f-b74e-64d71d9e8f41/ENCFF748PHO.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_TF ChIP-seq_CTCF_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR558HTE TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR236YGF/##TF ChIP-seq_CTCF##transverse colon##(53 years)##released##isogenic##
+        track ENCSR236YGF
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/d01d8c1e-54f9-45a4-b2ab-a66e679bcf2c/ENCFF564FSI.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_TF ChIP-seq_CTCF_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR236YGF TARG=OC view=fFCOC
+
+
+        track ENCSR236YGF
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/c9c26c1d-630b-4974-a3ca-62737d08ff41/ENCFF715LIY.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_TF ChIP-seq_CTCF_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR236YGF TARG=OC view=fFCOC
+
+
+        track ENCSR236YGF
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/0b5f9abe-e465-4c66-b596-72e044a289c4/ENCFF790FAF.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_TF ChIP-seq_CTCF_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR236YGF TARG=OC view=fFCOC
+
+
+        track ENCSR236YGF
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/26/cf83b8ea-f0f1-4b3a-bca1-8ea7b1d15538/ENCFF975VDL.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_TF ChIP-seq_CTCF_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR236YGF TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR769WKR/##TF ChIP-seq_CTCF##transverse colon##(53 years)##released##unreplicated##
+        track ENCSR769WKR
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/808f575e-0cd7-4fce-be7a-6a1d72acdedd/ENCFF458ZYU.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_TF ChIP-seq_CTCF_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR769WKR TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR833FWC/##TF ChIP-seq_CTCF##transverse colon##(54 years)##released##unreplicated##
+        track ENCSR833FWC
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/12395ddb-a6f3-4005-b331-65e3e017561b/ENCFF007DYR.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_TF ChIP-seq_CTCF_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR833FWC TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR907BES/##TF ChIP-seq_CTCF##transverse colon##(54 years)##released##isogenic##
+        track ENCSR907BES
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/26/366fd637-2503-4290-98d9-cf4865af7fea/ENCFF991QOA.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_TF ChIP-seq_CTCF_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR907BES TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR429JTR/##TF ChIP-seq_EP300##transverse colon##(37 years)##released##unreplicated##
+        track ENCSR429JTR
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/06/15/d5bb0bff-1198-4fc1-8a40-14ed59d71ec9/ENCFF305XIN.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_TF ChIP-seq_EP300_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR429JTR TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR667UWT/##TF ChIP-seq_POLR2A##transverse colon##(37 years)##released##unreplicated##
+        track ENCSR667UWT
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/4ae5b8f5-de1a-4f54-9e71-33c925a4ac0d/ENCFF502AUB.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_TF ChIP-seq_POLR2A_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR667UWT TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR974HQI/##TF ChIP-seq_POLR2A##transverse colon##(51 year)##released##unreplicated##
+        track ENCSR974HQI
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/25110d1e-7ef9-429f-9dd7-7bbb42d1a485/ENCFF946YRI.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_TF ChIP-seq_POLR2A_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR974HQI TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR107EUS/##TF ChIP-seq_POLR2A##transverse colon##(53 years)##released##unreplicated##
+        track ENCSR107EUS
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/07/20/ba0b55a3-3b1e-41b8-9467-265ecabc7cc1/ENCFF795RWB.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_TF ChIP-seq_POLR2A_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR107EUS TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR132XRW/##TF ChIP-seq_POLR2A##transverse colon##(54 years)##released##unreplicated##
+        track ENCSR132XRW
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/11/605e6222-42f9-4055-be19-ae8d5e92fc9b/ENCFF757YCH.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_TF ChIP-seq_POLR2A_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR132XRW TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR930CPA/##TF ChIP-seq_POLR2AphosphoS5##transverse colon##(37 years)##released##unreplicated##
+        track ENCSR930CPA
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/06/17/e390deb7-ea56-4bb6-8ef4-cfd35d793ca9/ENCFF640OPA.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_TF ChIP-seq_POLR2AphosphoS5_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR930CPA TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR170NMC/##TF ChIP-seq_POLR2AphosphoS5##transverse colon##(51 year)##released##unreplicated##
+        track ENCSR170NMC
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/06/17/c80cbd3b-a04f-48bf-a286-f5133569f81e/ENCFF043ZLX.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_TF ChIP-seq_POLR2AphosphoS5_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR170NMC TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR714EQS/##TF ChIP-seq_POLR2AphosphoS5##transverse colon##(53 years)##released##unreplicated##
+        track ENCSR714EQS
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2017/06/17/93685422-b2b9-4973-b1ed-a957788e5024/ENCFF594BQL.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_TF ChIP-seq_POLR2AphosphoS5_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR714EQS TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR668FTZ/##WGBS##transverse colon##(53 years)##released##unreplicated##
+        #/experiments/ENCSR156JXJ/##WGBS##transverse colon##(54 years)##released##unreplicated##
+        #/experiments/ENCSR246MMZ/##genotyping HTS##transverse colon##(37 years)##released##unreplicated##
+        #/experiments/ENCSR410ALS/##genotyping HTS##transverse colon##(37 years)##released##unreplicated##
+        #/experiments/ENCSR420NDH/##genotyping HTS##transverse colon##(51 year)##released##unreplicated##
+        #/experiments/ENCSR456SNK/##genotyping HTS##transverse colon##(51 year)##released##unreplicated##
+        #/experiments/ENCSR664TEU/##genotyping HTS##transverse colon##(53 years)##in progress##unreplicated##
+        #/experiments/ENCSR961ZRM/##genotyping HTS##transverse colon##(53 years)##released##unreplicated##
+        #/experiments/ENCSR997HAI/##genotyping HTS##transverse colon##(53 years)##released##unreplicated##
+        #/experiments/ENCSR549QWF/##genotyping HTS##transverse colon##(54 years)##released##unreplicated##
+        #/experiments/ENCSR613XEH/##genotyping HTS##transverse colon##(54 years)##released##unreplicated##
+        #/experiments/ENCSR723PGJ/##genotyping HTS##transverse colon##(54 years)##in progress##unreplicated##
+        #/experiments/ENCSR411PDO/##genotyping array##transverse colon##(37 years)##released##unreplicated##
+        #/experiments/ENCSR449HXA/##genotyping array##transverse colon##(51 year)##released##unreplicated##
+        #/experiments/ENCSR366KJM/##genotyping array##transverse colon##(53 years)##released##unreplicated##
+        #/experiments/ENCSR453DBS/##genotyping array##transverse colon##(54 years)##released##unreplicated##
+        #/experiments/ENCSR525WFB/##small RNA-seq##transverse colon##(37 years)##released##unreplicated##
+        track ENCSR525WFB
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/4d0094ff-1610-4645-9440-08eb71adc84a/ENCFF814XUL.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_small RNA-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR525WFB TARG=OC view=fFCOC
+
+
+        track ENCSR525WFB
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/6eab2e28-ea13-471b-a75f-fdb102119a56/ENCFF987JWN.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_small RNA-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR525WFB TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR183YQY/##small RNA-seq##transverse colon##(51 year)##released##unreplicated##
+        track ENCSR183YQY
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/e951e14f-8a55-40c9-a8b7-20c98417cd06/ENCFF163YXB.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_small RNA-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR183YQY TARG=OC view=fFCOC
+
+
+        track ENCSR183YQY
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/33b04732-844b-48b4-af11-9bd67751d25e/ENCFF245TUH.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_small RNA-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR183YQY TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR316SXP/##small RNA-seq##transverse colon##(53 years)##released##unreplicated##
+        track ENCSR316SXP
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/6f62bc79-c967-456f-a521-5b88f1dae6cc/ENCFF172ABJ.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_small RNA-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR316SXP TARG=OC view=fFCOC
+
+
+        track ENCSR316SXP
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/cefc438a-5f42-4991-bcb6-e2a26a335f51/ENCFF023YNA.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_small RNA-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR316SXP TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR168XPO/##small RNA-seq##transverse colon##(54 years)##released##unreplicated##
+        track ENCSR168XPO
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/ef171c88-8601-43ad-b089-52eeab751807/ENCFF775WTW.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_small RNA-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR168XPO TARG=OC view=fFCOC
+
+
+        track ENCSR168XPO
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/05/02/67fd29ce-5dc8-4059-96bc-679435149885/ENCFF523YMH.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_small RNA-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR168XPO TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR506YMX/##snATAC-seq##transverse colon##(51 year)##in progress##unreplicated##
+        #/experiments/ENCSR007QIO/##snATAC-seq##transverse colon##(53 years)##in progress##unreplicated##
+        #/experiments/ENCSR349XKD/##snATAC-seq##transverse colon##(54 years)##in progress##unreplicated##
+        #/experiments/ENCSR653ZJF/##total RNA-seq##transverse colon##(37 years)##released##unreplicated##
+        track ENCSR653ZJF
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/ea70dbf9-03dc-4007-afa5-3e05295510d0/ENCFF528HFR.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_total RNA-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR653ZJF TARG=OC view=fFCOC
+
+
+        track ENCSR653ZJF
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/d224be81-8453-4f2e-9583-e348f53c6b73/ENCFF240QEU.bigWig
+        longLabel ZZ
+        shortLabel (37 years)_total RNA-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR653ZJF TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR403SZN/##total RNA-seq##transverse colon##(51 year)##released##unreplicated##
+        track ENCSR403SZN
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/8ebfaa10-ee35-4f0e-8e47-5a54553b2884/ENCFF850RSS.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_total RNA-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR403SZN TARG=OC view=fFCOC
+
+
+        track ENCSR403SZN
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/08/03/3a258984-17b8-4d4f-80e2-7bb6e27765e4/ENCFF419WFX.bigWig
+        longLabel ZZ
+        shortLabel (51 year)_total RNA-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR403SZN TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR800WIY/##total RNA-seq##transverse colon##(53 years)##released##unreplicated##
+        track ENCSR800WIY
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/02/17/653daa50-0efb-4e78-acbb-251a74bee92b/ENCFF351UZL.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_total RNA-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR800WIY TARG=OC view=fFCOC
+
+
+        track ENCSR800WIY
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/02/17/1d607615-3674-49cf-8b0a-2b3623786bbd/ENCFF656MVW.bigWig
+        longLabel ZZ
+        shortLabel (53 years)_total RNA-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR800WIY TARG=OC view=fFCOC
+
+
+        #/experiments/ENCSR630VJN/##total RNA-seq##transverse colon##(54 years)##released##unreplicated##
+        track ENCSR630VJN
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/02/17/06d01284-9324-47f2-9963-70be9ff366bb/ENCFF428MEL.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_total RNA-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR630VJN TARG=OC view=fFCOC
+
+
+        track ENCSR630VJN
+        parent hist_fFCOC_view on
+        bigDataUrl https://encode-public.s3.amazonaws.com/2016/02/17/ee77d384-574d-4cc9-b875-c033af8aa5d4/ENCFF715DRI.bigWig
+        longLabel ZZ
+        shortLabel (54 years)_total RNA-seq_transverse colon
+        type bigWig
+        color 214,0,0
+        altColor 214,79,79
+        subGroups BS=transverse colon EXP=ENCSR630VJN TARG=OC view=fFCOC
 
 
 track dnase
