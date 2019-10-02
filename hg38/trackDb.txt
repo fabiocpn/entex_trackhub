@@ -1,4 +1,3 @@
-
 track ENC003
 compositeTrack on
 type bigWig
@@ -11,9 +10,8 @@ subGroup1 view Views ENC003ATAC-seq=ENC003ATAC-seq ENC001ATAC-seq=ENC001ATAC-seq
 subGroup2 BS Biosample Peyers_patch=Peyers_patch adrenal_gland=adrenal_gland body_of_pancreas=body_of_pancreas breast_epithelium=breast_epithelium coronary_artery=coronary_artery esophagus_muscularis_mucosa=esophagus_muscularis_mucosa esophagus_squamous_epithelium=esophagus_squamous_epithelium gastrocnemius_medialis=gastrocnemius_medialis gastroesophageal_sphincter=gastroesophageal_sphincter heart_left_ventricle=heart_left_ventricle omental_fat_pad=omental_fat_pad ovary=ovary prostate_gland=prostate_gland right_atrium_auricular_region=right_atrium_auricular_region right_lobe_of_liver=right_lobe_of_liver sigmoid_colon=sigmoid_colon spleen=spleen stomach=stomach subcutaneous_adipose_tissue=subcutaneous_adipose_tissue testis=testis thoracic_aorta=thoracic_aorta thyroid_gland=thyroid_gland tibial_artery=tibial_artery tibial_nerve=tibial_nerve transverse_colon=transverse_colon ascending_aorta=ascending_aorta lower_leg_skin=lower_leg_skin suprapubic_skin=suprapubic_skin upper_lobe_of_left_lung=upper_lobe_of_left_lung uterus=uterus vagina=vagina 
 subGroup3 IND Individuals ENC003=ENC003 ENC001=ENC001 ENC004=ENC004 ENC002=ENC002 
 
-subGroup3 TARG Targets H3K27ac=H3K27ac H3K27me3=H3K27me3 H3K36me3=H3K36me3 H3K4me1=H3K4me1 H3K4me3=H3K4me3 H3K9me3=H3K9me3
-sortOrder BS=+ TARG=+ REP=+ view=+ EXP=+
-dimensions dimA=REP dimX=TARG dimY=BS
+sortOrder BS=+ IND=+ view=+
+dimensions dimA=IND dimX=BS dimY=view
 dimensionAchecked pool
     track ENC003Histone_ChIP-seq_H3K4me1_view
     parent ENC003 on
@@ -483,9 +481,8 @@ subGroup1 view Views ENC003ATAC-seq=ENC003ATAC-seq ENC001ATAC-seq=ENC001ATAC-seq
 subGroup2 BS Biosample Peyers_patch=Peyers_patch adrenal_gland=adrenal_gland body_of_pancreas=body_of_pancreas breast_epithelium=breast_epithelium coronary_artery=coronary_artery esophagus_muscularis_mucosa=esophagus_muscularis_mucosa esophagus_squamous_epithelium=esophagus_squamous_epithelium gastrocnemius_medialis=gastrocnemius_medialis gastroesophageal_sphincter=gastroesophageal_sphincter heart_left_ventricle=heart_left_ventricle omental_fat_pad=omental_fat_pad ovary=ovary prostate_gland=prostate_gland right_atrium_auricular_region=right_atrium_auricular_region right_lobe_of_liver=right_lobe_of_liver sigmoid_colon=sigmoid_colon spleen=spleen stomach=stomach subcutaneous_adipose_tissue=subcutaneous_adipose_tissue testis=testis thoracic_aorta=thoracic_aorta thyroid_gland=thyroid_gland tibial_artery=tibial_artery tibial_nerve=tibial_nerve transverse_colon=transverse_colon ascending_aorta=ascending_aorta lower_leg_skin=lower_leg_skin suprapubic_skin=suprapubic_skin upper_lobe_of_left_lung=upper_lobe_of_left_lung uterus=uterus vagina=vagina 
 subGroup3 IND Individuals ENC003=ENC003 ENC001=ENC001 ENC004=ENC004 ENC002=ENC002 
 
-subGroup3 TARG Targets H3K27ac=H3K27ac H3K27me3=H3K27me3 H3K36me3=H3K36me3 H3K4me1=H3K4me1 H3K4me3=H3K4me3 H3K9me3=H3K9me3
-sortOrder BS=+ TARG=+ REP=+ view=+ EXP=+
-dimensions dimA=REP dimX=TARG dimY=BS
+sortOrder BS=+ IND=+ view=+
+dimensions dimA=IND dimX=BS dimY=view
 dimensionAchecked pool
     track ENC001Histone_ChIP-seq_H3K4me1_view
     parent ENC001 on
@@ -913,9 +910,8 @@ subGroup1 view Views ENC003ATAC-seq=ENC003ATAC-seq ENC001ATAC-seq=ENC001ATAC-seq
 subGroup2 BS Biosample Peyers_patch=Peyers_patch adrenal_gland=adrenal_gland body_of_pancreas=body_of_pancreas breast_epithelium=breast_epithelium coronary_artery=coronary_artery esophagus_muscularis_mucosa=esophagus_muscularis_mucosa esophagus_squamous_epithelium=esophagus_squamous_epithelium gastrocnemius_medialis=gastrocnemius_medialis gastroesophageal_sphincter=gastroesophageal_sphincter heart_left_ventricle=heart_left_ventricle omental_fat_pad=omental_fat_pad ovary=ovary prostate_gland=prostate_gland right_atrium_auricular_region=right_atrium_auricular_region right_lobe_of_liver=right_lobe_of_liver sigmoid_colon=sigmoid_colon spleen=spleen stomach=stomach subcutaneous_adipose_tissue=subcutaneous_adipose_tissue testis=testis thoracic_aorta=thoracic_aorta thyroid_gland=thyroid_gland tibial_artery=tibial_artery tibial_nerve=tibial_nerve transverse_colon=transverse_colon ascending_aorta=ascending_aorta lower_leg_skin=lower_leg_skin suprapubic_skin=suprapubic_skin upper_lobe_of_left_lung=upper_lobe_of_left_lung uterus=uterus vagina=vagina 
 subGroup3 IND Individuals ENC003=ENC003 ENC001=ENC001 ENC004=ENC004 ENC002=ENC002 
 
-subGroup3 TARG Targets H3K27ac=H3K27ac H3K27me3=H3K27me3 H3K36me3=H3K36me3 H3K4me1=H3K4me1 H3K4me3=H3K4me3 H3K9me3=H3K9me3
-sortOrder BS=+ TARG=+ REP=+ view=+ EXP=+
-dimensions dimA=REP dimX=TARG dimY=BS
+sortOrder BS=+ IND=+ view=+
+dimensions dimA=IND dimX=BS dimY=view
 dimensionAchecked pool
     track ENC004ATAC-seq_view
     parent ENC004 on
@@ -1323,9 +1319,8 @@ subGroup1 view Views ENC003ATAC-seq=ENC003ATAC-seq ENC001ATAC-seq=ENC001ATAC-seq
 subGroup2 BS Biosample Peyers_patch=Peyers_patch adrenal_gland=adrenal_gland body_of_pancreas=body_of_pancreas breast_epithelium=breast_epithelium coronary_artery=coronary_artery esophagus_muscularis_mucosa=esophagus_muscularis_mucosa esophagus_squamous_epithelium=esophagus_squamous_epithelium gastrocnemius_medialis=gastrocnemius_medialis gastroesophageal_sphincter=gastroesophageal_sphincter heart_left_ventricle=heart_left_ventricle omental_fat_pad=omental_fat_pad ovary=ovary prostate_gland=prostate_gland right_atrium_auricular_region=right_atrium_auricular_region right_lobe_of_liver=right_lobe_of_liver sigmoid_colon=sigmoid_colon spleen=spleen stomach=stomach subcutaneous_adipose_tissue=subcutaneous_adipose_tissue testis=testis thoracic_aorta=thoracic_aorta thyroid_gland=thyroid_gland tibial_artery=tibial_artery tibial_nerve=tibial_nerve transverse_colon=transverse_colon ascending_aorta=ascending_aorta lower_leg_skin=lower_leg_skin suprapubic_skin=suprapubic_skin upper_lobe_of_left_lung=upper_lobe_of_left_lung uterus=uterus vagina=vagina 
 subGroup3 IND Individuals ENC003=ENC003 ENC001=ENC001 ENC004=ENC004 ENC002=ENC002 
 
-subGroup3 TARG Targets H3K27ac=H3K27ac H3K27me3=H3K27me3 H3K36me3=H3K36me3 H3K4me1=H3K4me1 H3K4me3=H3K4me3 H3K9me3=H3K9me3
-sortOrder BS=+ TARG=+ REP=+ view=+ EXP=+
-dimensions dimA=REP dimX=TARG dimY=BS
+sortOrder BS=+ IND=+ view=+
+dimensions dimA=IND dimX=BS dimY=view
 dimensionAchecked pool
     track ENC002DNase-seq_view
     parent ENC002 on
