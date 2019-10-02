@@ -23,7 +23,7 @@ dimensionAchecked pool
     visibility dense
     autoScale on
 
-        track ENCSR659RJP4_2
+        track ENCSR659RJP42
         parent Histone_ChIP-seq_H3K4me1_view on
         bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/226bd77c-d3d9-4abb-bf55-8b6672fae83a/ENCFF884LNY.bigWig
         longLabel Histone_ChIP-seq_H3K4me1 assay performed on spleen from ENC003
@@ -33,7 +33,7 @@ dimensionAchecked pool
         altColor 214,79,79
         subGroups BS=spleen EXP=ENCSR659RJP4 TARG=OC view=Histone_ChIP-seq_H3K4me1
 
-        track ENCSR659RJP1_2
+        track ENCSR659RJP12
         parent Histone_ChIP-seq_H3K4me1_view on
         bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/9f8a81b4-43ed-4b89-a120-e8502e65a7ec/ENCFF179TJW.bigWig
         longLabel Histone_ChIP-seq_H3K4me1 assay performed on spleen from ENC003
