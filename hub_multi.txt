@@ -1,0 +1,5 @@
+hub ENTEx
+shortLabel ENTEx
+longLabel ENCODE EN-TEx assays 
+genomesFile genomes_multi.txt
+email fabio.navarro@yale.edu
