@@ -1,12 +1,9 @@
 	track Histone_ChIP-seq_H3K27ac_view
-	view Histone_ChIP-seq_H3K27ac
 	container multiWig
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
 	type bigWig
 	visibility hide
-	autoScale on
-
 
 		track ENCSR771YJT1
 		parent Histone_ChIP-seq_H3K27ac_view on
@@ -14,9 +11,8 @@
 		longLabel Histone_ChIP-seq_H3K27ac assay performed on tibial_nerve from ENC003
 		shortLabel Histone_ChIP-seq_H3K27ac_tibial_nerve
 		type bigWig
-		color 255,215,0
+		color 255,123,123
 		altColor 214,79,79
-		subGroups BS=tibial_nerve EXP=ENCSR771YJT1 IND=ENC003 view=ENC003Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
 
 		track ENCSR516LQO1
 		parent Histone_ChIP-seq_H3K27ac_view on
@@ -24,9 +20,8 @@
 		longLabel Histone_ChIP-seq_H3K27ac assay performed on tibial_nerve from ENC001
 		shortLabel Histone_ChIP-seq_H3K27ac_tibial_nerve
 		type bigWig
-		color 255,215,0
+		color 123,123,255
 		altColor 214,79,79
-		subGroups BS=tibial_nerve EXP=ENCSR516LQO1 IND=ENC001 view=ENC001Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
 
 		track ENCSR778QHG1
 		parent Histone_ChIP-seq_H3K27ac_view on
@@ -34,9 +29,8 @@
 		longLabel Histone_ChIP-seq_H3K27ac assay performed on tibial_nerve from ENC004
 		shortLabel Histone_ChIP-seq_H3K27ac_tibial_nerve
 		type bigWig
-		color 255,215,0
+		color 255,82,82
 		altColor 214,79,79
-		subGroups BS=tibial_nerve EXP=ENCSR778QHG1 IND=ENC004 view=ENC004Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
 
 		track ENCSR091KXI1
 		parent Histone_ChIP-seq_H3K27ac_view on
@@ -44,7 +38,6 @@
 		longLabel Histone_ChIP-seq_H3K27ac assay performed on tibial_nerve from ENC002
 		shortLabel Histone_ChIP-seq_H3K27ac_tibial_nerve
 		type bigWig
-		color 255,215,0
+		color 82,82,255
 		altColor 214,79,79
-		subGroups BS=tibial_nerve EXP=ENCSR091KXI1 IND=ENC002 view=ENC002Histone_ChIP-seq_H3K27ac assay=Histone_ChIP-seq_H3K27ac
 
