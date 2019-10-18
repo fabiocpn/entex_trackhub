@@ -1,12 +1,713 @@
-	track tibial_nerve_Histone_ChIP-seq_H3K27ac_view
+	track Peyers_patch_Histone_ChIP-seq_H3K27ac_view
 	container multiWig
 	longLabel Collection of ENTEx data for ENTEx
-	shortLabel ENTEx
+	shortLabel Peyers_patch_Histone_ChIP-seq_H3K27ac
 	visibility full
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
 	type bigWig
 	visibility full
+	autoScale on
+
+
+		track ENCSR758KRK1
+		parent Peyers_patch_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/02/11/eb01ce4d-36e4-4666-b73a-b62c8c3ef300/ENCFF809KHC.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on Peyers_patch from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_Peyers_patch
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR837SGJ1
+		parent Peyers_patch_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/c30a71a4-aa5c-48ee-a19f-a86dcbbec1f6/ENCFF859ITG.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on Peyers_patch from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_Peyers_patch
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track adrenal_gland_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel adrenal_gland_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR177QFY1
+		parent adrenal_gland_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2016/10/29/d48e49c4-686c-40b6-971f-d4288c028599/ENCFF952DNS.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on adrenal_gland from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_adrenal_gland
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR177QFY2
+		parent adrenal_gland_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2016/10/29/1e157e87-05ed-496f-8caf-8479795c599e/ENCFF717QEU.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on adrenal_gland from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_adrenal_gland
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR177QFY3
+		parent adrenal_gland_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2016/10/29/21ac9a18-f346-4698-ba6b-7b29e5496dd7/ENCFF824FEH.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on adrenal_gland from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_adrenal_gland
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR189QAD1
+		parent adrenal_gland_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/04/06/117450bb-699d-4b66-af35-fbc7465c67cb/ENCFF024VVX.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on adrenal_gland from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_adrenal_gland
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track body_of_pancreas_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel body_of_pancreas_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR596PFU1
+		parent body_of_pancreas_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/87290765-411d-4f53-85dc-b1342a9e67ca/ENCFF548KBM.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on body_of_pancreas from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_body_of_pancreas
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR748TFF1
+		parent body_of_pancreas_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/804920e8-6854-4d3a-81a8-69b91ff1d32f/ENCFF411PEL.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on body_of_pancreas from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_body_of_pancreas
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track breast_epithelium_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel breast_epithelium_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR034ZKE1
+		parent breast_epithelium_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/7f3a8234-6a3f-49fe-bcae-2c0ef2126b47/ENCFF766AYD.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on breast_epithelium from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_breast_epithelium
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track coronary_artery_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel coronary_artery_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR443UYU1
+		parent coronary_artery_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/c6b38f67-aa1b-46c7-b475-22b0dc1f8dd0/ENCFF970RKM.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on coronary_artery from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_coronary_artery
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track esophagus_muscularis_mucosa_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel esophagus_muscularis_mucosa_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR705BTW1
+		parent esophagus_muscularis_mucosa_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/27a11cc1-5343-45b3-90d0-d42bef35c5c0/ENCFF623KGW.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on esophagus_muscularis_mucosa from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_esophagus_muscularis_mucosa
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR095YMD1
+		parent esophagus_muscularis_mucosa_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/4c3932d1-6621-413c-b6fb-9482ccb6642d/ENCFF883NAP.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on esophagus_muscularis_mucosa from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_esophagus_muscularis_mucosa
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track esophagus_squamous_epithelium_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel esophagus_squamous_epithelium_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR463NAD1
+		parent esophagus_squamous_epithelium_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/02/11/b472d292-e82b-429f-ab65-4b63724f1536/ENCFF236NHF.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on esophagus_squamous_epithelium from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_esophagus_squamous_epithelium
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR909UAG1
+		parent esophagus_squamous_epithelium_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/64a7a2d1-e5f1-4c35-9466-52d439168540/ENCFF511QGD.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on esophagus_squamous_epithelium from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_esophagus_squamous_epithelium
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track gastrocnemius_medialis_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel gastrocnemius_medialis_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR948YYZ1
+		parent gastrocnemius_medialis_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2016/10/30/c7991e82-b7e5-413e-b1b0-e7e729bbd2d3/ENCFF427NIA.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on gastrocnemius_medialis from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_gastrocnemius_medialis
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR948YYZ2
+		parent gastrocnemius_medialis_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2016/10/30/99c3a517-5a57-4eb7-9486-9e92d749fb6c/ENCFF611MQB.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on gastrocnemius_medialis from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_gastrocnemius_medialis
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR948YYZ3
+		parent gastrocnemius_medialis_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2016/10/30/0c1f8466-c194-4daf-acab-4499ca548031/ENCFF360XRD.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on gastrocnemius_medialis from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_gastrocnemius_medialis
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR736ALU1
+		parent gastrocnemius_medialis_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/01/28/89c4f5be-4a6c-4803-aa25-72fe3528ae1f/ENCFF786LEX.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on gastrocnemius_medialis from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_gastrocnemius_medialis
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+		track ENCSR736ALU3
+		parent gastrocnemius_medialis_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/01/28/b19bdec6-7327-4976-b360-71993d9684f9/ENCFF208VLV.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on gastrocnemius_medialis from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_gastrocnemius_medialis
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+		track ENCSR736ALU2
+		parent gastrocnemius_medialis_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/01/28/da2619f0-6d2a-493d-b375-7845ab9a14fe/ENCFF513EIF.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on gastrocnemius_medialis from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_gastrocnemius_medialis
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track gastroesophageal_sphincter_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel gastroesophageal_sphincter_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR195JWZ1
+		parent gastroesophageal_sphincter_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/02/11/96f4809f-e509-4cab-b2a7-0a80afa2e520/ENCFF231NAY.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on gastroesophageal_sphincter from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_gastroesophageal_sphincter
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR677LBH1
+		parent gastroesophageal_sphincter_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/3a270a3a-44fd-44c9-9525-68f778400911/ENCFF219UQX.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on gastroesophageal_sphincter from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_gastroesophageal_sphincter
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track heart_left_ventricle_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel heart_left_ventricle_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR854OXF1
+		parent heart_left_ventricle_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/7a6bc238-de01-4db1-84f8-2fbd1b8c6f12/ENCFF491UMQ.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on heart_left_ventricle from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_heart_left_ventricle
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track prostate_gland_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel prostate_gland_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR763IDK4
+		parent prostate_gland_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/26/bd239dd8-3094-4d02-beb2-5179eed83461/ENCFF589HRX.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on prostate_gland from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_prostate_gland
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR763IDK1
+		parent prostate_gland_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/09/534f2e6a-bf86-4d51-b1ae-84208df36d3d/ENCFF239GED.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on prostate_gland from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_prostate_gland
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR763IDK3
+		parent prostate_gland_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/09/755a8ad5-f3c9-40ef-8622-d41efe9d43d0/ENCFF112RYU.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on prostate_gland from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_prostate_gland
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR763IDK2
+		parent prostate_gland_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/09/856f45da-3b44-4940-9dcb-54b447a42231/ENCFF208QWF.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on prostate_gland from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_prostate_gland
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+	track right_atrium_auricular_region_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel right_atrium_auricular_region_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR593KDJ1
+		parent right_atrium_auricular_region_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/04/06/128901bb-77ae-40c0-af21-042d4258ea4f/ENCFF880HJF.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on right_atrium_auricular_region from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_right_atrium_auricular_region
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track right_lobe_of_liver_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel right_lobe_of_liver_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR981UJA3
+		parent right_lobe_of_liver_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2016/11/15/451d7ccf-ed7d-47de-8db0-5cc6685268f4/ENCFF202GLA.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on right_lobe_of_liver from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_right_lobe_of_liver
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+		track ENCSR981UJA2
+		parent right_lobe_of_liver_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2016/11/15/54b0fa00-c8fe-4198-9b2d-f97a9cf98924/ENCFF035NGT.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on right_lobe_of_liver from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_right_lobe_of_liver
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+		track ENCSR981UJA1
+		parent right_lobe_of_liver_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2016/11/15/ca7b6fdb-d001-4d88-b061-91c5cfa67e98/ENCFF159NNO.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on right_lobe_of_liver from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_right_lobe_of_liver
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track sigmoid_colon_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel sigmoid_colon_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR937EVN1
+		parent sigmoid_colon_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/07/24/28ed51ae-eae4-4c0c-96ba-9ea872da6cc2/ENCFF372UBP.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on sigmoid_colon from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_sigmoid_colon
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR268ZCF1
+		parent sigmoid_colon_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/9e6fa451-5cc8-419f-9347-63bf6306e7a6/ENCFF544HBF.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on sigmoid_colon from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_sigmoid_colon
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track spleen_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel spleen_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR593INW1
+		parent spleen_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/c11e8e7c-90e9-4b07-b586-c3c370169cee/ENCFF165FQI.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_spleen
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR593INW2
+		parent spleen_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/db16e3d3-35f9-414b-9b4d-85ab78cb65ce/ENCFF405BPU.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_spleen
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR593INW3
+		parent spleen_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/0f45fb2b-309a-4e8a-b060-e3d4a6a9efc2/ENCFF439NXI.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_spleen
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR726HTS3
+		parent spleen_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/3dc3d674-f93f-423c-b50d-3e07f4ce7170/ENCFF326FRV.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_spleen
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+		track ENCSR726HTS2
+		parent spleen_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/a942afed-6587-48da-90fb-2c1b23a308ec/ENCFF605NMM.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_spleen
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+		track ENCSR726HTS1
+		parent spleen_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/0f618576-ca9e-49bd-8623-aea8c1e29f0d/ENCFF812BTH.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_spleen
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+		track ENCSR726HTS4
+		parent spleen_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/aff755ea-792c-4e2e-82ba-33c1fce7a804/ENCFF066DSD.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on spleen from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_spleen
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track stomach_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel stomach_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR204OJS1
+		parent stomach_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/02/11/58075b7f-a120-49ec-abd0-14dd2481bf9e/ENCFF259VRN.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on stomach from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_stomach
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR133NBJ1
+		parent stomach_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/e2d09a2a-ae0c-4c56-bbcf-a1ef155c22c8/ENCFF026WLD.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on stomach from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_stomach
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track testis_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel testis_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR954IGQ1
+		parent testis_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/07/24/39b8deb9-86bb-458f-995c-badc60c31d8b/ENCFF476NLJ.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on testis from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_testis
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+	track thoracic_aorta_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel thoracic_aorta_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR318HUC1
+		parent thoracic_aorta_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/04/06/6e67686a-b869-4fc0-a07c-dd401e7dc967/ENCFF721SMI.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on thoracic_aorta from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_thoracic_aorta
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+	track thyroid_gland_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel thyroid_gland_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR203KCB1
+		parent thyroid_gland_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2016/10/29/43f966d2-c704-4a16-b6d6-b68d561c5c9c/ENCFF898BRD.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on thyroid_gland from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_thyroid_gland
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR203KCB2
+		parent thyroid_gland_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2016/10/29/ee3b0724-48f9-4d7c-8b36-558eb2ce822b/ENCFF266BNR.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on thyroid_gland from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_thyroid_gland
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR203KCB3
+		parent thyroid_gland_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2016/10/29/42346203-fd78-4985-8c37-d122a6090a31/ENCFF331NIO.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on thyroid_gland from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_thyroid_gland
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR716FUH1
+		parent thyroid_gland_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/04/05/8333d3de-c5c8-4414-9112-d324ed02301b/ENCFF674SKA.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on thyroid_gland from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_thyroid_gland
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track tibial_artery_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel tibial_artery_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR535GFO2
+		parent tibial_artery_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2018/06/19/af207a74-5bdb-4904-b949-37af92a3111d/ENCFF891WET.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on tibial_artery from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_tibial_artery
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR535GFO3
+		parent tibial_artery_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2018/06/19/4a5a6340-3220-464b-a711-921e83e094eb/ENCFF736WRB.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on tibial_artery from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_tibial_artery
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR535GFO1
+		parent tibial_artery_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2018/06/19/b750f813-dede-46f9-8e68-0cd3bd79add4/ENCFF115MXG.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on tibial_artery from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_tibial_artery
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+	track tibial_nerve_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel tibial_nerve_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
 
 		track ENCSR091KXI1
 		parent tibial_nerve_Histone_ChIP-seq_H3K27ac_view on
@@ -29,12 +730,14 @@
 	track transverse_colon_Histone_ChIP-seq_H3K27ac_view
 	container multiWig
 	longLabel Collection of ENTEx data for ENTEx
-	shortLabel ENTEx
+	shortLabel transverse_colon_Histone_ChIP-seq_H3K27ac
 	visibility full
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
 	type bigWig
 	visibility full
+	autoScale on
+
 
 		track ENCSR069EGE1
 		parent transverse_colon_Histone_ChIP-seq_H3K27ac_view on
@@ -77,6 +780,144 @@
 		bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/b8a701d7-c9cf-4d62-adc0-c780d08a3091/ENCFF780SLS.bigWig
 		longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC003
 		shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track ascending_aorta_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel ascending_aorta_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR069UMW1
+		parent ascending_aorta_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/c3d38433-c48e-4be4-a395-b47aea30a36b/ENCFF651IGX.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on ascending_aorta from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_ascending_aorta
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track upper_lobe_of_left_lung_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel upper_lobe_of_left_lung_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR948TOS1
+		parent upper_lobe_of_left_lung_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/6b7d4fd8-c4d7-4412-8883-076ef8be125f/ENCFF579DWL.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on upper_lobe_of_left_lung from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_upper_lobe_of_left_lung
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR738SXD1
+		parent upper_lobe_of_left_lung_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/2c210bf1-c7f0-45a4-9861-959f2945ef7f/ENCFF870RAN.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on upper_lobe_of_left_lung from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_upper_lobe_of_left_lung
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track uterus_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel uterus_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR249INE4
+		parent uterus_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/515ae7db-819f-4a56-ba52-65e8e1aa7408/ENCFF313JOE.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on uterus from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_uterus
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+		track ENCSR249INE1
+		parent uterus_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2018/02/24/0bbaa89d-b385-4012-b665-863540e0eccd/ENCFF125GUA.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on uterus from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_uterus
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+		track ENCSR249INE2
+		parent uterus_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2018/02/24/0aa234b7-249a-40f1-81f7-554fcb4bd796/ENCFF280YNM.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on uterus from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_uterus
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+		track ENCSR249INE3
+		parent uterus_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2018/02/24/0402b28d-613c-408e-8f00-38caf9fb36ad/ENCFF343NAL.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on uterus from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_uterus
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+	track vagina_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel vagina_Histone_ChIP-seq_H3K27ac
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
+	autoScale on
+
+
+		track ENCSR718BTD3
+		parent vagina_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/02/01/b1fa783f-8c2e-4aa6-8735-e8ed0c26cf47/ENCFF035ZNG.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on vagina from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_vagina
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+		track ENCSR718BTD2
+		parent vagina_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/02/01/8e5e876f-673b-40c7-980b-07f6b45e5374/ENCFF697NXL.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on vagina from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_vagina
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+		track ENCSR718BTD1
+		parent vagina_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/02/01/45e9d3b5-97db-42fa-bd1a-e1ee84df3554/ENCFF506DOC.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on vagina from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_vagina
 		type bigWig
 		color 255,123,123
 		altColor 214,79,79
