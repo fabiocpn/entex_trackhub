@@ -1,4 +1,4 @@
-	track Histone_ChIP-seq_H3K27ac_view
+	track tibial_nerve_Histone_ChIP-seq_H3K27ac_view
 	container multiWig
 	longLabel Collection of ENTEx data for ENTEx
 	shortLabel ENTEx
@@ -6,10 +6,19 @@
 	aggregate transparentOverlay
 	showSubtrackColorOnUi on
 	type bigWig
-	visibility hide
+	visibility full
+
+		track ENCSR091KXI1
+		parent tibial_nerve_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/02/11/299f8adc-b8ae-4066-a994-3bd413ca3da0/ENCFF253OQB.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on tibial_nerve from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_tibial_nerve
+		type bigWig
+		color 82,82,255
+		altColor 214,79,79
 
 		track ENCSR771YJT1
-		parent Histone_ChIP-seq_H3K27ac_view on
+		parent tibial_nerve_Histone_ChIP-seq_H3K27ac_view on
 		bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/56da7b00-f7f2-4ac2-b01d-d4d73476e694/ENCFF420PYG.bigWig
 		longLabel Histone_ChIP-seq_H3K27ac assay performed on tibial_nerve from ENC003
 		shortLabel Histone_ChIP-seq_H3K27ac_tibial_nerve
@@ -17,30 +26,58 @@
 		color 255,123,123
 		altColor 214,79,79
 
-		track ENCSR516LQO1
-		parent Histone_ChIP-seq_H3K27ac_view on
-		bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/d764bbe1-2de3-48d1-9d47-0dd0cde5f8f8/ENCFF574FEG.bigWig
-		longLabel Histone_ChIP-seq_H3K27ac assay performed on tibial_nerve from ENC001
-		shortLabel Histone_ChIP-seq_H3K27ac_tibial_nerve
-		type bigWig
-		color 123,123,255
-		altColor 214,79,79
+	track transverse_colon_Histone_ChIP-seq_H3K27ac_view
+	container multiWig
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel ENTEx
+	visibility full
+	aggregate transparentOverlay
+	showSubtrackColorOnUi on
+	type bigWig
+	visibility full
 
-		track ENCSR778QHG1
-		parent Histone_ChIP-seq_H3K27ac_view on
-		bigDataUrl https://encode-public.s3.amazonaws.com/2018/12/07/85ac19c4-e4fc-40af-8b11-1bfd8df46394/ENCFF134BMY.bigWig
-		longLabel Histone_ChIP-seq_H3K27ac assay performed on tibial_nerve from ENC004
-		shortLabel Histone_ChIP-seq_H3K27ac_tibial_nerve
-		type bigWig
-		color 255,82,82
-		altColor 214,79,79
-
-		track ENCSR091KXI1
-		parent Histone_ChIP-seq_H3K27ac_view on
-		bigDataUrl https://encode-public.s3.amazonaws.com/2019/02/11/299f8adc-b8ae-4066-a994-3bd413ca3da0/ENCFF253OQB.bigWig
-		longLabel Histone_ChIP-seq_H3K27ac assay performed on tibial_nerve from ENC002
-		shortLabel Histone_ChIP-seq_H3K27ac_tibial_nerve
+		track ENCSR069EGE1
+		parent transverse_colon_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/08/26/4b42c972-5e39-41f9-be5d-f85abb3f1689/ENCFF604LTF.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC002
+		shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
 		type bigWig
 		color 82,82,255
+		altColor 214,79,79
+
+		track ENCSR208QRN4
+		parent transverse_colon_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/3dde96b4-4373-49db-8a79-31d7028faecd/ENCFF103SZL.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+		track ENCSR208QRN1
+		parent transverse_colon_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2017/03/21/6ffae5c6-3146-4f05-972d-4c33810a6698/ENCFF083BTK.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+		track ENCSR208QRN2
+		parent transverse_colon_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/b8ca2968-902d-470d-810b-aa63d40a3d6c/ENCFF354KXB.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+		type bigWig
+		color 255,123,123
+		altColor 214,79,79
+
+		track ENCSR208QRN3
+		parent transverse_colon_Histone_ChIP-seq_H3K27ac_view on
+		bigDataUrl https://encode-public.s3.amazonaws.com/2019/09/07/b8a701d7-c9cf-4d62-adc0-c780d08a3091/ENCFF780SLS.bigWig
+		longLabel Histone_ChIP-seq_H3K27ac assay performed on transverse_colon from ENC003
+		shortLabel Histone_ChIP-seq_H3K27ac_transverse_colon
+		type bigWig
+		color 255,123,123
 		altColor 214,79,79
 
