@@ -1,6 +1,9 @@
 	track Histone_ChIP-seq_H3K27ac_view
 	container multiWig
-longLabel Collection of ENTEx data for ENTExshortLabel ENTEx visibility full	aggregate transparentOverlay
+	longLabel Collection of ENTEx data for ENTEx
+	shortLabel ENTEx
+	visibility full
+	aggregate transparentOverlay
 	showSubtrackColorOnUi on
 	type bigWig
 	visibility hide
